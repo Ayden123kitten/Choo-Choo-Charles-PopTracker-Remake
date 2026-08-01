@@ -1,0 +1,371 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Green Egg",
+    "type": "toggle",
+    "img": "images/items/green.png",
+    "codes": "green_egg"
+  },
+  {
+    "name": "Blue Egg",
+    "type": "toggle",
+    "img": "images/items/blue.png",
+    "codes": "blue_egg"
+  },
+  {
+    "name": "Red Egg",
+    "type": "toggle",
+    "img": "images/items/red.png",
+    "codes": "red_egg"
+  },
+  {
+    "name": "Lockpicks",
+    "type": "toggle",
+    "img": "images/items/lockpicks.png",
+    "codes": "lockpicks"
+  },
+  {
+    "name": "Temple key",
+    "type": "toggle",
+    "img": "images/items/templekey.png",
+    "codes": "temple_key"
+  },
+  {
+    "name": "South mine key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "south_mine_key"
+  },
+  {
+    "name": "North mine key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "north_mine_key"
+  },
+  {
+    "name": "Mountain ruin key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "mountain_ruin_key"
+  },
+  {
+    "name": "Barn key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "barn_key"
+  },
+  {
+    "name": "Candice key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "candice_key"
+  },
+  {
+    "name": "Mob camp key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "mob_camp_key"
+  },
+  {
+    "name": "Employee Contracts",
+    "type": "toggle",
+    "img": "images/items/contracts.png",
+    "codes": "contracts"
+  },
+  {
+    "name": "Tablet",
+    "type": "toggle",
+    "img": "images/items/tablet.png",
+    "codes": "tablet"
+  },
+  {
+    "name": "Pages",
+    "type": "consumable",
+    "img": "images/items/page.png",
+    "codes": "page",  
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Breakers",
+    "type": "consumable",
+    "img": "images/items/breaker.png",
+    "codes": "breaker",  
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Dead Fish",
+    "type": "toggle",
+    "img": "images/items/fish.png",
+    "codes": "fish"
+  },
+  {
+    "name": "Pickles",
+    "type": "toggle",
+    "img": "images/items/pickles.png",
+    "codes": "pickles"
+  },
+  {
+    "name": "Broken bob",
+    "type": "toggle",
+    "img": "images/items/bob.png",
+    "codes": "bob"
+  },
+  {
+    "name": "Blue Box",
+    "type": "toggle",
+    "img": "images/items/bluebox.png",
+    "codes": "blue_box"
+  },
+  {
+    "name": "Broken bob",
+    "type": "toggle",
+    "img": "images/items/bob.png",
+    "codes": "bob"
+  },
+  {
+    "name": "Blue Box",
+    "type": "toggle",
+    "img": "images/items/bluebox.png",
+    "codes": "blue_box"
+  },
+  {
+    "name": "Box of Rockets",
+    "type": "toggle",
+    "img": "images/items/rockets.png",
+    "codes": "rockets"
+  },
+  {
+    "name": "Santiago's Journal",
+    "type": "toggle",
+    "img": "images/items/journal.png",
+    "codes": "journal"
+  },
+  {
+    "name": "Timed Dynamite",
+    "type": "toggle",
+    "img": "images/items/dynamite.png",
+    "codes": "dynamite"
+  },
+  {
+    "name": "Explosives",
+    "type": "toggle",
+    "img": "images/items/explosives.png",
+    "codes": "explosives"
+  },
+
+  // Fog Relics
+  {
+    "name": "Fogbane Pack",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_relic_pack"
+  },
+  {
+    "name": "Fogbane Mine shaft",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_mine_shaft"
+  },
+  {
+    "name": "Fogbane Junkyard Shed",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_junkyard_area"
+  },
+  {
+    "name": "Fogbane Junkyard Shed",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_junkyard_shed"
+  },
+  {
+    "name": "Fogbane South House",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_south_house"
+  },
+  {
+    "name": "Fogbane Military Base",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_military_base"
+  },
+  {
+    "name": "Fogbane South Mine Outside",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_south_mine_outside"
+  },
+  {
+    "name": "Fogbane Middle Station",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_middle_station"
+  },
+  {
+    "name": "Fogbane Canyon",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_canyon"
+  },
+  {
+    "name": "Fogbane Watchtower",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_watchtower"
+  },
+  {
+    "name": "Fogbane Haunted House",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_haunted_house"
+  },
+  {
+    "name": "Fogbane Santiago House",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_santiago_house"
+  },
+  {
+    "name": "Fogbane Port",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_port"
+  },
+  {
+    "name": "Fogbane Doll Woods",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_doll_woods"
+  },
+  {
+    "name": "Fogbane East House",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_east_house"
+  },
+  {
+    "name": "Fogbane Rocket Grounds",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_rocket_grounds"
+  },
+  {
+    "name": "Fogbane wOrkshop",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_workshop"
+  },
+  {
+    "name": "Fogbane East Tower",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_east_tower"
+  },
+  {
+    "name": "Fogbane Lighthouse",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_lighthouse"
+  },
+  {
+    "name": "Fogbane North Mine Outside",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_north_mine_outside"
+  },
+  {
+    "name": "Fogbane Wood Bridge",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_wood_bridge"
+  },
+  {
+    "name": "Fogbane Museum",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_museum"
+  },
+  {
+    "name": "Fogbane Barbed Shelter",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_barbed_shelter"
+  },
+  {
+    "name": "Fogbane West Beach",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_west_beach"
+  },
+  {
+    "name": "Fogbane Church",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_church"
+  },
+  {
+    "name": "Fogbane West Cottage",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_west_cottage"
+  },
+  {
+    "name": "Fogbane Trailer Cabin",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_trailer_cabin"
+  },
+  {
+    "name": "Fogbane Towers",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_towers"
+  },
+  {
+    "name": "Fogbane North Beach",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_north_beach"
+  },
+  {
+    "name": "Fogbane Mob Camp",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_mob_camp"
+  },
+  {
+    "name": "Fogbane Mine Elevator Exit",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_mine_elevator_exit"
+  },
+  {
+    "name": "Fogbane Mountain Ruin Outside",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_mountain_ruin_outside"
+  },
+  {
+    "name": "Fogbane Temple",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_temple"
+  },
+  {
+    "name": "Fogbane Pickle Val",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_pickle_val"
+  },
+  {
+    "name": "Fogbane Morse Bunker",
+    "type": "toggle",
+    "img": "images/items/fog.png",
+    "codes": "fogbane_morse_bunker"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Trench House",
+    "children": [
+      {
+        "name": "South On Path 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 586,
+            "y": 1000
+          }
+        ]
+      },
+      {
+        "name": "South On Path 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 566,
+            "y": 926
+          }
+        ]
+      },
+      {
+        "name": "South On Path 3",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 466,
+            "y": 852
+          }
+        ]
+      },
+      {
+        "name": "South Behind Rock",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 507,
+            "y": 666
+          }
+        ]
+      },
+      {
+        "name": "South Lonely",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 403,
+            "y": 621
+          }
+        ]
+      },
+      {
+        "name": "East Near Trench",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 599,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "West Near Shrine",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 248,
+            "y": 319
+          }
+        ]
+      },
+      {
+        "name": "West On Shrine",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 199,
+            "y": 381
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Door",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 495,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Middle Behind House",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 472,
+            "y": 351
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Water Tank",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 429,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "Inside Under Table",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 470,
+            "y": 386
+          }
+        ]
+      },
+      {
+        "name": "Inside Above Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "shape": "trapezoid",
+            "x": 446,
+            "y": 407
+          }
+        ]
+      },
+      {
+        "name": "Inside Behind Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "shape": "trapezoid",
+            "x": 486,
+            "y": 521
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Tables",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 535,
+            "y": 522
+          }
+        ]
+      },
+      {
+        "name": "Northwest Under Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 108,
+            "y": 163
+          }
+        ]
+      },
+      {
+        "name": "Northwest Near Rock",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 27,
+            "y": 21
+          }
+        ]
+      },
+      {
+        "name": "Southwest Near Rock",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 137,
+            "y": 645
+          }
+        ]
+      },
+      {
+        "name": "Doll Woods Southeast Behind Rock",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 83,
+            "y": 831
+          }
+        ]
+      },
+      {
+        "name": "Chest",
+        "sections": [{
+          "access_rules": ["lockpicks"],
+          "item_count": 6
+        }],
+        "map_locations": [
+          {
+            "map": "trench_house",
+            "x": 433,
+            "y": 375
+          }
+        ]
+      }
+    ] 
+  }
+]
