@@ -1,6 +1,7 @@
 [
   {
     "name": "East House",
+    "access_rules": [ "fogbane_pack","fogbane_east_house" ],
     "children": [
       {
         "name": "South Path Near Rails",

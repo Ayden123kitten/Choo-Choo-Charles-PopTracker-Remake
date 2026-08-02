@@ -1,6 +1,7 @@
 [
   {
     "name": "Watchtower",
+    "access_rules": [ "fogbane_pack","fogbane_watchtower" ],
     "children": [
       {
         "name": "Along South Path",
@@ -112,14 +113,15 @@
         "sections": [
           {
             "name": "Scraps",
+            "access_rules": ["lockpicks"],
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
-            "name": "Paint Can",
+            "name": "Pink Paint Can",
             "access_rules": ["lockpicks"],
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
+            "chest_unopened_img": "images/chests/paint_can.png",
+            "chest_opened_img": "images/chests/paint_can_true.png"
           }
         ],
         "map_locations": [

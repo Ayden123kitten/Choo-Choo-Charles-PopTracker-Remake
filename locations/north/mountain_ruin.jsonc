@@ -1,6 +1,7 @@
 [
   {
     "name": "Mountain Ruin",
+    "access_rules": [ "fogbane_pack","fogbane_mountain_ruin" ],
     "children": [
       {
         "name": "Bottom Sheltered",
@@ -270,11 +271,15 @@
           },
           {
             "name": "Red Paint Can",
+            "chest_unopened_img": "images/chests/paint_can.png",
+            "chest_opened_img": "images/chests/paint_can_true.png",
             "item_count": 1,
             "access_rules": ["lockpicks"]
           },
           {
-            "name": "Red Egg"
+            "name": "Red Egg",
+            "chest_unopened_img": "images/chests/red_egg.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],
         "map_locations": [

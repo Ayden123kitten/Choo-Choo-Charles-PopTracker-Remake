@@ -1,6 +1,7 @@
 [
   {
     "name": "Barbed Shelter",
+    "access_rules": [ "fogbane_pack","fogbane_barbed_shelter" ],
     "children": [
       {
         "name": "Gertrude",

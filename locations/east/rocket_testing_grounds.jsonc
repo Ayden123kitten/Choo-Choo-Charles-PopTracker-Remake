@@ -1,10 +1,25 @@
 [
   {
-    "name": "Museum",
-    "access_rules": [ "fogbane_pack","fogbane_museum" ],
+    "name": "Rocket Testing Grounds",
+    "access_rules": [ "fogbane_pack","fogbane_rocket_testing_grounds" ],
     "children": [
       {
-        "name": "Around Near Unlit Lantern",
+        "name": "Timed Dynamite",
+        "sections": [{
+          "name": "",
+          "chest_unopened_img": "images/items/timed_dynamite.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "rocket_testing_grounds",
+            "x": 356,
+            "y": 272
+          }
+        ]
+      },
+      {
+        "name": "East Near Lantern",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -12,14 +27,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 77,
-            "y": 121
+            "map": "rocket_testing_grounds",
+            "x": 1412,
+            "y": 438
           }
         ]
       },
       {
-        "name": "Around Behind Sign",
+        "name": "East Near Barrier",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -27,14 +42,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 244,
-            "y": 173
+            "map": "rocket_testing_grounds",
+            "x": 1006,
+            "y": 334
           }
         ]
       },
       {
-        "name": "Around Near Platform",
+        "name": "Middle Near Dirt Heap",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -42,14 +57,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 353,
-            "y": 123
+            "map": "rocket_testing_grounds",
+            "x": 605,
+            "y": 344
           }
         ]
       },
       {
-        "name": "Around Near Trees",
+        "name": "Middle Near Planks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -57,14 +72,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 559,
-            "y": 155
+            "map": "rocket_testing_grounds",
+            "x": 632,
+            "y": 213
           }
         ]
       },
       {
-        "name": "Around Behind Museum",
+        "name": "Middle Near Crate",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -72,14 +87,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 440,
-            "y": 299
+            "map": "rocket_testing_grounds",
+            "x": 341,
+            "y": 251
           }
         ]
       },
       {
-        "name": "Inside Near Mutiny Note",
+        "name": "Middle Near Lantern",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -87,14 +102,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 315,
-            "y": 355
+            "map": "rocket_testing_grounds",
+            "x": 333,
+            "y": 119
           }
         ]
       },
       {
-        "name": "Inside Under Stairs",
+        "name": "North Under Sign",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -102,14 +117,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 390,
-            "y": 293
+            "map": "rocket_testing_grounds",
+            "x": 556,
+            "y": 46
           }
         ]
       },
       {
-        "name": "Inside On Table",
+        "name": "Middle Near Rock",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -117,14 +132,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 393,
-            "y": 212
+            "map": "rocket_testing_grounds",
+            "x": 207,
+            "y": 471
           }
         ]
       },
       {
-        "name": "Inside Behind Tables",
+        "name": "Southwest Above Door",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -132,14 +147,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 376,
-            "y": 171
+            "map": "rocket_testing_grounds",
+            "x": 161,
+            "y": 606
           }
         ]
       },
       {
-        "name": "Inside On Balcony",
+        "name": "South Above Bunker",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -147,62 +162,59 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 369,
-            "y": 144
+            "map": "rocket_testing_grounds",
+            "x": 399,
+            "y": 547
           }
         ]
       },
       {
-        "name": "Hill 1",
+        "name": "Near Explosives",
         "sections": [{
           "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 1064,
-            "y": 273
-          }
-        ]
-      },
-      {
-        "name": "Hill 2",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 994,
-            "y": 324
-          }
-        ]
-      },
-      {
-        "name": "Paul",
-        "sections": [
-        {
-          "name": "Mission Start",
-          "chest_unopened_img": "images/chests/remote_explosives.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        },
-        {
-          "name": "Mission End",
           "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png",
-          "access_rules": ["explosives"]
-        }
-        ],
+          "access_rules": ["dynamite"]
+        }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 309,
-            "y": 184
+            "map": "rocket_testing_grounds",
+            "shape": "trapezoid",
+            "x": 447,
+            "y": 610
+          }
+        ]
+      },
+      {
+        "name": "In Corner",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
+          "access_rules": ["dynamite"]
+        }],
+        "map_locations": [
+          {
+            "map": "rocket_testing_grounds",
+            "shape": "trapezoid",
+            "x": 446,
+            "y": 549
+          }
+        ]
+      },
+      {
+        "name": "Box of Rockets",
+        "sections": [{
+          "chest_unopened_img": "images/items/box_of_rockets.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
+          "access_rules": ["dynamite"]
+        }],
+        "map_locations": [
+          {
+            "map": "rocket_testing_grounds",
+            "shape": "trapezoid",
+            "x": 417,
+            "y": 581
           }
         ]
       }

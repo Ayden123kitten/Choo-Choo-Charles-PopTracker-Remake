@@ -1,12 +1,13 @@
 [
   {
     "name": "Church",
+    "access_rules": [ "fogbane_pack","fogbane_church" ],
     "children": [
       {
         "name": "Black Paint Can",
         "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
+          "chest_unopened_img": "images/chests/paint_can.png",
+          "chest_opened_img": "images/chests/paint_can_true.png"
         }],
         "map_locations": [
           {

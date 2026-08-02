@@ -1,10 +1,12 @@
 [
   {
     "name": "East Tower",
+    "access_rules": [ "fogbane_pack","fogbane_east_tower" ],
     "children": [
       {
-        "name": "Greg Mission Start",
+        "name": "Greg",
         "sections": [{
+          "name": "Mission Start",
           "chest_unopened_img": "images/items/key.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],

@@ -1,51 +1,40 @@
 [
   {
-    "name": "Mob Camp",
-    "access_rules": [ "fogbane_pack","fogbane_mob_Camp" ],
+    "name": "Train Depot",
+    "access_rules": [ "fogbane_pack","fogbane_train_depot" ],
     "children": [
-              {
-        "name": "Locked Room",
-        "access_rules": ["mob_camp_key"],
-        "sections": [
-            {
-              "name": "Scraps",
-              "chest_unopened_img": "images/chests/scraps.png",
-              "chest_opened_img": "images/chests/scraps_true.png",
-              "item_count": 2
-            },
-            {
-              "name": "Bob",
-              "chest_unopened_img": "images/items/bob.png",
-              "chest_opened_img": "images/chests/scraps_true.png",
-              "access_rules": ["broken_bob"]
-            }
-        ],
+      {
+        "name": "White Paint Can",
+        "sections": [{
+          "chest_unopened_img": "images/chests/paint_can.png",
+          "chest_opened_img": "images/chests/paint_can_true.png"
+        }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "shape": "trapezoid",
-            "size": 80,
-            "x": 176,
-            "y": 60
+            "map": "train_depot",
+            "x": 200,
+            "y": 475
           }
         ]
       },
       {
-        "name": "Mob Camp Key",
+        "name": "Theodore",
+        "access_rules": ["blue_box"],
         "sections": [{
-          "chest_unopened_img": "images/items/key.png",
+          "name": "Mission End",
+          "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 496,
-            "y": 769
+            "map": "train_depot",
+            "x": 265,
+            "y": 525
           }
         ]
       },
       {
-        "name": "Topmost Near Campfire",
+        "name": "Near Beams",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -53,14 +42,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 679,
-            "y": 820
+            "map": "train_depot",
+            "x": 430,
+            "y": 540
           }
         ]
       },
       {
-        "name": "Topmost Near Beds",
+        "name": "Path To House",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -68,14 +57,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 520,
-            "y": 837
+            "map": "train_depot",
+            "x": 390,
+            "y": 655
           }
         ]
       },
       {
-        "name": "Topmost On Balcony",
+        "name": "Near House",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -83,14 +72,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 415,
-            "y": 789
+            "map": "train_depot",
+            "x": 365,
+            "y": 735
           }
         ]
       },
       {
-        "name": "Mask Tower Near Note",
+        "name": "Under House Roof",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -98,14 +87,59 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 206,
+            "map": "train_depot",
+            "x": 405,
+            "y": 745
+          }
+        ]
+      },
+      {
+        "name": "Under House Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "train_depot",
+            "x": 440,
+            "y": 750
+          }
+        ]
+      },
+      {
+        "name": "Behind House",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "train_depot",
+            "x": 360,
+            "y": 810
+          }
+        ]
+      },
+      {
+        "name": "Down Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "train_depot",
+            "x": 345,
             "y": 555
           }
         ]
       },
       {
-        "name": "Mask Tower On Stairs",
+        "name": "On Balcony",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -113,14 +147,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 166,
-            "y": 545
+            "map": "train_depot",
+            "x": 310,
+            "y": 475
           }
         ]
       },
       {
-        "name": "Mask Tower Sheltered 1",
+        "name": "Near Table",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -128,14 +162,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 227,
-            "y": 542
+            "map": "train_depot",
+            "x": 290,
+            "y": 460
           }
         ]
       },
       {
-        "name": "Mask Tower Sheltered 2",
+        "name": "Near Beds",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -143,14 +177,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 203,
-            "y": 530
+            "map": "train_depot",
+            "x": 235,
+            "y": 455
           }
         ]
       },
       {
-        "name": "Rest Shelter Between Tents 1",
+        "name": "On Footbridge",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -158,14 +192,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 74,
-            "y": 359
+            "map": "train_depot",
+            "x": 140,
+            "y": 465
           }
         ]
       },
       {
-        "name": "Rest Shelter Between Tents 2",
+        "name": "Near Railcar",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -173,14 +207,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 61,
-            "y": 225
+            "map": "train_depot",
+            "x": 420,
+            "y": 425
           }
         ]
       },
       {
-        "name": "Workshop Near Beams",
+        "name": "Near Bench",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -188,14 +222,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 124,
-            "y": 49
+            "map": "train_depot",
+            "x": 330,
+            "y": 450
           }
         ]
       },
       {
-        "name": "Workshop Under Stairs",
+        "name": "Behind Station",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -203,14 +237,14 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 285,
-            "y": 46
+            "map": "train_depot",
+            "x": 275,
+            "y": 415
           }
         ]
       },
       {
-        "name": "Workshop Near Water Tank",
+        "name": "On Rock Foundations",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -218,14 +252,74 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
+            "map": "train_depot",
+            "x": 330,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Half Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "train_depot",
+            "x": 135,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "train_depot",
+            "x": 120,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Inside Railcar Near Stool",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "train_depot",
+            "x": 150,
+            "y": 444
+          }
+        ]
+      },
+      {
+        "name": "Inside Railcar Near Crate",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "train_depot",
             "x": 180,
-            "y": 146
+            "y": 460
           }
         ]
       },
       {
-        "name": "Rest Shelter Near Campfire",
+        "name": "Along Rails",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -233,54 +327,9 @@
         }],
         "map_locations": [
           {
-            "map": "mob_camp",
-            "x": 254,
-            "y": 334
-          }
-        ]
-      },
-      {
-        "name": "Workshop In Tower",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "mob_camp",
-            "x": 240,
-            "y": 44
-          }
-        ]
-      },
-      {
-        "name": "Rest Shelter Inside",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "mob_camp",
-            "x": 182,
-            "y": 353
-          }
-        ]
-      },
-      {
-        "name": "Topmost On Bridge",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "mob_camp",
-            "x": 478,
-            "y": 609
+            "map": "train_depot",
+            "x": 10,
+            "y": 520
           }
         ]
       }

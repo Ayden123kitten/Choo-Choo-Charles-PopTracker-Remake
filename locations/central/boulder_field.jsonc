@@ -6,7 +6,7 @@
         "name": "North",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
@@ -21,7 +21,7 @@
         "name": "Northwest",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
@@ -36,7 +36,7 @@
         "name": "Middle",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
@@ -51,7 +51,7 @@
         "name": "West",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
@@ -66,7 +66,7 @@
         "name": "Southeast",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
@@ -81,7 +81,7 @@
         "name": "Southwest",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
@@ -96,7 +96,7 @@
         "name": "South",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
@@ -111,7 +111,7 @@
         "name": "East",
         "sections": [{
           "name": "Page",
-          "chest_unopened_img": "images/items/page.png",
+          "chest_unopened_img": "images/items/page_drawing.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [

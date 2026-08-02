@@ -1,10 +1,10 @@
 [
   {
-    "name": "Museum",
-    "access_rules": [ "fogbane_pack","fogbane_museum" ],
+    "name": "Doll Woods",
+    "access_rules": [ "fogbane_pack","fogbane_doll_woods" ],
     "children": [
       {
-        "name": "Around Near Unlit Lantern",
+        "name": "Middle Under Doll Tree",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -12,14 +12,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 77,
-            "y": 121
+            "map": "doll_woods",
+            "x": 401,
+            "y": 298
           }
         ]
       },
       {
-        "name": "Around Behind Sign",
+        "name": "South Under Doll Tree",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -27,14 +27,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 244,
-            "y": 173
+            "map": "doll_woods",
+            "x": 392,
+            "y": 546
           }
         ]
       },
       {
-        "name": "Around Near Platform",
+        "name": "Middle Near Campfire",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -42,14 +42,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 353,
-            "y": 123
+            "map": "doll_woods",
+            "x": 302,
+            "y": 317
           }
         ]
       },
       {
-        "name": "Around Near Trees",
+        "name": "Middle Under High Rock",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -57,14 +57,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 559,
-            "y": 155
+            "map": "doll_woods",
+            "x": 380,
+            "y": 166
           }
         ]
       },
       {
-        "name": "Around Behind Museum",
+        "name": "North Lonely",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -72,14 +72,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 440,
-            "y": 299
+            "map": "doll_woods",
+            "x": 227,
+            "y": 39
           }
         ]
       },
       {
-        "name": "Inside Near Mutiny Note",
+        "name": "West Near High Rock",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -87,14 +87,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 315,
-            "y": 355
+            "map": "doll_woods",
+            "x": 32,
+            "y": 377
           }
         ]
       },
       {
-        "name": "Inside Under Stairs",
+        "name": "South Behind Tree",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -102,14 +102,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 390,
-            "y": 293
+            "map": "doll_woods",
+            "x": 358,
+            "y": 702
           }
         ]
       },
       {
-        "name": "Inside On Table",
+        "name": "Southeast On Path 1",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -117,14 +117,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 393,
-            "y": 212
+            "map": "doll_woods",
+            "x": 773,
+            "y": 804
           }
         ]
       },
       {
-        "name": "Inside Behind Tables",
+        "name": "Southeast Behind Rock",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -132,14 +132,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 376,
-            "y": 171
+            "map": "doll_woods",
+            "x": 1178,
+            "y": 671
           }
         ]
       },
       {
-        "name": "Inside On Balcony",
+        "name": "Southeast On Path 2",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -147,62 +147,9 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 369,
-            "y": 144
-          }
-        ]
-      },
-      {
-        "name": "Hill 1",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 1064,
-            "y": 273
-          }
-        ]
-      },
-      {
-        "name": "Hill 2",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 994,
-            "y": 324
-          }
-        ]
-      },
-      {
-        "name": "Paul",
-        "sections": [
-        {
-          "name": "Mission Start",
-          "chest_unopened_img": "images/chests/remote_explosives.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        },
-        {
-          "name": "Mission End",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png",
-          "access_rules": ["explosives"]
-        }
-        ],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 309,
-            "y": 184
+            "map": "doll_woods",
+            "x": 698,
+            "y": 529
           }
         ]
       }

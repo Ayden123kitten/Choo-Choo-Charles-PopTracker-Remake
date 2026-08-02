@@ -1,6 +1,7 @@
 [
   {
     "name": "Junkyard Area",
+    "access_rules": [ "fogbane_pack","fogbane_junkyard_area" ],
     "children": [
       {
         "name": "Daryl",
@@ -178,7 +179,7 @@
       {
         "name": "Ancient Tablet",
         "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_unopened_img": "images/chests/ancient_tablet.png",
           "chest_opened_img": "images/chests/scraps_true.png",
           "access_rules": ["lockpicks"]
         }],

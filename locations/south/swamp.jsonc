@@ -576,7 +576,7 @@
               },
               {
                 "name": "Dead Fish",
-                "chest_unopened_img": "images/items/fish.png",
+                "chest_unopened_img": "images/items/dead_fish.png",
                 "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
@@ -590,10 +590,10 @@
             ]
         },
         {
-            "name": "Lizbeth",
+            "name": "Lizbeth Murkwater",
             "sections": [
               {
-                "access_rules": ["fish"],
+                "access_rules": ["dead_fish"],
                 "chest_unopened_img": "images/chests/scraps.png",
                 "chest_opened_img": "images/chests/scraps_true.png"
               }

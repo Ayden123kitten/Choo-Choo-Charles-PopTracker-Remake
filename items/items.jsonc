@@ -1,21 +1,20 @@
 [
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
     "name": "Green Egg",
     "type": "toggle",
-    "img": "images/items/green.png",
+    "img": "images/items/green_egg.png",
     "codes": "green_egg"
   },
   {
     "name": "Blue Egg",
     "type": "toggle",
-    "img": "images/items/blue.png",
+    "img": "images/items/blue_egg.png",
     "codes": "blue_egg"
   },
   {
     "name": "Red Egg",
     "type": "toggle",
-    "img": "images/items/red.png",
+    "img": "images/items/red_egg.png",
     "codes": "red_egg"
   },
   {
@@ -25,43 +24,43 @@
     "codes": "lockpicks"
   },
   {
-    "name": "Temple key",
+    "name": "Temple Key",
     "type": "toggle",
-    "img": "images/items/templekey.png",
+    "img": "images/items/temple_key.png",
     "codes": "temple_key"
   },
   {
-    "name": "South mine key",
+    "name": "South Mine Key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "south_mine_key"
   },
   {
-    "name": "North mine key",
+    "name": "North Mine Key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "north_mine_key"
   },
   {
-    "name": "Mountain ruin key",
+    "name": "Mountain Ruin Key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "mountain_ruin_key"
   },
   {
-    "name": "Barn key",
+    "name": "Barn Key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "barn_key"
   },
   {
-    "name": "Candice key",
+    "name": "Candice's Key",
     "type": "toggle",
     "img": "images/items/key.png",
-    "codes": "candice_key"
+    "codes": "candices_key"
   },
   {
-    "name": "Mob camp key",
+    "name": "Mob Camp Key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "mob_camp_key"
@@ -69,20 +68,20 @@
   {
     "name": "Employee Contracts",
     "type": "toggle",
-    "img": "images/items/contracts.png",
-    "codes": "contracts"
+    "img": "images/items/employment_contracts.png",
+    "codes": "employment_contracts"
   },
   {
     "name": "Tablet",
     "type": "toggle",
-    "img": "images/items/tablet.png",
-    "codes": "tablet"
+    "img": "images/items/ancient_tablet.png",
+    "codes": "ancient_tablet"
   },
   {
-    "name": "Pages",
+    "name": "Page Drawings",
     "type": "consumable",
-    "img": "images/items/page.png",
-    "codes": "page",  
+    "img": "images/items/page_drawing.png",
+    "codes": "page_drawings",
     "max_quantity": 8,
     "increment": 1,
     "decrement": 1
@@ -91,7 +90,7 @@
     "name": "Breakers",
     "type": "consumable",
     "img": "images/items/breaker.png",
-    "codes": "breaker",  
+    "codes": "breakers",
     "max_quantity": 4,
     "increment": 1,
     "decrement": 1
@@ -99,273 +98,260 @@
   {
     "name": "Dead Fish",
     "type": "toggle",
-    "img": "images/items/fish.png",
-    "codes": "fish"
+    "img": "images/items/dead_fish.png",
+    "codes": "dead_fish"
   },
   {
-    "name": "Pickles",
+    "name": "Jar of Pickles",
     "type": "toggle",
-    "img": "images/items/pickles.png",
-    "codes": "pickles"
+    "img": "images/items/jar_of_pickles.png",
+    "codes": "jar_of_pickles"
   },
   {
-    "name": "Broken bob",
+    "name": "Broken Bob",
     "type": "toggle",
-    "img": "images/items/bob.png",
-    "codes": "bob"
-  },
-  {
-    "name": "Blue Box",
-    "type": "toggle",
-    "img": "images/items/bluebox.png",
-    "codes": "blue_box"
-  },
-  {
-    "name": "Broken bob",
-    "type": "toggle",
-    "img": "images/items/bob.png",
-    "codes": "bob"
+    "img": "images/items/broken_bob.png",
+    "codes": "broken_bob"
   },
   {
     "name": "Blue Box",
     "type": "toggle",
-    "img": "images/items/bluebox.png",
+    "img": "images/items/blue_box.png",
     "codes": "blue_box"
   },
   {
     "name": "Box of Rockets",
     "type": "toggle",
-    "img": "images/items/rockets.png",
-    "codes": "rockets"
+    "img": "images/items/box_of_rockets.png",
+    "codes": "box_of_rockets"
   },
   {
     "name": "Santiago's Journal",
     "type": "toggle",
-    "img": "images/items/journal.png",
-    "codes": "journal"
+    "img": "images/items/santiagos_journal.png",
+    "codes": "santiagos_journal"
   },
   {
     "name": "Timed Dynamite",
     "type": "toggle",
-    "img": "images/items/dynamite.png",
-    "codes": "dynamite"
+    "img": "images/items/timed_dynamite.png",
+    "codes": "timed_dynamite"
   },
   {
-    "name": "Explosives",
+    "name": "Remote Explosives",
     "type": "toggle",
-    "img": "images/items/explosives.png",
-    "codes": "explosives"
+    "img": "images/items/remote_explosives.png",
+    "codes": "remote_explosives"
   },
 
-  // Fog Relics
   {
-    "name": "Fogbane Pack",
+    "name": "Fogbane Relic Pack",
     "type": "toggle",
-    "img": "images/items/fog.png",
-    "codes": "fogbane_relic_pack"
+    "img": "images/items/cursed_fog.png",
+    "codes": "fogbane_pack"
   },
   {
-    "name": "Fogbane Mine shaft",
+    "name": "Mine Shaft Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_mine_shaft"
   },
   {
-    "name": "Fogbane Junkyard Shed",
+    "name": "Junkyard Area Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_junkyard_area"
   },
   {
-    "name": "Fogbane Junkyard Shed",
+    "name": "Junkyard Shed Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_junkyard_shed"
   },
   {
-    "name": "Fogbane South House",
+    "name": "South House Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_south_house"
   },
   {
-    "name": "Fogbane Military Base",
+    "name": "Military Base Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_military_base"
   },
   {
-    "name": "Fogbane South Mine Outside",
+    "name": "South Mine Outside Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_south_mine_outside"
   },
   {
-    "name": "Fogbane Middle Station",
+    "name": "Train Depot Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
-    "codes": "fogbane_middle_station"
+    "img": "images/items/cursed_fog.png",
+    "codes": "fogbane_train_depot"
   },
   {
-    "name": "Fogbane Canyon",
+    "name": "Canyon Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_canyon"
   },
   {
-    "name": "Fogbane Watchtower",
+    "name": "Watchtower Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_watchtower"
   },
   {
-    "name": "Fogbane Haunted House",
+    "name": "Haunted House Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_haunted_house"
   },
   {
-    "name": "Fogbane Santiago House",
+    "name": "Santiago's House Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
-    "codes": "fogbane_santiago_house"
+    "img": "images/items/cursed_fog.png",
+    "codes": "fogbane_santiagos_house"
   },
   {
-    "name": "Fogbane Port",
+    "name": "Port Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_port"
   },
   {
-    "name": "Fogbane Doll Woods",
+    "name": "Doll Woods Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_doll_woods"
   },
   {
-    "name": "Fogbane East House",
+    "name": "East House Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_east_house"
   },
   {
-    "name": "Fogbane Rocket Grounds",
+    "name": "Rocket Testing Grounds Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
-    "codes": "fogbane_rocket_grounds"
+    "img": "images/items/cursed_fog.png",
+    "codes": "fogbane_rocket_testing_grounds"
   },
   {
-    "name": "Fogbane wOrkshop",
+    "name": "Workshop Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_workshop"
   },
   {
-    "name": "Fogbane East Tower",
+    "name": "East Tower Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_east_tower"
   },
   {
-    "name": "Fogbane Lighthouse",
+    "name": "Lighthouse Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_lighthouse"
   },
   {
-    "name": "Fogbane North Mine Outside",
+    "name": "North Mine Outside Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_north_mine_outside"
   },
   {
-    "name": "Fogbane Wood Bridge",
+    "name": "Wooden Bridge Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
-    "codes": "fogbane_wood_bridge"
+    "img": "images/items/cursed_fog.png",
+    "codes": "fogbane_wooden_bridge"
   },
   {
-    "name": "Fogbane Museum",
+    "name": "Museum Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_museum"
   },
   {
-    "name": "Fogbane Barbed Shelter",
+    "name": "Barbed Shelter Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_barbed_shelter"
   },
   {
-    "name": "Fogbane West Beach",
+    "name": "West Beach Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_west_beach"
   },
   {
-    "name": "Fogbane Church",
+    "name": "Church Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_church"
   },
   {
-    "name": "Fogbane West Cottage",
+    "name": "West Cottage Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_west_cottage"
   },
   {
-    "name": "Fogbane Trailer Cabin",
+    "name": "Trailer Cabin Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_trailer_cabin"
   },
   {
-    "name": "Fogbane Towers",
+    "name": "Towers Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_towers"
   },
   {
-    "name": "Fogbane North Beach",
+    "name": "North Beach Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_north_beach"
   },
   {
-    "name": "Fogbane Mob Camp",
+    "name": "Mob Camp Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_mob_camp"
   },
   {
-    "name": "Fogbane Mine Elevator Exit",
+    "name": "Mine Elevator Exit Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_mine_elevator_exit"
   },
   {
-    "name": "Fogbane Mountain Ruin Outside",
+    "name": "Mountain Ruin Outside Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_mountain_ruin_outside"
   },
   {
-    "name": "Fogbane Temple",
+    "name": "Temple Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_temple"
   },
   {
-    "name": "Fogbane Pickle Val",
+    "name": "Pickle Valley Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
-    "codes": "fogbane_pickle_val"
+    "img": "images/items/cursed_fog.png",
+    "codes": "fogbane_pickle_valley"
   },
   {
-    "name": "Fogbane Morse Bunker",
+    "name": "Morse Bunker Fogbane Relic",
     "type": "toggle",
-    "img": "images/items/fog.png",
+    "img": "images/items/cursed_fog.png",
     "codes": "fogbane_morse_bunker"
   }
 ]

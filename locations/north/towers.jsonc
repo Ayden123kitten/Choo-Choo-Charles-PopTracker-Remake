@@ -1,6 +1,7 @@
 [
   {
     "name": "Towers",
+    "access_rules": [ "fogbane_pack","fogbane_towers" ],
     "children": [
       {
         "name": "Middle Under Footbridge",
@@ -192,7 +193,9 @@
             "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
-            "name": "Employment Contracts"
+            "name": "Employment Contracts",
+            "chest_unopened_img": "images/chests/employment_contracts.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],
         "map_locations": [
@@ -257,9 +260,10 @@
         ]
       },
       {
-        "name": "Ronny Mission End",
+        "name": "Ronny",
         "access_rules": ["contracts"],
         "sections": [{
+          "name": "Mission End",
           "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],

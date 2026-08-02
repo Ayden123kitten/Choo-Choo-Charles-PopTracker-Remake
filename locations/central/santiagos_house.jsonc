@@ -1,10 +1,24 @@
 [
   {
-    "name": "Museum",
-    "access_rules": [ "fogbane_pack","fogbane_museum" ],
+    "name": "Santiago's House",
+    "access_rules": [ "fogbane_pack","fogbane_santiagos_house" ],
     "children": [
       {
-        "name": "Around Near Unlit Lantern",
+        "name": "Santiago's Journal",
+        "sections": [{
+          "chest_unopened_img": "images/items/santiagos_journal.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 70,
+            "y": 225
+          }
+        ]
+      },
+      {
+        "name": "On Shrine",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -12,14 +26,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 77,
-            "y": 121
+            "map": "santiagos_house",
+            "x": 329,
+            "y": 590
           }
         ]
       },
       {
-        "name": "Around Behind Sign",
+        "name": "Near Shrine",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -27,14 +41,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 244,
-            "y": 173
+            "map": "santiagos_house",
+            "x": 430,
+            "y": 480
           }
         ]
       },
       {
-        "name": "Around Near Platform",
+        "name": "Near Crates Outside",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -42,14 +56,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 353,
-            "y": 123
+            "map": "santiagos_house",
+            "x": 180,
+            "y": 255
           }
         ]
       },
       {
-        "name": "Around Near Trees",
+        "name": "Near House",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -57,14 +71,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 559,
-            "y": 155
+            "map": "santiagos_house",
+            "x": 155,
+            "y": 175
           }
         ]
       },
       {
-        "name": "Around Behind Museum",
+        "name": "Behind House",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -72,14 +86,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 440,
-            "y": 299
+            "map": "santiagos_house",
+            "x": 35,
+            "y": 217
           }
         ]
       },
       {
-        "name": "Inside Near Mutiny Note",
+        "name": "On Rocks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -87,14 +101,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 315,
-            "y": 355
+            "map": "santiagos_house",
+            "x": 160,
+            "y": 380
           }
         ]
       },
       {
-        "name": "Inside Under Stairs",
+        "name": "Near Table",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -102,14 +116,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 390,
-            "y": 293
+            "map": "santiagos_house",
+            "x": 110,
+            "y": 220
           }
         ]
       },
       {
-        "name": "Inside On Table",
+        "name": "Near Crates Inside",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -117,14 +131,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 393,
-            "y": 212
+            "map": "santiagos_house",
+            "x": 155,
+            "y": 250
           }
         ]
       },
       {
-        "name": "Inside Behind Tables",
+        "name": "On Crates",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -132,14 +146,14 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 376,
-            "y": 171
+            "map": "santiagos_house",
+            "x": 55,
+            "y": 257
           }
         ]
       },
       {
-        "name": "Inside On Balcony",
+        "name": "Along Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -147,62 +161,9 @@
         }],
         "map_locations": [
           {
-            "map": "museum",
-            "x": 369,
-            "y": 144
-          }
-        ]
-      },
-      {
-        "name": "Hill 1",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 1064,
-            "y": 273
-          }
-        ]
-      },
-      {
-        "name": "Hill 2",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 994,
-            "y": 324
-          }
-        ]
-      },
-      {
-        "name": "Paul",
-        "sections": [
-        {
-          "name": "Mission Start",
-          "chest_unopened_img": "images/chests/remote_explosives.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        },
-        {
-          "name": "Mission End",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png",
-          "access_rules": ["explosives"]
-        }
-        ],
-        "map_locations": [
-          {
-            "map": "museum",
-            "x": 309,
-            "y": 184
+            "map": "santiagos_house",
+            "x": 382,
+            "y": 35
           }
         ]
       }

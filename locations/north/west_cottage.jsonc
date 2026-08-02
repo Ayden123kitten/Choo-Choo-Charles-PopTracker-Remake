@@ -1,6 +1,7 @@
 [
   {
     "name": "West Cottage",
+    "access_rules": [ "fogbane_pack","fogbane_west_cottage" ],
     "children": [
       {
         "name": "Gale",

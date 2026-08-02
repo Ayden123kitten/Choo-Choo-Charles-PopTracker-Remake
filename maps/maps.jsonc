@@ -1,5 +1,4 @@
 [
-
   {
     "name": "aranearum",
     "location_size": 30,
@@ -38,7 +37,7 @@
     "img": "images/maps/south/south_mine_outside.jpg"
   },
   {
-    "name": "startcamp",
+    "name": "start_camp",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/south/start_camp.jpg"
@@ -63,12 +62,6 @@
     "img": "images/maps/central/canyon.jpg"
   },
   {
-    "name": "watchtower",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/central/watchtower.jpg"
-  },
-  {
     "name": "haunted_house",
     "location_size": 30,
     "location_border_thickness": 4,
@@ -81,16 +74,16 @@
     "img": "images/maps/central/lost_stairs.jpg"
   },
   {
-    "name": "middle_station",
+    "name": "train_depot",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/central/middle_station.jpg"
+    "img": "images/maps/central/train_depot.jpg"
   },
   {
-    "name": "pickle_val",
+    "name": "pickle_valley",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/central/pickle_val.jpg"
+    "img": "images/maps/central/pickle_valley.jpg"
   },
   {
     "name": "port",
@@ -99,22 +92,28 @@
     "img": "images/maps/central/port.jpg"
   },
   {
-    "name": "temple",
+    "name": "santiagos_house",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/central/prism_temple.jpg"
-  },
-  {
-    "name": "santiago_house",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/central/santiago_house.jpg"
+    "img": "images/maps/central/santiagos_house.jpg"
   },
   {
     "name": "shrine",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/central/shrine.jpg"
+  },
+  {
+    "name": "temple",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/prism_temple.jpg"
+  },
+  {
+    "name": "watchtower",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/watchtower.jpg"
   },
   // East
   {
@@ -136,10 +135,10 @@
     "img": "images/maps/east/lighthouse.jpg"
   },
   {
-    "name": "rocket_grounds",
+    "name": "rocket_testing_grounds",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/east/testing_ground.jpg"
+    "img": "images/maps/east/rocket_testing_grounds.jpg"
   },
   {
     "name": "trench_house",
@@ -171,6 +170,12 @@
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/north/church.jpg"
+  },
+  {
+    "name": "east_house",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/east_house.jpg"
   },
   {
     "name": "mine_elevator_exit",
@@ -245,15 +250,9 @@
     "img": "images/maps/north/west_cottage.jpg"
   },
   {
-    "name": "wood_bridge",
+    "name": "wooden_bridge",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/north/wooden_bridge.jpg"
-  },
-  {
-    "name": "east_house",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/east/east_house.jpg"
   }
 ]

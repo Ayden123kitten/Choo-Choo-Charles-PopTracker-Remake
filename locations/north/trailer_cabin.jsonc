@@ -1,6 +1,7 @@
 [
   {
     "name": "Trailer Cabin",
+    "access_rules": [ "fogbane_pack","fogbane_trailer_cabin" ],
     "children": [
       {
         "name": "Near Rails 1",

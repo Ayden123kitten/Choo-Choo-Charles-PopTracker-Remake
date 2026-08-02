@@ -140,6 +140,8 @@
       {
         "name": "Chest",
         "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
           "item_count": 5,
           "access_rules": ["lockpicks"]
         }],

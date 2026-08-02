@@ -1,6 +1,7 @@
 [
   {
     "name": "Workshop",
+    "access_rules": [ "fogbane_pack","fogbane_workshop" ],
     "children": [
       {
         "name": "Sheltered",
@@ -93,9 +94,10 @@
         ]
       },
       {
-        "name": "John Smith Mission End",
+        "name": "John Smith",
         "sections": [{
-          "access_rules": ["rockets"],
+          "name": "Mission End",
+          "access_rules": ["box_of_rockets"],
           "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],

@@ -1,6 +1,7 @@
 [
   {
     "name": "North Mine",
+    "access_rules": [ "fogbane_pack","fogbane_north_mine" ],
     "children": [
       {
         "name": "Inside",
@@ -8,15 +9,21 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 13
           },
           {
             "name": "Blue Paint Can",
+            "chest_unopened_img": "images/chests/paint_can.png",
+            "chest_opened_img": "images/chests/paint_can_true.png",
             "item_count": 1,
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Blue Egg",
+            "chest_unopened_img": "images/chests/blue_egg.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
         ],
@@ -151,7 +158,7 @@
         ]
       },
       {
-        "name": "North East On Arch Path",
+        "name": "Northeast On Arch Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -166,7 +173,7 @@
         ]
       },
       {
-        "name": "North East Near Barrier",
+        "name": "Northeast Near Barrier",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -181,7 +188,7 @@
         ]
       },
       {
-        "name": "North East Near Pillars",
+        "name": "Northeast Near Pillars",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -226,7 +233,7 @@
         ]
       },
       {
-        "name": "North East Sheltered",
+        "name": "Northeast Sheltered",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -239,9 +246,9 @@
             "y": 66
           }
         ]
-      } /*, # This scrap is currently not impemented in the current version of CCCharles, will be added when the official archipelago CCCharles is updated
+      },
       {
-        "name": "North East On Rocks",
+        "name": "Northeast On Rocks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -255,7 +262,6 @@
           }
         ]
       }
-  */
-    ] 
+    ]
   }
 ]

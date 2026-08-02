@@ -1,9 +1,9 @@
 {
-    "name": "Choo-Choo Charles Archipelago",
+    "name": "Choo-Choo Charles Archipelago Unofficial",
     "game_name": "Choo-Choo Charles",
-    "package_version": "1.1.0",
+    "package_version": "2.0.0",
     "package_uid": "choo-choo charles_ap",
-    "author": "Xgor",
+    "author": "Ayden",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",

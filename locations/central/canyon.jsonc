@@ -1,6 +1,7 @@
 [
   {
     "name": "Canyon",
+    "access_rules": [ "fogbane_pack","fogbane_canyon" ],
     "children": [
       {
         "name": "Along Rails",
@@ -65,7 +66,7 @@
       {
         "name": "Blue Box",
         "sections": [{
-          "chest_unopened_img": "images/items/bluebox.png",
+          "chest_unopened_img": "images/items/blue_box.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [

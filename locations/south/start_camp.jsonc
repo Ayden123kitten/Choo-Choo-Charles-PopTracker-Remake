@@ -1,9 +1,9 @@
 [
   {
-    "name": "Lost Stairs",
+    "name": "Start Camp",
     "children": [
       {
-        "name": "Down Stairs",
+        "name": "Near Barrier",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -11,14 +11,14 @@
         }],
         "map_locations": [
           {
-            "map": "lost_stairs",
-            "x": 121,
-            "y": 207
+            "map": "start_camp",
+            "x": 190,
+            "y": 120
           }
         ]
       },
       {
-        "name": "Near Stairs",
+        "name": "Behind Tent",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -26,9 +26,9 @@
         }],
         "map_locations": [
           {
-            "map": "lost_stairs",
-            "x": 126,
-            "y": 49
+            "map": "start_camp",
+            "x": 180,
+            "y": 340
           }
         ]
       }

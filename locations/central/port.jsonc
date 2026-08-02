@@ -1,11 +1,13 @@
 [
   {
     "name": "Port",
+    "access_rules": [ "fogbane_pack","fogbane_port" ],
     "children": [
       {
         "name": "Santiago",
         "sections": [{
-          "access_rules": ["journal"],
+          "name": "Mission End",
+          "access_rules": ["santiagos_journal"],
           "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
@@ -18,10 +20,10 @@
         ]
       },
       {
-        "name": "Paint Can",
+        "name": "Grey Paint Can",
         "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
+          "chest_unopened_img": "images/chests/paint_can.png",
+          "chest_opened_img": "images/chests/paint_can_true.png"
         }],
         "map_locations": [
           {

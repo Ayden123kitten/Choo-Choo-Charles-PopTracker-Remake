@@ -1,10 +1,13 @@
 [
   {
     "name": "North Beach",
+    "access_rules": [ "fogbane_pack","fogbane_north_beach" ],
     "children": [
       {
         "name": "Chest",
         "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
           "item_count": 4,
           "access_rules": ["lockpicks"]
         }],
@@ -244,8 +247,8 @@
       {
         "name": "Teal Paint Can",
         "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
+          "chest_unopened_img": "images/chests/paint_can.png",
+          "chest_opened_img": "images/chests/paint_can_true.png"
         }],
         "map_locations": [
           {

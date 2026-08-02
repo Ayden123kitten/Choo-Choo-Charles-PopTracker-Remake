@@ -275,21 +275,6 @@
         ]
       },
       {
-        "name": "Doll Woods Southeast Behind Rock",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "trench_house",
-            "x": 83,
-            "y": 831
-          }
-        ]
-      },
-      {
         "name": "Chest",
         "sections": [{
           "access_rules": ["lockpicks"],

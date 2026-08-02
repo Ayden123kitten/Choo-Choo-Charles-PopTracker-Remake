@@ -1,6 +1,7 @@
 [
   {
     "name": "South Mine",
+    "access_rules": [ "fogbane_pack","fogbane_south_mine" ],
     "children": [
       {
         "name": "Along Main Rails",
@@ -119,14 +120,14 @@
             "item_count": 7
           },
           {
-            "name": "Paint Can",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png",
+            "name": "Green Paint Can",
+            "chest_unopened_img": "images/chests/paint_can.png",
+            "chest_opened_img": "images/chests/paint_can_true.png",
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Green Egg",
-            "chest_unopened_img": "images/items/green.png",
+            "chest_unopened_img": "images/items/green_egg.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],

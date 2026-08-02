@@ -1,11 +1,14 @@
 [
   {
     "name": "West Beach",
+    "access_rules": [ "fogbane_pack","fogbane_west_beach" ],
     "children": [
       {
         "name": "Chest",
         "sections": [{
             "item_count": 6,
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
             "access_rules": ["lockpicks"]
         }],
         "map_locations": [

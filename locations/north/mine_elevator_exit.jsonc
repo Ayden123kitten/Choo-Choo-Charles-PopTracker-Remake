@@ -1,6 +1,7 @@
 [
   {
     "name": "Mine Elevator Exit",
+    "access_rules": [ "fogbane_pack","fogbane_mine_elevator_exit" ],
     "children": [
       {
         "name": "Near Campfire",
