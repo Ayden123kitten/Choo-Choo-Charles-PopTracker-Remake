@@ -1,15 +1,17 @@
 [
   {
     "name": "Canyon",
-    "access_rules": [ "fogbane_pack","fogbane_canyon" ],
+    "access_rules": ["relics_disabled", "relics_enabled, fogbane_canyon"],
     "children": [
       {
         "name": "Along Rails",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -20,11 +22,13 @@
       },
       {
         "name": "Under Unlit Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -35,11 +39,13 @@
       },
       {
         "name": "Inside Overturned Railcar",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -50,11 +56,13 @@
       },
       {
         "name": "Near Lonely Tent",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -65,10 +73,12 @@
       },
       {
         "name": "Blue Box",
-        "sections": [{
-          "chest_unopened_img": "images/items/blue_box.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/blue_box.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -79,11 +89,13 @@
       },
       {
         "name": "Behind Railcar",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -94,11 +106,13 @@
       },
       {
         "name": "Near Twin Tents",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -109,11 +123,13 @@
       },
       {
         "name": "Near Shelter",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -124,11 +140,13 @@
       },
       {
         "name": "Under Bridge",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -139,11 +157,13 @@
       },
       {
         "name": "South Between Rocks",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -154,11 +174,13 @@
       },
       {
         "name": "Bridge Left",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -169,11 +191,13 @@
       },
       {
         "name": "Bridge Middle",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -184,11 +208,13 @@
       },
       {
         "name": "Bridge Right",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -199,11 +225,13 @@
       },
       {
         "name": "East Top Mountain",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -214,11 +242,13 @@
       },
       {
         "name": "South Top Mountain",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -229,11 +259,13 @@
       },
       {
         "name": "Above Overturned Railcar",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -244,11 +276,13 @@
       },
       {
         "name": "East On Lonely Rocks",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -259,11 +293,13 @@
       },
       {
         "name": "North On Lonely Rocks",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -272,6 +308,6 @@
           }
         ]
       }
-    ] 
+    ]
   }
 ]

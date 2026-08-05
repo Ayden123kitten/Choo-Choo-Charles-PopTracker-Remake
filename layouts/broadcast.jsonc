@@ -1,5 +1,4 @@
 {
-  //sets the layout for the broadcast view
   "tracker_broadcast": {
     "type": "array",
     "orientation": "vertical",
@@ -25,6 +24,14 @@
           {
             "type": "layout",
             "key": "fog_item_grid"
+          },
+          {
+            "type": "layout",
+            "key": "track_switch_item_grid"
+          },
+          {
+            "type": "layout",
+            "key": "settings_item_grid"
           }
         ]
       }

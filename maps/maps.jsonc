@@ -68,12 +68,6 @@
     "img": "images/maps/central/haunted_house.jpg"
   },
   {
-    "name": "lost_stairs",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/central/lost_stairs.jpg"
-  },
-  {
     "name": "train_depot",
     "location_size": 30,
     "location_border_thickness": 4,
@@ -83,7 +77,7 @@
     "name": "pickle_valley",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/central/pickle_valley.jpg"
+    "img": "images/maps/central/pickle_valley.jg"
   },
   {
     "name": "port",
@@ -107,7 +101,7 @@
     "name": "temple",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/central/prism_temple.jpg"
+    "img": "images/maps/central/temple.jpg"
   },
   {
     "name": "watchtower",
@@ -135,6 +129,12 @@
     "img": "images/maps/east/lighthouse.jpg"
   },
   {
+    "name": "lost_stairs",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/lost_stairs.jpg"
+  },
+  {
     "name": "rocket_testing_grounds",
     "location_size": 30,
     "location_border_thickness": 4,
@@ -152,18 +152,55 @@
     "location_border_thickness": 4,
     "img": "images/maps/east/workshop.jpg"
   },
+  // Mid-West
+  {
+    "name": "caravan",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/mid_west/caravan.jpg"
+  },
+  {
+    "name": "mine_elevator_exit",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/mid_west/mine_elevator_exit.jpg"
+  },
+  {
+    "name": "mine_shaft",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/mid_west/mine_shaft.jpg"
+  },
+  {
+    "name": "mob_camp",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/mid_west/mob_camp.jpg"
+  },
+  {
+    "name": "mountain_ruin",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/mid_west/mountain_ruin.jpg"
+  },
+  {
+    "name": "towers",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/mid_west/towers.jpg"
+  },
+  {
+    "name": "trailer_cabin",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/mid_west/trailer_cabin.jpg"
+  },
   // North
   {
     "name": "barbed_shelter",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/north/barbed_shelter.jpg"
-  },
-  {
-    "name": "caravan",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/north/caravan.jpg"
   },
   {
     "name": "church",
@@ -178,34 +215,10 @@
     "img": "images/maps/east/east_house.jpg"
   },
   {
-    "name": "mine_elevator_exit",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/north/mine_elevator_exit.jpg"
-  },
-  {
-    "name": "mine_shaft",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/north/mine_shaft.jpg"
-  },
-  {
-    "name": "mob_camp",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/north/mob_camp.jpg"
-  },
-  {
     "name": "morse_bunker",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/north/morse_bunker.jpg"
-  },
-  {
-    "name": "mountain_ruin",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/north/mountain_ruin.jpg"
   },
   {
     "name": "museum",
@@ -224,18 +237,6 @@
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/north/north_mine.jpg"
-  },
-  {
-    "name": "towers",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/north/towers.jpg"
-  },
-  {
-    "name": "trailer_cabin",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/north/trailer_cabin.jpg"
   },
   {
     "name": "west_beach",

@@ -78,19 +78,19 @@
     "codes": "ancient_tablet"
   },
   {
-    "name": "Page Drawings",
+    "name": "Page Drawing",
     "type": "consumable",
     "img": "images/items/page_drawing.png",
-    "codes": "page_drawings",
+    "codes": "page_drawing",
     "max_quantity": 8,
     "increment": 1,
     "decrement": 1
   },
   {
-    "name": "Breakers",
+    "name": "Breaker",
     "type": "consumable",
     "img": "images/items/breaker.png",
-    "codes": "breakers",
+    "codes": "breaker",
     "max_quantity": 4,
     "increment": 1,
     "decrement": 1
@@ -142,13 +142,6 @@
     "type": "toggle",
     "img": "images/items/remote_explosives.png",
     "codes": "remote_explosives"
-  },
-
-  {
-    "name": "Fogbane Relic Pack",
-    "type": "toggle",
-    "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_pack"
   },
   {
     "name": "Mine Shaft Fogbane Relic",
@@ -353,5 +346,63 @@
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
     "codes": "fogbane_morse_bunker"
+  },
+  {
+    "name": "Toggle Fogbane Relics",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "/images/toggles/cursed_fogs_enabled.png",
+        "inherit_codes": false,
+        "codes": "relics_enabled, cursed_fogs_toggle"
+      },
+      {
+        "img": "/images/toggles/cursed_fogs_disabled.png",
+        "inherit_codes": false,
+        "codes": "relics_disabled, cursed_fogs_toggle",
+      }
+    ]
+  },
+  {
+    "name": "Candice's House/Barn Track Switch",
+    "type": "toggle",
+    "img": "images/items/track_switch.png",
+    "codes": "track_switch_tutorial_barn"
+  },
+  {
+    "name": "Middle/Port Track Switch",
+    "type": "toggle",
+    "img": "images/items/track_switch.png",
+    "codes": "track_switch_middle_port"
+  },
+  {
+    "name": "Haunted House/East Track Switch",
+    "type": "toggle",
+    "img": "images/items/track_switch.png",
+    "codes": "track_switch_haunted_East"
+  },
+  {
+    "name": "North/Temple Track Switch",
+    "type": "toggle",
+    "img": "images/items/track_switch.png",
+    "codes": "track_switch_north_temple"
+  },
+  {
+    "name": "Caravan/Cultists Track Switch",
+    "type": "toggle",
+    "img": "images/items/track_switch.png",
+    "codes": "track_switch_caravan_cultists"
+  },
+  {
+    "name": "Mob Camp/Mine Elevator Exit Track Switch",
+    "type": "toggle",
+    "img": "images/items/track_switch.png",
+    "codes": "track_switch_camp_elevator"
+  },
+  {
+    "name": "Mountain Ruin/Temple Track Switch",
+    "type": "toggle",
+    "img": "images/items/track_switch.png",
+    "codes": "track_switch_ruin_temple"
   }
 ]

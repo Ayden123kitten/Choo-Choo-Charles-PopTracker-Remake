@@ -4,11 +4,13 @@
     "children": [
       {
         "name": "Near Rocks",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "shrine",
@@ -19,11 +21,13 @@
       },
       {
         "name": "Along Path",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "shrine",
@@ -34,11 +38,13 @@
       },
       {
         "name": "Near Barriers",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "shrine",
@@ -47,6 +53,6 @@
           }
         ]
       }
-    ] 
+    ]
   }
 ]

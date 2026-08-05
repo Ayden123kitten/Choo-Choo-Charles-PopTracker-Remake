@@ -4,11 +4,13 @@
     "children": [
       {
         "name": "Near Barrier",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "start_camp",
@@ -19,11 +21,13 @@
       },
       {
         "name": "Behind Tent",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "start_camp",
@@ -32,6 +36,6 @@
           }
         ]
       }
-    ] 
+    ]
   }
 ]

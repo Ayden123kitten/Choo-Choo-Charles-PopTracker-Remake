@@ -1,28 +1,13 @@
 [
   {
-    "name": "West Beach",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_west_beach"],
+    "name": "Mine Elevator Exit",
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_mine_elevator_exit"
+    ],
     "children": [
       {
-        "name": "Chest",
-        "sections": [
-          {
-            "item_count": 6,
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png",
-            "access_rules": ["lockpicks"]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 329,
-            "y": 232
-          }
-        ]
-      },
-      {
-        "name": "Top Near Footbridge 1",
+        "name": "Near Campfire",
         "sections": [
           {
             "name": "Scraps",
@@ -32,14 +17,14 @@
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 333,
-            "y": 195
+            "map": "mine_elevator_exit",
+            "x": 595,
+            "y": 412
           }
         ]
       },
       {
-        "name": "Top Near Footbridge 2",
+        "name": "Behind Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -49,14 +34,14 @@
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 342,
-            "y": 269
+            "map": "mine_elevator_exit",
+            "x": 469,
+            "y": 410
           }
         ]
       },
       {
-        "name": "Bottom Foot Of Stairs",
+        "name": "Near Tents",
         "sections": [
           {
             "name": "Scraps",
@@ -66,14 +51,14 @@
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 321,
-            "y": 287
+            "map": "mine_elevator_exit",
+            "x": 572,
+            "y": 290
           }
         ]
       },
       {
-        "name": "Bottom Near Minecart",
+        "name": "Sheltered",
         "sections": [
           {
             "name": "Scraps",
@@ -83,14 +68,14 @@
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 263,
-            "y": 235
+            "map": "mine_elevator_exit",
+            "x": 434,
+            "y": 378
           }
         ]
       },
       {
-        "name": "Bottom In Corner",
+        "name": "Near Hole",
         "sections": [
           {
             "name": "Scraps",
@@ -100,31 +85,14 @@
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 187,
-            "y": 245
-          }
-        ]
-      },
-      {
-        "name": "Laying On Sand",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
+            "map": "mine_elevator_exit",
             "x": 344,
-            "y": 481
+            "y": 258
           }
         ]
       },
       {
-        "name": "Laying Under Stairs",
+        "name": "Behind Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -134,14 +102,14 @@
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 160,
-            "y": 313
+            "map": "mine_elevator_exit",
+            "x": 262,
+            "y": 180
           }
         ]
       },
       {
-        "name": "Top Near Beams",
+        "name": "Behind Dirt Heaps",
         "sections": [
           {
             "name": "Scraps",
@@ -151,9 +119,43 @@
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 453,
-            "y": 69
+            "map": "mine_elevator_exit",
+            "x": 142,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Behind Rocks",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 330,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "On Downhill Path",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 531,
+            "y": 29
           }
         ]
       }

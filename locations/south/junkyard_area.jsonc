@@ -1,7 +1,10 @@
 [
   {
     "name": "Junkyard Area",
-    "access_rules": [ "fogbane_pack","fogbane_junkyard_area" ],
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_junkyard_area"
+    ],
     "children": [
       {
         "name": "Daryl",
@@ -15,7 +18,7 @@
             "name": "Mission End",
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
-            "access_rules": ["tablet"]
+            "access_rules": ["ancient_tablet"]
           }
         ],
         "map_locations": [
@@ -28,11 +31,13 @@
       },
       {
         "name": "Inside Workshop",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -43,11 +48,13 @@
       },
       {
         "name": "On Table",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -58,11 +65,13 @@
       },
       {
         "name": "Top Wagon",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -73,11 +82,13 @@
       },
       {
         "name": "Middle Wagon",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -88,11 +99,13 @@
       },
       {
         "name": "Bottom Wagon",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -103,11 +116,13 @@
       },
       {
         "name": "Near Junk Stacks",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -118,11 +133,13 @@
       },
       {
         "name": "On Junk Stacks",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -133,11 +150,13 @@
       },
       {
         "name": "On Crates",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -148,11 +167,13 @@
       },
       {
         "name": "Behind Beams",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -163,11 +184,13 @@
       },
       {
         "name": "Near Campfire",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -178,11 +201,13 @@
       },
       {
         "name": "Ancient Tablet",
-        "sections": [{
-          "chest_unopened_img": "images/chests/ancient_tablet.png",
-          "chest_opened_img": "images/chests/scraps_true.png",
-          "access_rules": ["lockpicks"]
-        }],
+        "sections": [
+          {
+            "chest_unopened_img": "images/chests/ancient_tablet.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "access_rules": ["lockpicks"]
+          }
+        ],
         "map_locations": [
           {
             "map": "junkyard_area",
@@ -191,6 +216,6 @@
           }
         ]
       }
-    ] 
+    ]
   }
 ]

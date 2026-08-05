@@ -13,8 +13,8 @@
             "green_egg",
             "red_egg",
             "blue_egg",
-            "temple_key",
-            "fogbane_temple"
+            "fogbane_temple",
+            "temple_key"
           ]
         ]
       }
@@ -65,10 +65,7 @@
             "timed_dynamite",
             "remote_explosives"
           ],
-          [
-            "page_drawing",
-            "breaker"
-          ]
+          ["page_drawing", "breaker"]
         ]
       }
     ]
@@ -121,25 +118,50 @@
           ],
           [
             "fogbane_wooden_bridge",
-            "fogbane_workshop",
-            "fogbane_pack"
+            "fogbane_workshop"
           ]
         ]
       }
     ]
   },
-  "settings": {
+  "track_switch_item_grid": {
     "type": "array",
-    "orientation": "vertical",
-    "content": [{
-      "type":"itemgrid",
-      "h_alignment": "center",
-      "item_size": "39",
-      "item_margin": "1,2",
-      "rows": [
-          ["cursed_fogs"]
-      ]
-    }]
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "10, 10",
+        "h_alignment": "left",
+        "rows": [
+          [
+            "track_switch_tutorial_barn",
+            "track_switch_middle_port",
+            "track_switch_haunted_East",
+            "track_switch_north_temple",
+            "track_switch_caravan_cultists",
+            "track_switch_camp_elevator",
+            "track_switch_ruin_temple"
+          ]
+        ]
+      }
+    ]
+  },
+  "settings_item_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "10, 10",
+        "h_alignment": "left",
+        "rows": [
+          [
+            "cursed_fogs_toggle"
+          ]
+        ]
+      }
+    ]
   }
 }
-

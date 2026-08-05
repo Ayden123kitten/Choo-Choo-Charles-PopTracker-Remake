@@ -1,12 +1,10 @@
-
 [
   {
     "name": "Aranerarum",
     "children": [
       {
         "name": "Start Camp",
-        "access_rules": [
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Scraps",
@@ -25,9 +23,7 @@
       },
       {
         "name": "Barn",
-        "access_rules": [
-
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Tony Tiddle Mission Start",
@@ -42,8 +38,6 @@
             "item_count": 9,
             "access_rules": ["barn_key"]
           }
-
-
         ],
         "map_locations": [
           {
@@ -56,7 +50,8 @@
       {
         "name": "South House",
         "access_rules": [
-          "fogbane_pack","fogbane_south_house"
+          "relics_disabled",
+          "relics_enabled, fogbane_south_house"
         ],
         "sections": [
           {
@@ -80,9 +75,7 @@
       },
       {
         "name": "Candice's House",
-        "access_rules": [
-
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Candice Mission Start",
@@ -95,7 +88,7 @@
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 9,
-            "access_rules": ["candice_key"]
+            "access_rules": ["candices_key"]
           }
         ],
         "map_locations": [
@@ -109,7 +102,8 @@
       {
         "name": "Junkyard Area",
         "access_rules": [
-          "fogbane_pack","fogbane_junkyard_area"
+          "relics_disabled",
+          "relics_enabled, fogbane_junkyard_area"
         ],
         "sections": [
           {
@@ -135,7 +129,7 @@
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
-            "access_rules": ["tablet"]
+            "access_rules": ["ancient_tablet"]
           }
         ],
         "map_locations": [
@@ -149,7 +143,8 @@
       {
         "name": "Junkyard Shed",
         "access_rules": [
-          "fogbane_pack","fogbane_junkyard_shed"
+          "relics_disabled",
+          "relics_enabled, fogbane_junkyard_shed"
         ],
         "sections": [
           {
@@ -175,7 +170,8 @@
       {
         "name": "Military Base",
         "access_rules": [
-          "fogbane_pack","fogbane_military_base"
+          "relics_disabled",
+          "relics_enabled, fogbane_military_base"
         ],
         "sections": [
           {
@@ -204,9 +200,7 @@
       },
       {
         "name": "Swamp",
-        "access_rules": [
-
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Edge",
@@ -237,7 +231,7 @@
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
-            "access_rules": ["fish"]
+            "access_rules": ["dead_fish"]
           }
         ],
         "map_locations": [
@@ -252,7 +246,8 @@
       {
         "name": "South Mine",
         "access_rules": [
-          "fogbane_pack","fogbane_south_mine_outside"
+          "relics_disabled",
+          "relics_enabled, fogbane_south_mine_outside"
         ],
         "sections": [
           {
@@ -273,7 +268,7 @@
             "chest_unopened_img": "images/chests/paint_can.png",
             "chest_opened_img": "images/chests/paint_can_true.png",
             "item_count": 1,
-            "access_rules": ["south_mine_key", "lockpicks"]
+            "access_rules": ["south_mine_key, lockpicks"]
           },
           {
             "name": "Green Egg",
@@ -286,7 +281,7 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "shape":"trapezoid",
+            "shape": "trapezoid",
             "size": 40,
             "x": 840,
             "y": 735
@@ -296,7 +291,8 @@
       {
         "name": "Pickle Valley",
         "access_rules": [
-          "fogbane_pack","fogbane_pickle_valley"
+          "relics_disabled",
+          "relics_enabled, fogbane_pickle_valley"
         ],
         "sections": [
           {
@@ -337,9 +333,7 @@
       },
       {
         "name": "Canyon",
-        "access_rules": [
-          "fogbane_pack","fogbane_canyon"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_canyon"],
         "sections": [
           {
             "name": "Scraps",
@@ -366,7 +360,8 @@
       {
         "name": "Train Depot",
         "access_rules": [
-          "fogbane_pack","fogbane_train_depot"
+          "relics_disabled",
+          "relics_enabled, fogbane_train_depot"
         ],
         "sections": [
           {
@@ -401,7 +396,8 @@
       {
         "name": "Watchtower",
         "access_rules": [
-          "fogbane_pack","fogbane_watchtower"
+          "relics_disabled",
+          "relics_enabled, fogbane_watchtower"
         ],
         "sections": [
           {
@@ -428,8 +424,7 @@
       },
       {
         "name": "Boulder Field",
-        "access_rules": [
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Scraps",
@@ -456,7 +451,8 @@
       {
         "name": "Haunted House",
         "access_rules": [
-          "fogbane_pack","fogbane_haunted_house"
+          "relics_disabled",
+          "relics_enabled, fogbane_haunted_house"
         ],
         "sections": [
           {
@@ -470,7 +466,7 @@
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
-            "access_rules": ["$has_more_then_n|page|7"]
+            "access_rules": ["$has_more_then_n|page_drawing|7"]
           }
         ],
         "map_locations": [
@@ -483,9 +479,7 @@
       },
       {
         "name": "Port",
-        "access_rules": [
-          "fogbane_pack","fogbane_port"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_port"],
         "sections": [
           {
             "name": "Scraps",
@@ -504,7 +498,7 @@
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
-            "access_rules": ["journal"]
+            "access_rules": ["santiagos_journal"]
           }
         ],
         "map_locations": [
@@ -519,7 +513,8 @@
       {
         "name": "Santiago House",
         "access_rules": [
-          "fogbane_pack","fogbane_santiago_house"
+          "relics_disabled",
+          "relics_enabled, fogbane_santiago_house"
         ],
         "sections": [
           {
@@ -545,8 +540,7 @@
       },
       {
         "name": "Lost Stairs",
-        "access_rules": [
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Scraps",
@@ -566,7 +560,8 @@
       {
         "name": "Doll Woods",
         "access_rules": [
-          "fogbane_pack","fogbane_doll_woods"
+          "relics_disabled",
+          "relics_enabled, fogbane_doll_woods"
         ],
         "sections": [
           {
@@ -586,8 +581,7 @@
       },
       {
         "name": "Trench House",
-        "access_rules": [
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Scraps",
@@ -614,7 +608,8 @@
       {
         "name": "Rocket Testing Grounds",
         "access_rules": [
-          "fogbane_pack","fogbane_rocket_testing_grounds"
+          "relics_disabled",
+          "relics_enabled, fogbane_rocket_testing_grounds"
         ],
         "sections": [
           {
@@ -655,9 +650,7 @@
       },
       {
         "name": "Workshop",
-        "access_rules": [
-          "fogbane_pack","fogbane_workshop"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_workshop"],
         "sections": [
           {
             "name": "Scraps",
@@ -670,7 +663,7 @@
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
-            "access_rules": ["rockets"]
+            "access_rules": ["box_of_rockets"]
           }
         ],
         "map_locations": [
@@ -684,7 +677,8 @@
       {
         "name": "East House",
         "access_rules": [
-          "fogbane_pack","fogbane_east_house"
+          "relics_disabled",
+          "relics_enabled, fogbane_east_house"
         ],
         "sections": [
           {
@@ -711,7 +705,8 @@
       {
         "name": "East Tower",
         "access_rules": [
-          "fogbane_pack","fogbane_east_tower"
+          "relics_disabled",
+          "relics_enabled, fogbane_east_tower"
         ],
         "sections": [
           {
@@ -738,7 +733,8 @@
       {
         "name": "Lighthouse",
         "access_rules": [
-          "fogbane_pack","fogbane_lighthouse"
+          "relics_disabled",
+          "relics_enabled, fogbane_lighthouse"
         ],
         "sections": [
           {
@@ -772,9 +768,7 @@
       },
       {
         "name": "Temple",
-        "access_rules": [
-          "fogbane_pack","fogbane_temple"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_temple"],
         "sections": [
           {
             "name": "Scraps",
@@ -801,8 +795,7 @@
       },
       {
         "name": "Shrine Near Temple",
-        "access_rules": [
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Scraps",
@@ -821,9 +814,7 @@
       },
       {
         "name": "Towers",
-        "access_rules": [
-          "fogbane_pack","fogbane_towers"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_towers"],
         "sections": [
           {
             "name": "Scraps",
@@ -845,7 +836,7 @@
             "name": "Ronny Mission End",
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
-            "access_rules": ["contracts"]
+            "access_rules": ["employment_contracts"]
           }
         ],
         "map_locations": [
@@ -860,7 +851,8 @@
       {
         "name": "Trailer Cabin",
         "access_rules": [
-          "fogbane_pack","fogbane_trailer_cabin"
+          "relics_disabled",
+          "relics_enabled, fogbane_trailer_cabin"
         ],
         "sections": [
           {
@@ -880,8 +872,7 @@
       },
       {
         "name": "Caravan",
-        "access_rules": [
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Scraps",
@@ -909,7 +900,8 @@
       {
         "name": "Mine Elevator Exit",
         "access_rules": [
-          "fogbane_pack","fogbane_mine_elevator_exit"
+          "relics_disabled",
+          "relics_enabled, fogbane_mine_elevator_exit"
         ],
         "sections": [
           {
@@ -930,7 +922,8 @@
       {
         "name": "Mountain Ruin",
         "access_rules": [
-          "fogbane_pack","fogbane_mountain_ruin_outside"
+          "relics_disabled",
+          "relics_enabled, fogbane_mountain_ruin_outside"
         ],
         "sections": [
           {
@@ -951,7 +944,7 @@
             "chest_unopened_img": "images/chests/paint_can.png",
             "chest_opened_img": "images/chests/paint_can_true.png",
             "item_count": 1,
-            "access_rules": ["mountain_ruin_key", "lockpicks"]
+            "access_rules": ["mountain_ruin_key, lockpicks"]
           },
           {
             "name": "Red Egg",
@@ -962,7 +955,7 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "shape":"trapezoid",
+            "shape": "trapezoid",
             "size": 60,
             "x": 350,
             "y": 350
@@ -971,9 +964,7 @@
       },
       {
         "name": "Mob Camp",
-        "access_rules": [
-          "fogbane_pack","fogbane_mob_camp"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_mob_camp"],
         "sections": [
           {
             "name": "Scraps",
@@ -998,7 +989,7 @@
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
-            "access_rules": ["mob_camp_key,bob"]
+            "access_rules": ["mob_camp_key, bob"]
           }
         ],
         "map_locations": [
@@ -1013,7 +1004,8 @@
       {
         "name": "West Cottage",
         "access_rules": [
-          "fogbane_pack","fogbane_west_cottage"
+          "relics_disabled",
+          "relics_enabled, fogbane_west_cottage"
         ],
         "sections": [
           {
@@ -1039,9 +1031,7 @@
       },
       {
         "name": "Church",
-        "access_rules": [
-          "fogbane_pack","fogbane_church"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_church"],
         "sections": [
           {
             "name": "Scraps",
@@ -1067,7 +1057,8 @@
       {
         "name": "Barbed Shelter",
         "access_rules": [
-          "fogbane_pack","fogbane_barbed_shelter"
+          "relics_disabled",
+          "relics_enabled, fogbane_barbed_shelter"
         ],
         "sections": [
           {
@@ -1094,7 +1085,8 @@
       {
         "name": "West Beach",
         "access_rules": [
-          "fogbane_pack","fogbane_west_beach"
+          "relics_disabled",
+          "relics_enabled, fogbane_west_beach"
         ],
         "sections": [
           {
@@ -1122,7 +1114,8 @@
       {
         "name": "North Beach",
         "access_rules": [
-          "fogbane_pack","fogbane_north_beach"
+          "relics_disabled",
+          "relics_enabled, fogbane_north_beach"
         ],
         "sections": [
           {
@@ -1155,7 +1148,8 @@
       {
         "name": "Wooden Bridge",
         "access_rules": [
-          "fogbane_pack","fogbane_wooden_bridge"
+          "relics_disabled",
+          "relics_enabled, fogbane_wooden_bridge"
         ],
         "sections": [
           {
@@ -1176,9 +1170,7 @@
       },
       {
         "name": "Museum",
-        "access_rules": [
-          "fogbane_pack","fogbane_museum"
-        ],
+        "access_rules": ["relics_disabled", "relics_enabled, fogbane_museum"],
         "sections": [
           {
             "name": "Scraps",
@@ -1197,7 +1189,6 @@
             "chest_opened_img": "images/chests/scraps_true.png",
             "access_rules": ["remote_explosives"]
           }
-
         ],
         "map_locations": [
           {
@@ -1210,7 +1201,8 @@
       {
         "name": "Morse Bunker",
         "access_rules": [
-          "fogbane_pack","fogbane_morse_bunker"
+          "relics_disabled",
+          "relics_enabled, fogbane_morse_bunker"
         ],
         "sections": [
           {
@@ -1239,7 +1231,8 @@
       {
         "name": "North Mine",
         "access_rules": [
-          "fogbane_pack","fogbane_north_mine_outside"
+          "relics_disabled",
+          "relics_enabled, fogbane_north_mine_outside"
         ],
         "sections": [
           {
@@ -1260,7 +1253,7 @@
             "chest_unopened_img": "images/chests/can.png",
             "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1,
-            "access_rules": ["north_mine_key", "lockpicks"]
+            "access_rules": ["north_mine_key, lockpicks"]
           },
           {
             "name": "Blue Egg",
@@ -1273,7 +1266,7 @@
           {
             "map": "aranearum",
             "size": 60,
-            "shape":"trapezoid",
+            "shape": "trapezoid",
             "x": 155,
             "y": 150
           }
@@ -1281,7 +1274,10 @@
       },
       {
         "name": "Mine Shaft",
-        "access_rules": [ "fogbane_pack","fogbane_mine_shaft" ],
+        "access_rules": [
+          "relics_disabled",
+          "relics_enabled, fogbane_mine_shaft"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -1306,7 +1302,6 @@
           }
         ]
       }
-
     ]
   }
 ]

@@ -1,15 +1,20 @@
 [
   {
     "name": "Barbed Shelter",
-    "access_rules": [ "fogbane_pack","fogbane_barbed_shelter" ],
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_barbed_shelter"
+    ],
     "children": [
       {
         "name": "Gertrude",
-        "sections": [{
-          "name": "Mission Start",
-          "chest_unopened_img": "images/items/bob.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Mission Start",
+            "chest_unopened_img": "images/items/bob.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "barbed_shelter",
@@ -20,11 +25,13 @@
       },
       {
         "name": "Near Rails",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "barbed_shelter",
@@ -35,11 +42,13 @@
       },
       {
         "name": "Under Barbed Wire",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "barbed_shelter",
@@ -50,11 +59,13 @@
       },
       {
         "name": "On Path",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "barbed_shelter",
@@ -65,11 +76,13 @@
       },
       {
         "name": "Behind Beams",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "barbed_shelter",
@@ -80,11 +93,13 @@
       },
       {
         "name": "Sheltered",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "barbed_shelter",
@@ -93,6 +108,6 @@
           }
         ]
       }
-    ] 
+    ]
   }
 ]

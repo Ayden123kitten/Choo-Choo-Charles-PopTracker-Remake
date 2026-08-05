@@ -1,346 +1,270 @@
 [
   {
-    "name": "Lighthouse",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_lighthouse"],
+    "name": "Mine Shaft",
+    "access_rules": ["relics_disabled", "relics_enabled, fogbane_mine_shaft"],
     "children": [
       {
-        "name": "Southwest Near Lit Lantern",
+        "name": "Chest",
         "sections": [
           {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 58,
-            "y": 999
-          }
-        ]
-      },
-      {
-        "name": "Southwest Near Tent",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 366,
-            "y": 879
-          }
-        ]
-      },
-      {
-        "name": "Southwest Under Unlit Lantern",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 276,
-            "y": 723
-          }
-        ]
-      },
-      {
-        "name": "South Near Lanternless Post",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 460,
-            "y": 691
-          }
-        ]
-      },
-      {
-        "name": "Southeast Under Lit Lantern",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 658,
-            "y": 492
-          }
-        ]
-      },
-      {
-        "name": "Southeast Behind Shelter",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 717,
-            "y": 499
-          }
-        ]
-      },
-      {
-        "name": "Southeast Near Crates",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 792,
-            "y": 429
-          }
-        ]
-      },
-      {
-        "name": "East Under Lit Lantern",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 806,
-            "y": 332
-          }
-        ]
-      },
-      {
-        "name": "East On Floating Bridge",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 849,
-            "y": 267
-          }
-        ]
-      },
-      {
-        "name": "Southeast On Path Intersection",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 679,
-            "y": 434
-          }
-        ]
-      },
-      {
-        "name": "Middle On Downhill Path",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 594,
-            "y": 396
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Breaker Box",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 468,
-            "y": 262
-          }
-        ]
-      },
-      {
-        "name": "Middle On Lower Rock Ledge",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 588,
-            "y": 170
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Barrier",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 419,
-            "y": 94
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Crates",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 298,
-            "y": 88
-          }
-        ]
-      },
-      {
-        "name": "Middle Coast Overlook",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 242,
-            "y": 255
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Unlit Lantern",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 333,
-            "y": 262
-          }
-        ]
-      },
-      {
-        "name": "West On Coast",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 110,
-            "y": 455
-          }
-        ]
-      },
-      {
-        "name": "Breaker",
-        "sections": [
-          {
-            "chest_unopened_img": "images/items/breaker.png",
-            "chest_opened_img": "images/chests/scraps_true.png",
-            "item_count": 4
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 684,
-            "y": 496
-          }
-        ]
-      },
-      {
-        "name": "Claire",
-        "sections": [
-          {
-            "name": "Mission End",
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
-            "access_rules": ["$has_more_then_n|breaker|3"]
+            "item_count": 7,
+            "access_rules": ["lockpicks"]
           }
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 406,
-            "y": 266
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 188,
+            "y": 336
+          }
+        ]
+      },
+      {
+        "name": "Outside Near Beams",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 136,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Outside Near Minecarts",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 72,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "Outside Near Platform",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 186,
+            "y": 411
+          }
+        ]
+      },
+      {
+        "name": "Outside Near Crates",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 71,
+            "y": 423
+          }
+        ]
+      },
+      {
+        "name": "Inside Topmost",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 104,
+            "y": 445
+          }
+        ]
+      },
+      {
+        "name": "Inside After Freefall",
+        "sections": [
+          {
+            "name": "Scraps",
+
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 126,
+            "y": 386
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Table",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 97,
+            "y": 338
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Chest",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 158,
+            "y": 336
+          }
+        ]
+      },
+      {
+        "name": "Inside On Rocks",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 175,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Rails 1",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 373,
+            "y": 174
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Rails 2",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 457,
+            "y": 145
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Rails 3",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 485,
+            "y": 121
+          }
+        ]
+      },
+      {
+        "name": "Exit End Rails",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 521,
+            "y": 107
+          }
+        ]
+      },
+      {
+        "name": "Exit Near Minecart",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 546,
+            "y": 71
           }
         ]
       }

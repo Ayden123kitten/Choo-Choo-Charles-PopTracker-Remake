@@ -1,10 +1,13 @@
 [
   {
-    "name": "Workshop",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_workshop"],
+    "name": "Trailer Cabin",
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_trailer_cabin"
+    ],
     "children": [
       {
-        "name": "Sheltered",
+        "name": "Near Rails 1",
         "sections": [
           {
             "name": "Scraps",
@@ -14,14 +17,14 @@
         ],
         "map_locations": [
           {
-            "map": "workshop",
-            "x": 413,
-            "y": 588
+            "map": "trailer_cabin",
+            "x": 405,
+            "y": 354
           }
         ]
       },
       {
-        "name": "On Platform",
+        "name": "Near Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -31,95 +34,77 @@
         ],
         "map_locations": [
           {
-            "map": "workshop",
-            "x": 427,
-            "y": 282
-          }
-        ]
-      },
-      {
-        "name": "On Side Path",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "workshop",
-            "x": 183,
-            "y": 53
-          }
-        ]
-      },
-      {
-        "name": "Near Water Tank",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "workshop",
-            "x": 228,
-            "y": 419
-          }
-        ]
-      },
-      {
-        "name": "Under Lantern",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "workshop",
-            "x": 92,
-            "y": 350
-          }
-        ]
-      },
-      {
-        "name": "Near Beds",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "workshop",
-            "x": 309,
+            "map": "trailer_cabin",
+            "x": 281,
             "y": 426
           }
         ]
       },
       {
-        "name": "John Smith",
+        "name": "Behind Cabin",
         "sections": [
           {
-            "name": "Mission End",
-            "access_rules": ["box_of_rockets"],
+            "name": "Scraps",
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],
         "map_locations": [
           {
-            "map": "workshop",
-            "x": 347,
-            "y": 386
+            "map": "trailer_cabin",
+            "x": 80,
+            "y": 611
+          }
+        ]
+      },
+      {
+        "name": "Near Platform",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "trailer_cabin",
+            "x": 419,
+            "y": 534
+          }
+        ]
+      },
+      {
+        "name": "Under Cabin Roof",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "trailer_cabin",
+            "x": 320,
+            "y": 626
+          }
+        ]
+      },
+      {
+        "name": "Near Rails 2",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "trailer_cabin",
+            "x": 179,
+            "y": 36
           }
         ]
       }

@@ -1,15 +1,20 @@
 [
   {
     "name": "Rocket Testing Grounds",
-    "access_rules": [ "fogbane_pack","fogbane_rocket_testing_grounds" ],
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_rocket_testing_grounds"
+    ],
     "children": [
       {
         "name": "Timed Dynamite",
-        "sections": [{
-          "name": "",
-          "chest_unopened_img": "images/items/timed_dynamite.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "",
+            "chest_unopened_img": "images/items/timed_dynamite.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -20,11 +25,13 @@
       },
       {
         "name": "East Near Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -35,11 +42,13 @@
       },
       {
         "name": "East Near Barrier",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -50,11 +59,13 @@
       },
       {
         "name": "Middle Near Dirt Heap",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -65,11 +76,13 @@
       },
       {
         "name": "Middle Near Planks",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -80,11 +93,13 @@
       },
       {
         "name": "Middle Near Crate",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -95,11 +110,13 @@
       },
       {
         "name": "Middle Near Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -110,11 +127,13 @@
       },
       {
         "name": "North Under Sign",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -125,11 +144,13 @@
       },
       {
         "name": "Middle Near Rock",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -140,11 +161,13 @@
       },
       {
         "name": "Southwest Above Door",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -155,11 +178,13 @@
       },
       {
         "name": "South Above Bunker",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -170,12 +195,14 @@
       },
       {
         "name": "Near Explosives",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png",
-          "access_rules": ["dynamite"]
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "access_rules": ["dynamite"]
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -187,12 +214,14 @@
       },
       {
         "name": "In Corner",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png",
-          "access_rules": ["dynamite"]
-        }],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "access_rules": ["dynamite"]
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -204,11 +233,13 @@
       },
       {
         "name": "Box of Rockets",
-        "sections": [{
-          "chest_unopened_img": "images/items/box_of_rockets.png",
-          "chest_opened_img": "images/chests/scraps_true.png",
-          "access_rules": ["dynamite"]
-        }],
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/box_of_rockets.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "access_rules": ["dynamite"]
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_testing_grounds",
@@ -218,6 +249,6 @@
           }
         ]
       }
-    ] 
+    ]
   }
 ]

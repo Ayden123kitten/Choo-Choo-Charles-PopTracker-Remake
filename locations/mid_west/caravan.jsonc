@@ -1,159 +1,175 @@
 [
   {
-    "name": "West Beach",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_west_beach"],
+    "name": "Caravan",
     "children": [
+      {
+        "name": "Near Rails",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 43,
+            "y": 58
+          }
+        ]
+      },
+      {
+        "name": "Under Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 264,
+            "y": 149
+          }
+        ]
+      },
+      {
+        "name": "Near Footbridge",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 451,
+            "y": 243
+          }
+        ]
+      },
+      {
+        "name": "Near Grave",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 667,
+            "y": 262
+          }
+        ]
+      },
+      {
+        "name": "On Path",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 844,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "Near Tent",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 970,
+            "y": 620
+          }
+        ]
+      },
+      {
+        "name": "Inside Railcar 1",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1024,
+            "y": 566
+          }
+        ]
+      },
+      {
+        "name": "Inside Railcar 2",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1043,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Behind Railcar",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1041,
+            "y": 533
+          }
+        ]
+      },
       {
         "name": "Chest",
         "sections": [
           {
-            "item_count": 6,
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
+            "item_count": 5,
             "access_rules": ["lockpicks"]
           }
         ],
         "map_locations": [
           {
-            "map": "west_beach",
-            "x": 329,
-            "y": 232
-          }
-        ]
-      },
-      {
-        "name": "Top Near Footbridge 1",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 333,
-            "y": 195
-          }
-        ]
-      },
-      {
-        "name": "Top Near Footbridge 2",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 342,
-            "y": 269
-          }
-        ]
-      },
-      {
-        "name": "Bottom Foot Of Stairs",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 321,
-            "y": 287
-          }
-        ]
-      },
-      {
-        "name": "Bottom Near Minecart",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 263,
-            "y": 235
-          }
-        ]
-      },
-      {
-        "name": "Bottom In Corner",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 187,
-            "y": 245
-          }
-        ]
-      },
-      {
-        "name": "Laying On Sand",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 344,
-            "y": 481
-          }
-        ]
-      },
-      {
-        "name": "Laying Under Stairs",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 160,
-            "y": 313
-          }
-        ]
-      },
-      {
-        "name": "Top Near Beams",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "west_beach",
-            "x": 453,
-            "y": 69
+            "map": "caravan",
+            "x": 1018,
+            "y": 618
           }
         ]
       }

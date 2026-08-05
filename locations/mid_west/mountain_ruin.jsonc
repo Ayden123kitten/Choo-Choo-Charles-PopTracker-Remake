@@ -1,10 +1,13 @@
 [
   {
-    "name": "Lighthouse",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_lighthouse"],
+    "name": "Mountain Ruin",
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_mountain_ruin"
+    ],
     "children": [
       {
-        "name": "Southwest Near Lit Lantern",
+        "name": "Bottom Sheltered",
         "sections": [
           {
             "name": "Scraps",
@@ -14,14 +17,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 58,
-            "y": 999
+            "map": "mountain_ruin",
+            "x": 676,
+            "y": 852
           }
         ]
       },
       {
-        "name": "Southwest Near Tent",
+        "name": "Bottom Near Minecarts",
         "sections": [
           {
             "name": "Scraps",
@@ -31,14 +34,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 366,
-            "y": 879
+            "map": "mountain_ruin",
+            "x": 659,
+            "y": 752
           }
         ]
       },
       {
-        "name": "Southwest Under Unlit Lantern",
+        "name": "Bottom Near Tents 1",
         "sections": [
           {
             "name": "Scraps",
@@ -48,14 +51,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 276,
-            "y": 723
+            "map": "mountain_ruin",
+            "x": 638,
+            "y": 646
           }
         ]
       },
       {
-        "name": "South Near Lanternless Post",
+        "name": "Bottom Near Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -65,14 +68,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 460,
-            "y": 691
+            "map": "mountain_ruin",
+            "x": 622,
+            "y": 765
           }
         ]
       },
       {
-        "name": "Southeast Under Lit Lantern",
+        "name": "Bottom Collapsed Mines",
         "sections": [
           {
             "name": "Scraps",
@@ -82,14 +85,15 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 658,
-            "y": 492
+            "map": "mountain_ruin",
+            "shape": "trapezoid",
+            "x": 451,
+            "y": 733
           }
         ]
       },
       {
-        "name": "Southeast Behind Shelter",
+        "name": "Bottom Near Tents 2",
         "sections": [
           {
             "name": "Scraps",
@@ -99,14 +103,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 717,
-            "y": 499
+            "map": "mountain_ruin",
+            "x": 692,
+            "y": 652
           }
         ]
       },
       {
-        "name": "Southeast Near Crates",
+        "name": "Bottom Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -116,14 +120,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 792,
-            "y": 429
+            "map": "mountain_ruin",
+            "x": 593,
+            "y": 543
           }
         ]
       },
       {
-        "name": "East Under Lit Lantern",
+        "name": "Downhill Path On Rocks 1",
         "sections": [
           {
             "name": "Scraps",
@@ -133,14 +137,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 806,
-            "y": 332
+            "map": "mountain_ruin",
+            "x": 526,
+            "y": 468
           }
         ]
       },
       {
-        "name": "East On Floating Bridge",
+        "name": "Downhill Path Near Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -150,14 +154,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 849,
-            "y": 267
+            "map": "mountain_ruin",
+            "x": 478,
+            "y": 271
           }
         ]
       },
       {
-        "name": "Southeast On Path Intersection",
+        "name": "Pillars Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -167,14 +171,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 679,
-            "y": 434
+            "map": "mountain_ruin",
+            "x": 310,
+            "y": 259
           }
         ]
       },
       {
-        "name": "Middle On Downhill Path",
+        "name": "Pillars Near Crate",
         "sections": [
           {
             "name": "Scraps",
@@ -184,14 +188,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 594,
-            "y": 396
+            "map": "mountain_ruin",
+            "x": 237,
+            "y": 245
           }
         ]
       },
       {
-        "name": "Middle Near Breaker Box",
+        "name": "Pillars Near Dirt Heaps",
         "sections": [
           {
             "name": "Scraps",
@@ -201,14 +205,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 468,
-            "y": 262
+            "map": "mountain_ruin",
+            "x": 253,
+            "y": 44
           }
         ]
       },
       {
-        "name": "Middle On Lower Rock Ledge",
+        "name": "Pillars Near Tents 1",
         "sections": [
           {
             "name": "Scraps",
@@ -218,31 +222,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 588,
-            "y": 170
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Barrier",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 419,
+            "map": "mountain_ruin",
+            "x": 166,
             "y": 94
           }
         ]
       },
       {
-        "name": "Middle Near Crates",
+        "name": "Pillars Near Tents 2",
         "sections": [
           {
             "name": "Scraps",
@@ -252,14 +239,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 298,
-            "y": 88
+            "map": "mountain_ruin",
+            "x": 164,
+            "y": 70
           }
         ]
       },
       {
-        "name": "Middle Coast Overlook",
+        "name": "Pillars Behind Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -269,14 +256,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 242,
-            "y": 255
+            "map": "mountain_ruin",
+            "x": 95,
+            "y": 123
           }
         ]
       },
       {
-        "name": "Middle Near Unlit Lantern",
+        "name": "Downhill Path On Rocks 2",
         "sections": [
           {
             "name": "Scraps",
@@ -286,14 +273,14 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 333,
-            "y": 262
+            "map": "mountain_ruin",
+            "x": 581,
+            "y": 501
           }
         ]
       },
       {
-        "name": "West On Coast",
+        "name": "Topmost On Rocks",
         "sections": [
           {
             "name": "Scraps",
@@ -303,44 +290,42 @@
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 110,
-            "y": 455
+            "map": "mountain_ruin",
+            "x": 254,
+            "y": 498
           }
         ]
       },
       {
-        "name": "Breaker",
+        "name": "Inside",
+        "access_rules": ["mountain_ruin_key"],
         "sections": [
           {
-            "chest_unopened_img": "images/items/breaker.png",
-            "chest_opened_img": "images/chests/scraps_true.png",
-            "item_count": 4
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "lighthouse",
-            "x": 684,
-            "y": 496
-          }
-        ]
-      },
-      {
-        "name": "Claire",
-        "sections": [
-          {
-            "name": "Mission End",
+            "name": "Scraps",
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
-            "access_rules": ["$has_more_then_n|breaker|3"]
+            "item_count": 17
+          },
+          {
+            "name": "Red Paint Can",
+            "chest_unopened_img": "images/chests/paint_can.png",
+            "chest_opened_img": "images/chests/paint_can_true.png",
+            "item_count": 1,
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Red Egg",
+            "chest_unopened_img": "images/chests/red_egg.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],
         "map_locations": [
           {
-            "map": "lighthouse",
-            "x": 406,
-            "y": 266
+            "map": "mountain_ruin",
+            "size": 50,
+            "shape": "trapezoid",
+            "x": 203,
+            "y": 315
           }
         ]
       }

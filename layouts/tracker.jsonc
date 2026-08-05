@@ -46,6 +46,24 @@
                 "type": "layout",
                 "key": "fog_item_grid"
               }
+            },
+            {
+              "type": "group",
+              "header": "Track Switches",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "track_switch_item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Settings",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "settings_item_grid"
+              }
             }
           ]
         },
@@ -56,9 +74,7 @@
               "title": "Full Map",
               "content": {
                 "type": "map",
-                "maps": [
-                  "aranearum"
-                ]
+                "maps": ["aranearum"]
               }
             }
           ]
@@ -124,6 +140,24 @@
                 "v_alignment": "center",
                 "key": "fog_item_grid"
               }
+            },
+            {
+              "type": "group",
+              "header": "Track Switches",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "track_switch_item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Settings",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "settings_item_grid"
+              }
             }
           ]
         },
@@ -144,56 +178,55 @@
                 "dock": "top",
                 "tabs": [
                   {
-                  "title": "Junkyard Area",
-                  "content": {
-                    "type": "map",
-                    "maps": ["junkyard_area"]
+                    "title": "Junkyard Area",
+                    "content": {
+                      "type": "map",
+                      "maps": ["junkyard_area"]
                     }
                   },
                   {
-                  "title": "Junkyard Shed",
-                  "content": {
-                    "type": "map",
-                    "maps": ["junkyard_shed"]
+                    "title": "Junkyard Shed",
+                    "content": {
+                      "type": "map",
+                      "maps": ["junkyard_shed"]
                     }
                   },
                   {
-                  "title": "Military Base",
-                  "content": {
-                    "type": "map",
-                    "maps": ["military_base"]
+                    "title": "Military Base",
+                    "content": {
+                      "type": "map",
+                      "maps": ["military_base"]
                     }
                   },
                   {
-                  "title": "South House",
-                  "content": {
-                    "type": "map",
-                    "maps": ["south_house"]
+                    "title": "South House",
+                    "content": {
+                      "type": "map",
+                      "maps": ["south_house"]
                     }
                   },
                   {
-                  "title": "South Mine",
-                  "content": {
-                    "type": "map",
-                    "maps": ["south_mine_outside"]
+                    "title": "South Mine",
+                    "content": {
+                      "type": "map",
+                      "maps": ["south_mine_outside"]
                     }
                   },
                   {
-                  "title": "Start Camp",
-                  "content": {
-                    "type": "map",
-                    "maps": ["start_camp"]
+                    "title": "Start Camp",
+                    "content": {
+                      "type": "map",
+                      "maps": ["start_camp"]
                     }
                   },
                   {
-                  "title": "Swamp",
-                  "content": {
-                    "type": "map",
-                    "maps": ["swamp"]
+                    "title": "Swamp",
+                    "content": {
+                      "type": "map",
+                      "maps": ["swamp"]
                     }
                   }
                 ]
-
               }
             },
             {
@@ -203,77 +236,76 @@
                 "dock": "top",
                 "tabs": [
                   {
-                  "title": "Boulder Field",
-                  "content": {
-                    "type": "map",
-                    "maps": ["boulder_field"]
+                    "title": "Boulder Field",
+                    "content": {
+                      "type": "map",
+                      "maps": ["boulder_field"]
                     }
                   },
                   {
-                  "title": "Canyon",
-                  "content": {
-                    "type": "map",
-                    "maps": ["canyon"]
+                    "title": "Canyon",
+                    "content": {
+                      "type": "map",
+                      "maps": ["canyon"]
                     }
                   },
                   {
-                  "title": "Haunted House",
-                  "content": {
-                    "type": "map",
-                    "maps": ["haunted_house"]
+                    "title": "Haunted House",
+                    "content": {
+                      "type": "map",
+                      "maps": ["haunted_house"]
                     }
                   },
                   {
-                  "title": "Pickle Valley",
-                  "content": {
-                    "type": "map",
-                    "maps": ["pickle_valley"]
+                    "title": "Pickle Valley",
+                    "content": {
+                      "type": "map",
+                      "maps": ["pickle_valley"]
                     }
                   },
                   {
-                  "title": "Port",
-                  "content": {
-                    "type": "map",
-                    "maps": ["port"]
+                    "title": "Port",
+                    "content": {
+                      "type": "map",
+                      "maps": ["port"]
                     }
                   },
                   {
-                  "title": "Temple",
-                  "content": {
-                    "type": "map",
-                    "maps": ["temple"]
+                    "title": "Temple",
+                    "content": {
+                      "type": "map",
+                      "maps": ["temple"]
                     }
                   },
                   {
-                  "title": "Santiago House",
-                  "content": {
-                    "type": "map",
-                    "maps": ["santiagos_house"]
+                    "title": "Santiago House",
+                    "content": {
+                      "type": "map",
+                      "maps": ["santiagos_house"]
                     }
                   },
                   {
-                  "title": "Shrine Near Temple",
-                  "content": {
-                    "type": "map",
-                    "maps": ["shrine"]
+                    "title": "Shrine Near Temple",
+                    "content": {
+                      "type": "map",
+                      "maps": ["shrine"]
                     }
                   },
                   {
-                  "title": "Train Depot",
-                  "content": {
-                    "type": "map",
-                    "maps": ["train_depot"]
+                    "title": "Train Depot",
+                    "content": {
+                      "type": "map",
+                      "maps": ["train_depot"]
                     }
                   },
                   {
-                  "title": "Watchtower",
-                  "content": {
-                    "type": "map",
-                    "maps": ["watchtower"]
+                    "title": "Watchtower",
+                    "content": {
+                      "type": "map",
+                      "maps": ["watchtower"]
                     }
                   }
                 ]
-
               }
             },
             {
@@ -283,63 +315,62 @@
                 "dock": "top",
                 "tabs": [
                   {
-                  "title": "Doll Woods",
-                  "content": {
-                    "type": "map",
-                    "maps": ["doll_woods"]
+                    "title": "Doll Woods",
+                    "content": {
+                      "type": "map",
+                      "maps": ["doll_woods"]
                     }
                   },
                   {
-                  "title": "East House",
-                  "content": {
-                    "type": "map",
-                    "maps": ["east_house"]
+                    "title": "East House",
+                    "content": {
+                      "type": "map",
+                      "maps": ["east_house"]
                     }
                   },
                   {
-                  "title": "East Tower",
-                  "content": {
-                    "type": "map",
-                    "maps": ["east_tower"]
+                    "title": "East Tower",
+                    "content": {
+                      "type": "map",
+                      "maps": ["east_tower"]
                     }
                   },
                   {
-                  "title": "Lighthouse",
-                  "content": {
-                    "type": "map",
-                    "maps": ["lighthouse"]
+                    "title": "Lighthouse",
+                    "content": {
+                      "type": "map",
+                      "maps": ["lighthouse"]
                     }
                   },
                   {
-                  "title": "Lost Stairs",
-                  "content": {
-                    "type": "map",
-                    "maps": ["lost_stairs"]
+                    "title": "Lost Stairs",
+                    "content": {
+                      "type": "map",
+                      "maps": ["lost_stairs"]
                     }
                   },
                   {
-                  "title": "Rocket Testing Grounds",
-                  "content": {
-                    "type": "map",
-                    "maps": ["rocket_testing_grounds"]
+                    "title": "Rocket Testing Grounds",
+                    "content": {
+                      "type": "map",
+                      "maps": ["rocket_testing_grounds"]
                     }
                   },
                   {
-                  "title": "Trench House",
-                  "content": {
-                    "type": "map",
-                    "maps": ["trench_house"]
+                    "title": "Trench House",
+                    "content": {
+                      "type": "map",
+                      "maps": ["trench_house"]
                     }
                   },
                   {
-                  "title": "Workshop",
-                  "content": {
-                    "type": "map",
-                    "maps": ["workshop"]
+                    "title": "Workshop",
+                    "content": {
+                      "type": "map",
+                      "maps": ["workshop"]
                     }
                   }
                 ]
-
               }
             },
             {
@@ -349,52 +380,52 @@
                 "dock": "top",
                 "tabs": [
                   {
-                  "title": "Caravan",
-                  "content": {
-                    "type": "map",
-                    "maps": ["caravan"]
+                    "title": "Caravan",
+                    "content": {
+                      "type": "map",
+                      "maps": ["caravan"]
                     }
                   },
                   {
-                  "title": "Mine Elevator Exit",
-                  "content": {
-                    "type": "map",
-                    "maps": ["mine_elevator_exit"]
+                    "title": "Mine Elevator Exit",
+                    "content": {
+                      "type": "map",
+                      "maps": ["mine_elevator_exit"]
                     }
                   },
                   {
-                  "title": "Mine Shaft",
-                  "content": {
-                    "type": "map",
-                    "maps": ["mine_shaft"]
+                    "title": "Mine Shaft",
+                    "content": {
+                      "type": "map",
+                      "maps": ["mine_shaft"]
                     }
                   },
                   {
-                  "title": "Mob Camp",
-                  "content": {
-                    "type": "map",
-                    "maps": ["mob_camp"]
+                    "title": "Mob Camp",
+                    "content": {
+                      "type": "map",
+                      "maps": ["mob_camp"]
                     }
                   },
                   {
-                  "title": "Mountain Ruin",
-                  "content": {
-                    "type": "map",
-                    "maps": ["mountain_ruin"]
+                    "title": "Mountain Ruin",
+                    "content": {
+                      "type": "map",
+                      "maps": ["mountain_ruin"]
                     }
                   },
                   {
-                  "title": "Towers",
-                  "content": {
-                    "type": "map",
-                    "maps": ["towers"]
+                    "title": "Towers",
+                    "content": {
+                      "type": "map",
+                      "maps": ["towers"]
                     }
                   },
                   {
-                  "title": "Trailer Cabin",
-                  "content": {
-                    "type": "map",
-                    "maps": ["trailer_cabin"]
+                    "title": "Trailer Cabin",
+                    "content": {
+                      "type": "map",
+                      "maps": ["trailer_cabin"]
                     }
                   }
                 ]
@@ -407,94 +438,74 @@
                 "dock": "top",
                 "tabs": [
                   {
-                  "title": "Barbed Shelter",
-                  "content": {
-                    "type": "map",
-                    "maps": ["barbed_shelter"]
+                    "title": "Barbed Shelter",
+                    "content": {
+                      "type": "map",
+                      "maps": ["barbed_shelter"]
                     }
                   },
                   {
-                  "title": "Church",
-                  "content": {
-                    "type": "map",
-                    "maps": ["church"]
+                    "title": "Church",
+                    "content": {
+                      "type": "map",
+                      "maps": ["church"]
                     }
                   },
                   {
-                  "title": "Morse Bunker",
-                  "content": {
-                    "type": "map",
-                    "maps": ["morse_bunker"]
+                    "title": "Morse Bunker",
+                    "content": {
+                      "type": "map",
+                      "maps": ["morse_bunker"]
                     }
                   },
                   {
-                  "title": "Museum",
-                  "content": {
-                    "type": "map",
-                    "maps": ["museum"]
+                    "title": "Museum",
+                    "content": {
+                      "type": "map",
+                      "maps": ["museum"]
                     }
                   },
                   {
-                  "title": "North Beach",
-                  "content": {
-                    "type": "map",
-                    "maps": ["north_beach"]
+                    "title": "North Beach",
+                    "content": {
+                      "type": "map",
+                      "maps": ["north_beach"]
                     }
                   },
                   {
-                  "title": "North Mine",
-                  "content": {
-                    "type": "map",
-                    "maps": ["north_mine"]
+                    "title": "North Mine",
+                    "content": {
+                      "type": "map",
+                      "maps": ["north_mine"]
                     }
                   },
                   {
-                  "title": "West Beach",
-                  "content": {
-                    "type": "map",
-                    "maps": ["west_beach"]
+                    "title": "West Beach",
+                    "content": {
+                      "type": "map",
+                      "maps": ["west_beach"]
                     }
                   },
                   {
-                  "title": "West Cottage",
-                  "content": {
-                    "type": "map",
-                    "maps": ["west_cottage"]
+                    "title": "West Cottage",
+                    "content": {
+                      "type": "map",
+                      "maps": ["west_cottage"]
                     }
                   },
                   {
-                  "title": "Wooden Bridge",
-                  "content": {
-                    "type": "map",
-                    "maps": ["wooden_bridge"]
+                    "title": "Wooden Bridge",
+                    "content": {
+                      "type": "map",
+                      "maps": ["wooden_bridge"]
                     }
                   }
-
-
                 ]
-
               }
             }
           ]
         }
       ]
     }
-  },
-  	    "settings_popup":
-		{
-			"type": "array",
-			"orientation": "horizontal",
-			"h_alignment": "left",
-			"content": [
-				{
-				"type": "group",
-				"header": "Settings",
-				"dock": "bottom",
-				"content": {
-				"type": "layout",
-				"key": "settings"
-					}
-				}
-			]
-		}
+  }
 }
