@@ -27,7 +27,7 @@
         "sections": [
           {
             "name": "Tony Tiddle Mission Start",
-            "chest_unopened_img": "images/chests/key.png",
+            "chest_unopened_img": "images/items/key.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
