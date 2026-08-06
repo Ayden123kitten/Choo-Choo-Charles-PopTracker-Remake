@@ -3,7 +3,7 @@
     "name": "Mountain Ruin",
     "access_rules": [
       "relics_disabled",
-      "relics_enabled, fogbane_mountain_ruin"
+      "relics_enabled, fogbane_mountain_ruin_outside"
     ],
     "children": [
       {
@@ -315,7 +315,7 @@
           },
           {
             "name": "Red Egg",
-            "chest_unopened_img": "images/chests/red_egg.png",
+            "chest_unopened_img": "images/items/red_egg.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],
