@@ -16,7 +16,7 @@ ITEM_MAPPING = {
 	[BASE_ITEM_ID + 19] = {{ "breakers" }},
 	[BASE_ITEM_ID + 20] = {{ "broken_bob" }},
 	[BASE_ITEM_ID + 21] = {{ "employment_contracts"} },
-    [BASE_ITEM_ID + 22] = {{ "mob_camp_key"} },
+	[BASE_ITEM_ID + 22] = {{ "mob_camp_key"} },
 	[BASE_ITEM_ID + 23] = {{ "jar_of_pickles" }},
 
 	[BASE_ITEM_ID + 37] = {{ "green_egg"} },
@@ -27,23 +27,23 @@ ITEM_MAPPING = {
 	[BASE_ITEM_ID + 42] = {{ "temple_key" }},
 	[BASE_ITEM_ID + 43] = {{ "bug_spray" }},
 
-	[BASE_ITEM_ID + 44] = {{ "track_switch_pack" }
+	[BASE_ITEM_ID + 44] = {{ "track_switch_pack" },
 	{ "track_switch_tutorial_barn" , "toggle"},
 	{ "track_switch_middle_port" , "toggle"},
 	{ "track_switch_haunted_East" , "toggle"},
 	{ "track_switch_north_temple" , "toggle"},
 	{ "track_switch_caravan_cultists" , "toggle"},
 	{ "track_switch_camp_elevator" , "toggle"},
-	{ "track_switch_ruin_temple" , "toggle"},
-    [BASE_ITEM_ID + 45] = {{ "track_switch_tutorial_barn"}},
-    [BASE_ITEM_ID + 46] = {{ "track_switch_middle_port"}},
-    [BASE_ITEM_ID + 47] = {{ "track_switch_haunted_East"}},
-    [BASE_ITEM_ID + 48] = {{ "track_switch_north_temple"}},
-    [BASE_ITEM_ID + 49] = {{ "track_switch_caravan_cultists"}},
-    [BASE_ITEM_ID + 50] = {{ "track_switch_camp_elevator"}},
-    [BASE_ITEM_ID + 51] = {{ "track_switch_ruin_temple"}},
+	{ "track_switch_ruin_temple" , "toggle"}},
+	[BASE_ITEM_ID + 45] = {{ "track_switch_tutorial_barn"}},
+	[BASE_ITEM_ID + 46] = {{ "track_switch_middle_port"}},
+	[BASE_ITEM_ID + 47] = {{ "track_switch_haunted_East"}},
+	[BASE_ITEM_ID + 48] = {{ "track_switch_north_temple"}},
+	[BASE_ITEM_ID + 49] = {{ "track_switch_caravan_cultists"}},
+	[BASE_ITEM_ID + 50] = {{ "track_switch_camp_elevator"}},
+	[BASE_ITEM_ID + 51] = {{ "track_switch_ruin_temple"}},
 
-	[BASE_ITEM_ID + 52] = {{ "fogbane_relic_pack" }
+	[BASE_ITEM_ID + 52] = {{ "fogbane_relic_pack" },
 	{ "fogbane_mine_shaft" , "toggle"},
 	{ "fogbane_junkyard_area" , "toggle"},
 	{ "fogbane_junkyard_shed" , "toggle"},
@@ -111,5 +111,5 @@ ITEM_MAPPING = {
 	[BASE_ITEM_ID + 83] = {{ "fogbane_mountain_ruin_outside" }},
 	[BASE_ITEM_ID + 84] = {{ "fogbane_temple" }},
 	[BASE_ITEM_ID + 85] = {{ "fogbane_pickle_valley" }},
-	[BASE_ITEM_ID + 86] = {{ "fogbane_morse_bunker" }},
+	[BASE_ITEM_ID + 86] = {{ "fogbane_morse_bunker" }}
 }

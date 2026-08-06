@@ -1,5 +1,5 @@
 BASE_LOCATION_ID = 66600000
-LOCATION_MAPPING2 = {
+LOCATION_MAPPING = {
     [66601000] = {{"@Aranerarum/Start Camp/Scraps"},{"@Start Camp/Near Barrier/Scraps"}},
 	[66601001] = {{"@Aranerarum/Start Camp/Scraps"},{"@Start Camp/Behind Tent/Scraps"}},
 	[66601002] = {{"@Aranerarum/Barn/Tony Tiddle"}},
@@ -691,5 +691,5 @@ LOCATION_MAPPING2 = {
     [66601688] = {{"@Aranerarum/Temple/Scraps"},{"@Temple/Around Northeast Near Table Inside/Scraps"}},
     [66601689] = {{"@Aranerarum/Temple/Scraps"},{"@Temple/Around Northeast Near Beams 1/Scraps"}},
     [66601690] = {{"@Aranerarum/Temple/Scraps"},{"@Temple/Around Northeast Near Beams 2/Scraps"}},
-    [66601691] = {{"@Aranerarum/Temple/Scraps"},{"@Temple/Around East On Path/Scraps"}},
+    [66601691] = {{"@Aranerarum/Temple/Scraps"},{"@Temple/Around East On Path/Scraps"}}
 }
