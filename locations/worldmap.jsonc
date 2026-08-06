@@ -185,7 +185,7 @@
             "chest_opened_img": "images/chests/paint_can_true.png"
           },
           {
-            "name": "Sgt Flint Mission Start",
+            "name": "Sgt Flint Mission End",
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           }
