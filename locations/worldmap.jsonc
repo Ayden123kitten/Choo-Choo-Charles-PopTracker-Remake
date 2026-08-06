@@ -79,7 +79,7 @@
         "sections": [
           {
             "name": "Candice Mission Start",
-            "chest_unopened_img": "images/chests/key.png",
+            "chest_unopened_img": "images/items/key.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
@@ -227,7 +227,7 @@
             "item_count": 1
           },
           {
-            "name": "Lizbeth Mission End",
+            "name": "Lizbeth Murkwater Mission End",
             "chest_unopened_img": "images/chests/scraps.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
@@ -309,7 +309,7 @@
           },
           {
             "name": "Jar of Pickles",
-            "chest_unopened_img": "images/chests/jar_of_pickles.png",
+            "chest_unopened_img": "images/items/jar_of_pickles.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["lockpicks"]
@@ -343,7 +343,7 @@
           },
           {
             "name": "Blue Box",
-            "chest_unopened_img": "images/chests/blue_box.png",
+            "chest_unopened_img": "images/items/blue_box.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
@@ -434,7 +434,7 @@
           },
           {
             "name": "Page Drawings",
-            "chest_unopened_img": "images/chests/page_drawing.png",
+            "chest_unopened_img": "images/items/page_drawing.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 8
           }
@@ -525,7 +525,7 @@
           },
           {
             "name": "Santiago's Journal",
-            "chest_unopened_img": "images/chests/santiagos_journal.png",
+            "chest_unopened_img": "images/items/santiagos_journal.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
@@ -620,7 +620,7 @@
           },
           {
             "name": "Timed Dynamite",
-            "chest_unopened_img": "images/chests/timed_dynamite.png",
+            "chest_unopened_img": "images/items/timed_dynamite.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
@@ -633,7 +633,7 @@
           },
           {
             "name": "Box of Rockets",
-            "chest_unopened_img": "images/chests/box_of_rockets.png",
+            "chest_unopened_img": "images/items/box_of_rockets.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["timed_dynamite"]
@@ -745,7 +745,7 @@
           },
           {
             "name": "Breakers",
-            "chest_unopened_img": "images/chests/breaker.png",
+            "chest_unopened_img": "images/items/breaker.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 4
           },
@@ -824,7 +824,7 @@
           },
           {
             "name": "Employment Contracts",
-            "chest_unopened_img": "images/chests/employment_contracts.png",
+            "chest_unopened_img": "images/items/employment_contracts.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
@@ -1016,7 +1016,7 @@
           },
           {
             "name": "Gale",
-            "chest_unopened_img": "images/chests/key.png",
+            "chest_unopened_img": "images/items/key.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
@@ -1069,7 +1069,7 @@
           },
           {
             "name": "Gertrude",
-            "chest_unopened_img": "images/chests/broken_bob.png",
+            "chest_unopened_img": "images/items/broken_bob.png",
             "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
@@ -1180,7 +1180,7 @@
           },
           {
             "name": "Paul Mission Start",
-            "chest_unopened_img": "images/chests/remote_explosives.png",
+            "chest_unopened_img": "images/items/remote_explosives.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
@@ -1250,8 +1250,8 @@
           },
           {
             "name": "Blue Paint Can",
-            "chest_unopened_img": "images/chests/can.png",
-            "chest_opened_img": "images/chests/can_true.png",
+            "chest_unopened_img": "images/chests/paint_can.png",
+            "chest_opened_img": "images/chests/paint_can_true.png",
             "item_count": 1,
             "access_rules": ["north_mine_key, lockpicks"]
           },
