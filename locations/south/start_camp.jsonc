@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Start Camp",
+    "children": [
+      {
+        "name": "Near Barrier",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "start_camp",
+            "x": 640,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "Behind Tent",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "start_camp",
+            "x": 630,
+            "y": 560
+          }
+        ]
+      }
+    ]
+  }
+]

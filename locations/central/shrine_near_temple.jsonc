@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Shrine Near Temple",
+    "children": [
+      {
+        "name": "Near Rocks",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "shrine_near_temple",
+            "x": 775,
+            "y": 280
+          }
+        ]
+      },
+      {
+        "name": "Along Path",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "shrine_near_temple",
+            "x": 725,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "Near Barriers",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "shrine_near_temple",
+            "x": 880,
+            "y": 390
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Caravan",
+    "children": [
+      {
+        "name": "Near Rails",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 400,
+            "y": 200
+          }
+        ]
+      },
+      {
+        "name": "Under Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 575,
+            "y": 265
+          }
+        ]
+      },
+      {
+        "name": "Near Footbridge",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 725,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Near Grave",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 900,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "On Path",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1040,
+            "y": 455
+          }
+        ]
+      },
+      {
+        "name": "Near Tent",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1135,
+            "y": 645
+          }
+        ]
+      },
+      {
+        "name": "Inside Railcar 1",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1180,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Inside Railcar 2",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1200,
+            "y": 625
+          }
+        ]
+      },
+      {
+        "name": "Behind Railcar",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1195,
+            "y": 575
+          }
+        ]
+      },
+      {
+        "name": "Chest",
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
+            "item_count": 5,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "caravan",
+            "x": 1180,
+            "y": 640
+          }
+        ]
+      }
+    ]
+  }
+]
