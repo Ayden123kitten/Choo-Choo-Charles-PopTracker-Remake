@@ -1,0 +1,294 @@
+[
+  {
+    "name": "North Beach",
+    "access_rules": ["relics_disabled", "relics_enabled, fogbane_north_beach"],
+    "children": [
+      {
+        "name": "Chest",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/chest.png",
+            "chest_opened_img": "images/chests_disabled/chest.png",
+            "item_count": 4,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 1230,
+            "y": 630
+          }
+        ]
+      },
+      {
+        "name": "Campfire Near Crate Tents",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 1190,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Shrine Near Middle",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 710,
+            "y": 1175
+          }
+        ]
+      },
+      {
+        "name": "Shrine In Corner",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 1160,
+            "y": 665
+          }
+        ]
+      },
+      {
+        "name": "Campfire Near Bed Tents",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 1250,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Laying 1",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 790,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "Laying 2",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 590,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Laying 3 (Blinky)",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 605,
+            "y": 465
+          }
+        ]
+      },
+      {
+        "name": "Shack Near Grave",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 365,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Shack Near Drying Rack",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 260,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Shack Near Water Tank",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 320,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Shack Near Beams",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 355,
+            "y": 220
+          }
+        ]
+      },
+      {
+        "name": "Shack Near Floating Bridge",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 200,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Shack On Floating Bridge",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 100,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Shack Behind Door",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 270,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Shack Near Note",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 290,
+            "y": 270
+          }
+        ]
+      },
+      {
+        "name": "Teal Paint Can",
+        "chest_unopened_img": "images/paint_cans/teal_paint_can.png",
+        "chest_opened_img": "images/paint_cans_disabled/teal_paint_can.png",
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 100,
+            "y": 340
+          }
+        ]
+      }
+    ]
+  }
+]

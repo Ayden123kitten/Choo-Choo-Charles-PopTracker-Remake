@@ -1,0 +1,361 @@
+[
+  {
+    "name": "Port",
+    "access_rules": ["relics_disabled", "relics_enabled, fogbane_port"],
+    "children": [
+      {
+        "name": "Santiago",
+        "sections": [
+          {
+            "name": "Mission End",
+            "access_rules": ["santiagos_journal"],
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1110,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Grey Paint Can",
+        "chest_unopened_img": "images/paint_cans/grey_paint_can.png",
+        "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png",
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 910,
+            "y": 450
+          }
+        ]
+      },
+      {
+        "name": "Station Near Shelter",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 370,
+            "y": 270
+          }
+        ]
+      },
+      {
+        "name": "Station Half Sheltered",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 240,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "Station Near Tent",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 360,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Station Near Beams",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 285,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "Station Near Note",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 330,
+            "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Path Summit",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 575,
+            "y": 660
+          }
+        ]
+      },
+      {
+        "name": "Path Near Lit Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 625,
+            "y": 460
+          }
+        ]
+      },
+      {
+        "name": "Path Under Unlit Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 790,
+            "y": 730
+          }
+        ]
+      },
+      {
+        "name": "Path Near Tent",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 995,
+            "y": 615
+          }
+        ]
+      },
+      {
+        "name": "Docks Near Shelter",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 890,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Docks Sheltered",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 890,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Docks Platform Start",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1040,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Docks Under Platform",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1080,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Docks Near Beds",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1030,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "Docks Between Lanterns",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1175,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "Docks Near Crates",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1275,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "Docks On Gangway",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1235,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Docks Behind House",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1010,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Docks In Gangway Corner",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1300,
+            "y": 280
+          }
+        ]
+      }
+    ]
+  }
+]

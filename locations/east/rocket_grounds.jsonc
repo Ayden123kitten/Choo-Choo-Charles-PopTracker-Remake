@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Rocket Grounds",
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_rocket_grounds"
+    ],
+    "children": [
+      {
+        "name": "Timed Dynamite",
+        "chest_unopened_img": "images/items/timed_dynamite.png",
+        "chest_opened_img": "images/items_disabled/scraps.png",
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 485,
+            "y": 365
+          }
+        ]
+      },
+      {
+        "name": "East Near Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 1335,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "East Near Barrier",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 1005,
+            "y": 415
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Dirt Heap",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 680,
+            "y": 425
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Planks",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 475,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Crate",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 465,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 465,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "North Under Sign",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 650,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Rock",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 360,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Southwest Above Door",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 320,
+            "y": 630
+          }
+        ]
+      },
+      {
+        "name": "South Above Bunker",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "x": 515,
+            "y": 585
+          }
+        ]
+      },
+      {
+        "name": "Near Explosives",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
+            "access_rules": ["dynamite"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "shape": "trapezoid",
+            "x": 560,
+            "y": 630
+          }
+        ]
+      },
+      {
+        "name": "In Corner",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
+            "access_rules": ["dynamite"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "shape": "trapezoid",
+            "x": 560,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Box of Rockets",
+        "chest_unopened_img": "images/items/box_of_rockets.png",
+        "chest_opened_img": "images/items_disabled/box_of_rockets.png",
+        "access_rules": ["dynamite"],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "shape": "trapezoid",
+            "x": 540,
+            "y": 595
+          }
+        ]
+      }
+    ]
+  }
+]
