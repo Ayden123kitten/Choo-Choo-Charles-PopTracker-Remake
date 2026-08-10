@@ -366,49 +366,49 @@
   {
     "name": "Candice's House/Barn Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_tutorial_barn"
   },
   {
     "name": "Middle/Port Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_middle_port"
   },
   {
     "name": "Haunted House/East Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_haunted_East"
   },
   {
     "name": "North/Temple Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_north_temple"
   },
   {
     "name": "Caravan/Cultists Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_caravan_cultists"
   },
   {
     "name": "Mob Camp/Mine Elevator Exit Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_camp_elevator"
   },
   {
     "name": "Mountain Ruin/Temple Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_ruin_temple"
   },
   {
     "name": "Mob Camp/Mine Elevator Exit Track Switch",
     "type": "toggle",
-    "img": "images/items/track_switch.png",
+    "img": "images/icons/track_switch.png",
     "codes": "track_switch_camp_elevator"
   },
   {
