@@ -11,8 +11,8 @@
         "sections": [
           {
             "name": "Mission End",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/weapons/bug_spray.png",
+            "chest_opened_img": "images/weapons/bug_spray.png"
           }
         ],
         "map_locations": [
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "name": "Along Bottom Path",
+        "name": "On Bottom Entrance Path",
         "sections": [
           {
             "name": "Scraps",
@@ -41,7 +41,7 @@
         ]
       },
       {
-        "name": "Along Top Path",
+        "name": "On Top Entrance Path",
         "sections": [
           {
             "name": "Scraps",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "name": "Atop Rocks",
+        "name": "On Rock Wall",
         "sections": [
           {
             "name": "Scraps",
@@ -143,7 +143,7 @@
         ]
       },
       {
-        "name": "Atop Downhill Path",
+        "name": "Top Of Downhill Path",
         "sections": [
           {
             "name": "Scraps",
@@ -178,8 +178,12 @@
       },
       {
         "name": "Orange Paint Can",
-        "chest_unopened_img": "images/paint_cans/orange_paint_can.png",
-        "chest_opened_img": "images/paint_cans_disabled/orange_paint_can.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/paint_cans/orange_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/orange_paint_can.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "military_base",
@@ -206,7 +210,7 @@
         ]
       },
       {
-        "name": "Between Gates",
+        "name": "Between Back Gates",
         "sections": [
           {
             "name": "Scraps",
@@ -223,7 +227,7 @@
         ]
       },
       {
-        "name": "Outside Path",
+        "name": "On Back Path",
         "sections": [
           {
             "name": "Scraps",

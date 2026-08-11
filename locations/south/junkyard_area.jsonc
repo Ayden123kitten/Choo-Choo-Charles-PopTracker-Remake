@@ -64,7 +64,7 @@
         ]
       },
       {
-        "name": "Top Wagon",
+        "name": "Top Railcar",
         "sections": [
           {
             "name": "Scraps",
@@ -81,7 +81,7 @@
         ]
       },
       {
-        "name": "Middle Wagon",
+        "name": "Middle Railcar",
         "sections": [
           {
             "name": "Scraps",
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "name": "Bottom Wagon",
+        "name": "Bottom Railcar",
         "sections": [
           {
             "name": "Scraps",

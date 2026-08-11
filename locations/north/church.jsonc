@@ -5,8 +5,12 @@
     "children": [
       {
         "name": "Black Paint Can",
-        "chest_unopened_img": "images/paint_cans/black_paint_can.png",
-        "chest_opened_img": "images/paint_cans_disabled/black_paint_can.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/paint_cans/black_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/black_paint_can.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "church",
@@ -17,7 +21,7 @@
         ]
       },
       {
-        "name": "Around On Downhill Path",
+        "name": "Outside On Downhill Path",
         "sections": [
           {
             "name": "Scraps",
@@ -34,7 +38,7 @@
         ]
       },
       {
-        "name": "Around On Back Path 1",
+        "name": "Outside On Back Path 1",
         "sections": [
           {
             "name": "Scraps",
@@ -51,7 +55,7 @@
         ]
       },
       {
-        "name": "Around Near Door",
+        "name": "Outside Near Door",
         "sections": [
           {
             "name": "Scraps",
@@ -85,7 +89,7 @@
         ]
       },
       {
-        "name": "Around Under Window",
+        "name": "Outside Under Window",
         "sections": [
           {
             "name": "Scraps",
@@ -207,7 +211,7 @@
         ]
       },
       {
-        "name": "Around On Back Path 2",
+        "name": "Outside On Back Path 2",
         "sections": [
           {
             "name": "Scraps",

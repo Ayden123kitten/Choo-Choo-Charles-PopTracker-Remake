@@ -4,7 +4,7 @@
     "access_rules": ["relics_disabled", "relics_enabled, fogbane_canyon"],
     "children": [
       {
-        "name": "Along Rails",
+        "name": "Entry Near Rails",
         "sections": [
           {
             "name": "Scraps",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "name": "Under Unlit Lantern",
+        "name": "Entry Under Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "name": "Inside Overturned Railcar",
+        "name": "Middle Inside Overturned Railcar",
         "sections": [
           {
             "name": "Scraps",
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "name": "Near Lonely Tent",
+        "name": "Middle Near Lonely Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -73,8 +73,12 @@
       },
       {
         "name": "Blue Box",
-        "chest_unopened_img": "images/items/blue_box.png",
-        "chest_opened_img": "images/items_disabled/blue_box.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/blue_box.png",
+            "chest_opened_img": "images/items_disabled/blue_box.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "canyon",
@@ -84,7 +88,7 @@
         ]
       },
       {
-        "name": "Behind Railcar",
+        "name": "Middle Behind Railcar",
         "sections": [
           {
             "name": "Scraps",
@@ -101,7 +105,7 @@
         ]
       },
       {
-        "name": "Near Twin Tents",
+        "name": "Middle Near Twin Tents",
         "sections": [
           {
             "name": "Scraps",
@@ -118,7 +122,7 @@
         ]
       },
       {
-        "name": "Near Shelter",
+        "name": "Middle Near Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -169,7 +173,7 @@
         ]
       },
       {
-        "name": "Bridge Left",
+        "name": "Left Of Bridge",
         "sections": [
           {
             "name": "Scraps",
@@ -186,7 +190,7 @@
         ]
       },
       {
-        "name": "Bridge Middle",
+        "name": "Middle Of Bridge",
         "sections": [
           {
             "name": "Scraps",
@@ -203,7 +207,7 @@
         ]
       },
       {
-        "name": "Bridge Right",
+        "name": "Right Of Bridge",
         "sections": [
           {
             "name": "Scraps",
@@ -220,7 +224,7 @@
         ]
       },
       {
-        "name": "East Top Mountain",
+        "name": "East Top Of Mountain",
         "sections": [
           {
             "name": "Scraps",
@@ -237,7 +241,7 @@
         ]
       },
       {
-        "name": "South Top Mountain",
+        "name": "South Top Of Mountain",
         "sections": [
           {
             "name": "Scraps",
@@ -254,7 +258,7 @@
         ]
       },
       {
-        "name": "Above Overturned Railcar",
+        "name": "North Above Overturned Railcar",
         "sections": [
           {
             "name": "Scraps",
@@ -271,7 +275,7 @@
         ]
       },
       {
-        "name": "East On Lonely Rocks",
+        "name": "North On Lonely Rocks",
         "sections": [
           {
             "name": "Scraps",
@@ -288,7 +292,7 @@
         ]
       },
       {
-        "name": "North On Lonely Rocks",
+        "name": "East On Lonely Rocks",
         "sections": [
           {
             "name": "Scraps",

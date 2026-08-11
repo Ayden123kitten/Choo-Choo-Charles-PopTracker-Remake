@@ -631,14 +631,14 @@
         "sections": [
           {
             "name": "Scraps",
-            "chest_unopened_img": "images/weapons/the_boomer.png",
-            "chest_opened_img": "images/weapons_disabled/the_boomer.png",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6
           },
           {
             "name": "John Smith Mission End",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/weapons/the_boomer.png",
+            "chest_opened_img": "images/weapons_disabled/the_boomer.png",
 
             "access_rules": ["box_of_rockets"]
           }
@@ -958,16 +958,15 @@
             "access_rules": ["mob_camp_key"]
           },
           {
-            "name": "Key",
+            "name": "Mob Camp Key",
             "chest_unopened_img": "images/items/key.png",
             "chest_opened_img": "images/items_disabled/key.png"
           },
           {
             "name": "Bob",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
-
-            "access_rules": ["mob_camp_key, bob"]
+            "chest_unopened_img": "images/weapons/bob.png",
+            "chest_opened_img": "images/weapons_disabled/bob.png",
+            "access_rules": ["mob_camp_key, broken_bob"]
           }
         ],
         "map_locations": [

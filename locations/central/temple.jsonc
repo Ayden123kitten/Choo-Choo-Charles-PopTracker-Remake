@@ -23,7 +23,7 @@
         ]
       },
       {
-        "name": "Around Southwest On Path",
+        "name": "Outside Southwest On Path",
         "sections": [
           {
             "name": "Scraps",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "name": "Around South Lonely",
+        "name": "Outside South Lonely",
         "sections": [
           {
             "name": "Scraps",
@@ -57,7 +57,7 @@
         ]
       },
       {
-        "name": "Around Southeast Between Tents",
+        "name": "Outside Southeast Between Tents",
         "sections": [
           {
             "name": "Scraps",
@@ -74,7 +74,7 @@
         ]
       },
       {
-        "name": "Around East Near Sheltered Boxes",
+        "name": "Outside East Near Sheltered Boxes",
         "sections": [
           {
             "name": "Scraps",
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "name": "Around East Between Sheltered Junks",
+        "name": "Outside East Between Sheltered Junks",
         "sections": [
           {
             "name": "Scraps",
@@ -108,7 +108,7 @@
         ]
       },
       {
-        "name": "Around East Near Barriers",
+        "name": "Outside East Near Barriers",
         "sections": [
           {
             "name": "Scraps",
@@ -125,7 +125,7 @@
         ]
       },
       {
-        "name": "Around West Near Rest Shelter Door",
+        "name": "Outside West Near Rest Shelter Door",
         "sections": [
           {
             "name": "Scraps",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "name": "Around West Near Rest Shelter Beds",
+        "name": "Outside West Near Rest Shelter Beds",
         "sections": [
           {
             "name": "Scraps",
@@ -159,7 +159,7 @@
         ]
       },
       {
-        "name": "Around West In Explosive Shelter",
+        "name": "Outside West In Explosive Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -176,7 +176,7 @@
         ]
       },
       {
-        "name": "Around West In Empty Shelter",
+        "name": "Outside West In Empty Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -193,7 +193,7 @@
         ]
       },
       {
-        "name": "Around Northwest On Path",
+        "name": "Outside Northwest On Path",
         "sections": [
           {
             "name": "Scraps",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "name": "Around North Behind Beams",
+        "name": "Outside North Behind Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "name": "Around North Near House Door",
+        "name": "Outside North Near House Door",
         "sections": [
           {
             "name": "Scraps",
@@ -244,7 +244,7 @@
         ]
       },
       {
-        "name": "Around North Between House Lockers",
+        "name": "Outside North Between House Lockers",
         "sections": [
           {
             "name": "Scraps",
@@ -261,7 +261,7 @@
         ]
       },
       {
-        "name": "Around West Near Shelters",
+        "name": "Outside West Near Shelters",
         "sections": [
           {
             "name": "Scraps",
@@ -448,7 +448,7 @@
         ]
       },
       {
-        "name": "Around South Foot Of Stairs",
+        "name": "Outside South Foot Of Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -482,7 +482,7 @@
         ]
       },
       {
-        "name": "Around Northeast Near Tables Outside",
+        "name": "Outside Northeast Near Tables Outside",
         "sections": [
           {
             "name": "Scraps",
@@ -499,7 +499,7 @@
         ]
       },
       {
-        "name": "Around Northeast Under House Roof",
+        "name": "Outside Northeast Under House Roof",
         "sections": [
           {
             "name": "Scraps",
@@ -516,7 +516,7 @@
         ]
       },
       {
-        "name": "Around Northeast Between Crates Inside",
+        "name": "Outside Northeast Between Crates Inside",
         "sections": [
           {
             "name": "Scraps",
@@ -533,7 +533,7 @@
         ]
       },
       {
-        "name": "Around Northeast Near Table Inside",
+        "name": "Outside Northeast Near Table Inside",
         "sections": [
           {
             "name": "Scraps",
@@ -550,7 +550,7 @@
         ]
       },
       {
-        "name": "Around Northeast Near Beams 1",
+        "name": "Outside Northeast Near Beams 1",
         "sections": [
           {
             "name": "Scraps",
@@ -567,7 +567,7 @@
         ]
       },
       {
-        "name": "Around Northeast Near Beams 2",
+        "name": "Outside Northeast Near Beams 2",
         "sections": [
           {
             "name": "Scraps",
@@ -584,7 +584,7 @@
         ]
       },
       {
-        "name": "Around East On Path",
+        "name": "Outside East On Path",
         "sections": [
           {
             "name": "Scraps",

@@ -41,9 +41,13 @@
       },
       {
         "name": "Bob",
-        "access_rules": ["mob_camp_key"],
-        "chest_unopened_img": "images/weapons/bob.png",
-        "chest_opened_img": "images/weapons_disabled/bob.png",
+        "sections": [
+          {
+            "access_rules": ["mob_camp_key, broken_bob"],
+            "chest_unopened_img": "images/weapons/bob.png",
+            "chest_opened_img": "images/weapons_disabled/bob.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "mob_camp",
@@ -54,8 +58,12 @@
       },
       {
         "name": "Mob Camp Key",
-        "chest_unopened_img": "images/items/key.png",
-        "chest_opened_img": "images/items_disabled/scraps.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/key.png",
+            "chest_opened_img": "images/items_disabled/key.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "mob_camp",

@@ -4,7 +4,7 @@
     "access_rules": ["relics_disabled", "relics_enabled, fogbane_watchtower"],
     "children": [
       {
-        "name": "Along South Path",
+        "name": "On South Path",
         "sections": [
           {
             "name": "Scraps",
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "name": "Along North Path",
+        "name": "On North Path",
         "sections": [
           {
             "name": "Scraps",
@@ -72,7 +72,7 @@
         ]
       },
       {
-        "name": "Behind Right Beams",
+        "name": "Near Right Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -106,7 +106,7 @@
         ]
       },
       {
-        "name": "In Stairs",
+        "name": "On Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "name": "Under Schedule notes",
+        "name": "Under Schedule Note",
         "sections": [
           {
             "name": "Scraps",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "name": "Along West Path",
+        "name": "On West Path",
         "sections": [
           {
             "name": "Scraps",

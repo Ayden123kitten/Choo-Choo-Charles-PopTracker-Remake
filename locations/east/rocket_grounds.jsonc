@@ -8,8 +8,12 @@
     "children": [
       {
         "name": "Timed Dynamite",
-        "chest_unopened_img": "images/items/timed_dynamite.png",
-        "chest_opened_img": "images/items_disabled/scraps.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/timed_dynamite.png",
+            "chest_opened_img": "images/items_disabled/timed_dynamite.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_grounds",
@@ -195,7 +199,7 @@
             "name": "Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
-            "access_rules": ["dynamite"]
+            "access_rules": ["timed_dynamite"]
           }
         ],
         "map_locations": [
@@ -214,7 +218,7 @@
             "name": "Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
-            "access_rules": ["dynamite"]
+            "access_rules": ["timed_dynamite"]
           }
         ],
         "map_locations": [
@@ -228,9 +232,13 @@
       },
       {
         "name": "Box of Rockets",
-        "chest_unopened_img": "images/items/box_of_rockets.png",
-        "chest_opened_img": "images/items_disabled/box_of_rockets.png",
-        "access_rules": ["dynamite"],
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/box_of_rockets.png",
+            "chest_opened_img": "images/items_disabled/box_of_rockets.png",
+            "access_rules": ["timed_dynamite"]
+          }
+        ],
         "map_locations": [
           {
             "map": "rocket_grounds",

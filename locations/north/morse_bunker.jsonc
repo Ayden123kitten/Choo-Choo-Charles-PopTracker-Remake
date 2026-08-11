@@ -111,7 +111,7 @@
         ]
       },
       {
-        "name": "Downhill Path Near",
+        "name": "Downhill Path At Dead End",
         "sections": [
           {
             "name": "Scraps",
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "name": "Downhill Path Top",
+        "name": "Downhill Path Bottom",
         "sections": [
           {
             "name": "Scraps",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "name": "Downhill Path Bottom",
+        "name": "Downhill Path Top",
         "sections": [
           {
             "name": "Scraps",

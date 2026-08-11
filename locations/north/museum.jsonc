@@ -4,7 +4,7 @@
     "access_rules": ["relics_disabled", "relics_enabled, fogbane_museum"],
     "children": [
       {
-        "name": "Around Near Unlit Lantern",
+        "name": "Outside Near Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "name": "Around Behind Sign",
+        "name": "Outside Behind Sign",
         "sections": [
           {
             "name": "Scraps",
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "name": "Around Near Platform",
+        "name": "Outside Near Platform",
         "sections": [
           {
             "name": "Scraps",
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "name": "Around Near Trees",
+        "name": "Outside Near Trees",
         "sections": [
           {
             "name": "Scraps",
@@ -72,7 +72,7 @@
         ]
       },
       {
-        "name": "Around Behind Museum",
+        "name": "Outside Behind Museum",
         "sections": [
           {
             "name": "Scraps",
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "name": "Hill 1",
+        "name": "On Hill 1",
         "sections": [
           {
             "name": "Scraps",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "name": "Hill 2",
+        "name": "On Hill 2",
         "sections": [
           {
             "name": "Scraps",

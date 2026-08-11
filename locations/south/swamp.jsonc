@@ -3,7 +3,7 @@
     "name": "Swamp",
     "children": [
       {
-        "name": "Path To Candice",
+        "name": "South Path To Candice's House",
         "sections": [
           {
             "name": "Scraps",
@@ -20,7 +20,7 @@
         ]
       },
       {
-        "name": "South Near Cauldron",
+        "name": "South Between Trees",
         "sections": [
           {
             "name": "Scraps",
@@ -54,7 +54,7 @@
         ]
       },
       {
-        "name": "South Crossroads",
+        "name": "South At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -71,7 +71,7 @@
         ]
       },
       {
-        "name": "South Near Lantern",
+        "name": "South Behind Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -105,7 +105,7 @@
         ]
       },
       {
-        "name": "Southeast Crossroads",
+        "name": "Southeast At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -122,7 +122,7 @@
         ]
       },
       {
-        "name": "East Above Path Cutoff",
+        "name": "East Near Pathway Pool",
         "sections": [
           {
             "name": "Scraps",
@@ -139,7 +139,7 @@
         ]
       },
       {
-        "name": "East Crossroads",
+        "name": "East At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "name": "East Under Lantern",
+        "name": "East Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -224,7 +224,7 @@
         ]
       },
       {
-        "name": "Northeast Behind Lantern",
+        "name": "Northeast Behind Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "name": "Northeast Along Path",
+        "name": "Northeast Near Puddles",
         "sections": [
           {
             "name": "Scraps",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "name": "Northeast Under Lantern",
+        "name": "Northeast Under Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -411,7 +411,7 @@
         ]
       },
       {
-        "name": "West Near Bridge",
+        "name": "West Near Puddles",
         "sections": [
           {
             "name": "Scraps",
@@ -428,7 +428,7 @@
         ]
       },
       {
-        "name": "West Under Lantern",
+        "name": "West Under Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -462,7 +462,7 @@
         ]
       },
       {
-        "name": "West Behind Lantern",
+        "name": "West Behind Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -496,7 +496,7 @@
         ]
       },
       {
-        "name": "Southwest Behind Crates",
+        "name": "Southwest Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -513,7 +513,7 @@
         ]
       },
       {
-        "name": "Northeast Crossroads",
+        "name": "Northeast At Crossroads",
         "sections": [
           {
             "name": "Scraps",

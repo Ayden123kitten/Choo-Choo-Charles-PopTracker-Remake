@@ -8,8 +8,12 @@
     "children": [
       {
         "name": "Santiago's Journal",
-        "chest_unopened_img": "images/items/santiagos_journal.png",
-        "chest_opened_img": "images/items_disabled/santiagos_journal.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/santiagos_journal.png",
+            "chest_opened_img": "images/items_disabled/santiagos_journal.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "santiagos_house",
@@ -70,7 +74,7 @@
         ]
       },
       {
-        "name": "Near House",
+        "name": "Behind Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -155,7 +159,7 @@
         ]
       },
       {
-        "name": "On Crates",
+        "name": "On Crates Inside",
         "sections": [
           {
             "name": "Scraps",
@@ -172,7 +176,7 @@
         ]
       },
       {
-        "name": "Along Path",
+        "name": "On Path",
         "sections": [
           {
             "name": "Scraps",

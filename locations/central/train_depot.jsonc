@@ -5,8 +5,12 @@
     "children": [
       {
         "name": "White Paint Can",
-        "chest_unopened_img": "images/paint_cans/white_paint_can.png",
-        "chest_opened_img": "images/paint_cans_disabled/white_paint_can.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/paint_cans/white_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/white_paint_can.png",
+          }
+        ],
         "map_locations": [
           {
             "map": "train_depot",
@@ -138,7 +142,7 @@
         ]
       },
       {
-        "name": "Down Stairs",
+        "name": "Foot Of Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -306,8 +310,8 @@
         "map_locations": [
           {
             "map": "train_depot",
-            "x": 675,
-            "y": 110
+            "x": 670,
+            "y": 120
           }
         ]
       },
@@ -363,7 +367,7 @@
         ]
       },
       {
-        "name": "Along Rails",
+        "name": "Near Rails",
         "sections": [
           {
             "name": "Scraps",

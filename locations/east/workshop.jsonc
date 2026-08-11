@@ -112,8 +112,8 @@
           {
             "name": "Mission End",
             "access_rules": ["box_of_rockets"],
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/weapons/the_boomer.png",
+            "chest_opened_img": "images/weapons_disabled/the_boomer.png"
           }
         ],
         "map_locations": [

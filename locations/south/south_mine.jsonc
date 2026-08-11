@@ -4,7 +4,7 @@
     "access_rules": ["relics_disabled", "relics_enabled, fogbane_south_mine"],
     "children": [
       {
-        "name": "Along Main Rails",
+        "name": "Near Main Rails",
         "sections": [
           {
             "name": "Scraps",

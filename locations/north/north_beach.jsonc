@@ -279,8 +279,12 @@
       },
       {
         "name": "Teal Paint Can",
-        "chest_unopened_img": "images/paint_cans/teal_paint_can.png",
-        "chest_opened_img": "images/paint_cans_disabled/teal_paint_can.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/paint_cans/teal_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/teal_paint_can.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "north_beach",

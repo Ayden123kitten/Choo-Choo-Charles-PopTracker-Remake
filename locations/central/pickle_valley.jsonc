@@ -401,8 +401,12 @@
       },
       {
         "name": "Purple Paint Can",
-        "chest_unopened_img": "images/paint_cans/purple_paint_can.png",
-        "chest_opened_img": "images/paint_cans_disabled/purple_paint_can.png",
+        "sections": [
+          {
+            "chest_unopened_img": "images/paint_cans/purple_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/purple_paint_can.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "pickle_valley",
@@ -413,9 +417,13 @@
       },
       {
         "name": "Jar of Pickles",
-        "access_rules": ["lockpicks"],
-        "chest_unopened_img": "images/items/jar_of_pickles.png",
-        "chest_opened_img": "images/items_disabled/jar_of_pickles.png",
+        "sections": [
+          {
+            "access_rules": ["lockpicks"],
+            "chest_unopened_img": "images/items/jar_of_pickles.png",
+            "chest_opened_img": "images/items_disabled/jar_of_pickles.png"
+          }
+        ],
         "map_locations": [
           {
             "map": "pickle_valley",
