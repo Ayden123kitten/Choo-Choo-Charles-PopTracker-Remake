@@ -1,0 +1,165 @@
+[
+  {
+    "name": "West Beach",
+    "access_rules": ["relics_disabled", "relics_enabled, fogbane_west_beach"],
+    "children": [
+      {
+        "name": "Chest",
+        "sections": [
+          {
+            "name": "Scraps",
+            "item_count": 6,
+            "chest_unopened_img": "images/chests/chest.png",
+            "chest_opened_img": "images/chests_disabled/chest.png",
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "shape": "trapezoid",
+            "x": 565,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Top On Upper Footbridge",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 710,
+            "y": 225
+          }
+        ]
+      },
+      {
+        "name": "Top On Lower Footbridge",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 725,
+            "y": 315
+          }
+        ]
+      },
+      {
+        "name": "Bottom Foot Of Stairs",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 705,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Bottom Near Minecart",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 630,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Bottom In Corner",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 525,
+            "y": 305
+          }
+        ]
+      },
+      {
+        "name": "Laying On Sand",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 735,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Laying Under Stairs",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "shape": "trapezoid",
+            "x": 490,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "name": "Top Near Beams",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 875,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

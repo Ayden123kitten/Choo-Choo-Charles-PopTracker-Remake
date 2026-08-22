@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Cliffside House",
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_cliffside_house"
+    ],
+    "children": [
+      {
+        "name": "South Path Near Rails",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 215,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "South Path Near Lantern 1",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 270,
+            "y": 510
+          }
+        ]
+      },
+      {
+        "name": "South Path Near Lantern 2",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 490,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "South Path Near Lantern 3",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 600,
+            "y": 460
+          }
+        ]
+      },
+      {
+        "name": "South Path Near Lantern 4",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 890,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Cliffside Path Near Tent",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1020,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Cliffside Path Under Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1020,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Clifftop Behind House",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1330,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "Clifftop Near Door",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1355,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Clifftop Near Minecart",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1290,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Bed",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1300,
+            "y": 330
+          }
+        ]
+      },
+      {
+        "name": "Inside First Floor",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1330,
+            "y": 295
+          }
+        ]
+      },
+      {
+        "name": "Wooded Path Near Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 1045,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "South Path On Shortcut Trails",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cliffside_house",
+            "x": 670,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Chest",
+        "sections": [
+          {
+            "item_count": 5,
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/chest.png",
+            "chest_opened_img": "images/chests_disabled/chest.png",
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "name": "Scraps",
+            "map": "cliffside_house",
+            "x": 1295,
+            "y": 370
+          }
+        ]
+      }
+    ]
+  }
+]

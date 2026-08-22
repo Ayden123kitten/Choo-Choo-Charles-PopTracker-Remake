@@ -1,0 +1,128 @@
+[
+  {
+    "name": "East Tower",
+    "access_rules": ["relics_disabled", "relics_enabled, fogbane_east_tower"],
+    "children": [
+      {
+        "name": "Greg",
+        "sections": [
+          {
+            "name": "Mission Start",
+            "chest_unopened_img": "images/items/key.png",
+            "chest_opened_img": "images/items_disabled/key.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 750,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Between Crates",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 650,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "Near Minecart",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 760,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Near East Barrier",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 1020,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Near Northeast Barrier",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 860,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "On Stairs",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 780,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Near Note",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "shape": "trapezoid",
+            "x": 735,
+            "y": 425
+          }
+        ]
+      }
+    ]
+  }
+]
