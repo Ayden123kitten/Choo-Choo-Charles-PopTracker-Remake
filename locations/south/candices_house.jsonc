@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Candice's House",
+    "children": [
+      {
+        "name": "Room",
+        "sections": [
+          {
+            "name": "Scraps",
+            "item_count": 9,
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "candices_house",
+            "size": 120,
+            "x": 880,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Candice",
+        "sections": [
+          {
+            "name": "Mission Start",
+            "chest_unopened_img": "images/items/key.png",
+            "chest_opened_img": "images/items_disabled/key.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "candices_house",
+            "x": 380,
+            "y": 410
+          }
+        ]
+      }
+    ]
+  }
+]

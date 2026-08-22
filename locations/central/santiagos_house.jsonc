@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Santiago's House",
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_santiagos_house"
+    ],
+    "children": [
+      {
+        "name": "Santiago's Journal",
+        "sections": [
+          {
+            "chest_unopened_img": "images/items/santiagos_journal.png",
+            "chest_opened_img": "images/items_disabled/santiagos_journal.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 605,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "On Shrine",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 815,
+            "y": 665
+          }
+        ]
+      },
+      {
+        "name": "Near Shrine",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 895,
+            "y": 575
+          }
+        ]
+      },
+      {
+        "name": "Near Crates Outside",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 700,
+            "y": 395
+          }
+        ]
+      },
+      {
+        "name": "Behind Lit Lantern",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 675,
+            "y": 330
+          }
+        ]
+      },
+      {
+        "name": "Behind House",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 580,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "On Rocks",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 685,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Near Table",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 640,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Near Crates Inside",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 675,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "On Crates Inside",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 600,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "On Path",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "santiagos_house",
+            "x": 855,
+            "y": 220
+          }
+        ]
+      }
+    ]
+  }
+]
