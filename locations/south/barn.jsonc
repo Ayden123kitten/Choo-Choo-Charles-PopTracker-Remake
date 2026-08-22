@@ -9,7 +9,8 @@
             "name": "Scraps",
             "item_count": 9,
             "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_opened_img": "images/items_disabled/scraps.png",
+            "access_rules": ["tonys_barn_key"]
           }
         ],
         "map_locations": [
