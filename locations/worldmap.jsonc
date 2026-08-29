@@ -30,7 +30,7 @@
           },
           {
             "name": "Barn Scraps",
-            "access_rules": ["barn_key"],
+            "access_rules": ["tonys_barn_key"],
             "item_count": 9,
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
@@ -414,9 +414,9 @@
             "item_count": 18
           },
           {
-            "name": "Page Drawings",
-            "chest_unopened_img": "images/items/page_drawing.png",
-            "chest_opened_img": "images/items_disabled/page_drawing.png",
+            "name": "Child's Drawings",
+            "chest_unopened_img": "images/items/childs_drawing.png",
+            "chest_opened_img": "images/items_disabled/childs_drawing.png",
             "item_count": 8
           }
         ],
@@ -446,7 +446,7 @@
             "name": "Sasha Mission End",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
-            "access_rules": ["$has_more_then_n|page_drawing|7"]
+            "access_rules": ["$has_more_then_n|childs_drawing|7"]
           }
         ],
         "map_locations": [
@@ -477,7 +477,7 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
 
-            "access_rules": ["santiagos_journal"]
+            "access_rules": ["journal"]
           }
         ],
         "map_locations": [
@@ -503,9 +503,9 @@
             "item_count": 10
           },
           {
-            "name": "Santiago's Journal",
-            "chest_unopened_img": "images/items/santiagos_journal.png",
-            "chest_opened_img": "images/items_disabled/santiagos_journal.png"
+            "name": "Journal",
+            "chest_unopened_img": "images/items/journal.png",
+            "chest_opened_img": "images/items_disabled/journal.png"
           }
         ],
         "map_locations": [
@@ -992,7 +992,7 @@
             "item_count": 5
           },
           {
-            "name": "Gale",
+            "name": "Gale Mission Start",
             "chest_unopened_img": "images/items/key.png",
             "chest_opened_img": "images/items_disabled/key.png"
           }
