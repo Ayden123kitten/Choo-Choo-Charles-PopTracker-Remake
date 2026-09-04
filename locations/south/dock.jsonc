@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Dock",
+    "children": [
+      {
+        "name": "On Crates",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dock",
+            "x": 720,
+            "y": 680
+          }
+        ]
+      }
+    ]
+  }
+]

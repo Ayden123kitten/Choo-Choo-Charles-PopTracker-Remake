@@ -19,6 +19,12 @@
     "img": "images/maps/south/candices_house.png"
   },
   {
+    "name": "dock",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/dock.png"
+  },
+  {
     "name": "junkyard_area",
     "location_size": 30,
     "location_border_thickness": 4,
@@ -59,6 +65,12 @@
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/south/swamp.png"
+  },
+  {
+    "name": "train_station",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/train_station.png"
   },
   // Central
   {
@@ -129,7 +141,7 @@
     "img": "images/maps/east/doll_woods.png"
   },
   {
-    "name": "east_tower",
+    "name": "tower_near_workshop",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/east/east_tower.png"

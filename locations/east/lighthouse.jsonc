@@ -310,19 +310,37 @@
         ]
       },
       {
-        "name": "Breaker",
+        "name": "West on Coast",
         "sections": [
           {
-            "chest_unopened_img": "images/items/breaker.png",
-            "chest_opened_img": "images/items_disabled/breaker.png",
-            "item_count": 4
+            "name": "Scraps",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
             "map": "lighthouse",
-            "x": 410,
-            "y": 1080
+            "x": 625,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "In Corner",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lighthouse",
+            "shape": "trapezoid",
+            "x": 1080,
+            "y": 420
           }
         ]
       },
@@ -339,6 +357,7 @@
         "map_locations": [
           {
             "map": "lighthouse",
+            "shape": "trapezoid",
             "x": 865,
             "y": 215
           }

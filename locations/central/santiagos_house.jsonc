@@ -7,11 +7,11 @@
     ],
     "children": [
       {
-        "name": "Santiago's Journal",
+        "name": "Journal",
         "sections": [
           {
-            "chest_unopened_img": "images/items/santiagos_journal.png",
-            "chest_opened_img": "images/items_disabled/santiagos_journal.png"
+            "chest_unopened_img": "images/items/journal.png",
+            "chest_opened_img": "images/items_disabled/journal.png"
           }
         ],
         "map_locations": [

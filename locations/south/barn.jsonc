@@ -11,6 +11,13 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "access_rules": ["tonys_barn_key"]
+          },
+          {
+            "name": "Note",
+            "access_rules": ["tonys_barn_key"],
+            "item_count": 2,
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [

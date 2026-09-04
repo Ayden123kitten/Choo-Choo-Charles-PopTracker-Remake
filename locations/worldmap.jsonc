@@ -3,6 +3,40 @@
     "name": "Aranerarum",
     "children": [
       {
+        "name": "Dock",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 300,
+            "y": 690
+          }
+        ]
+      },
+      {
+        "name": "Train Station",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 330,
+            "y": 640
+          }
+        ]
+      },
+      {
         "name": "Start Camp",
         "sections": [
           {
@@ -34,6 +68,13 @@
             "item_count": 9,
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
+          },
+          {
+            "name": "Barn Note",
+            "access_rules": ["tonys_barn_key"],
+            "item_count": 2,
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [
@@ -56,6 +97,11 @@
             "item_count": 12,
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Chest Scraps",
@@ -86,6 +132,12 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9,
+            "access_rules": ["candices_key"]
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
             "access_rules": ["candices_key"]
           }
         ],
@@ -208,6 +260,11 @@
             "item_count": 37
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Dead Fish",
             "chest_unopened_img": "images/items/dead_fish.png",
             "chest_opened_img": "images/items_disabled/dead_fish.png"
@@ -243,10 +300,21 @@
             "item_count": 7
           },
           {
+            "name": "Outside Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Inside Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9,
+            "access_rules": ["south_mine_key"]
+          },
+          {
+            "name": "Inside Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
             "access_rules": ["south_mine_key"]
           },
           {
@@ -295,8 +363,13 @@
             "name": "Jar of Pickles",
             "chest_unopened_img": "images/items/jar_of_pickles.png",
             "chest_opened_img": "images/items_disabled/jar_of_pickles.png",
-
             "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "item_count": 2
           },
           {
             "name": "Pickle Lady Mission End",
@@ -354,6 +427,11 @@
             "item_count": 20
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Theodore Mission End",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
@@ -387,6 +465,12 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 10
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "item_count": 2
           },
           {
             "name": "Pink Paint Can",
@@ -443,6 +527,11 @@
             "item_count": 6
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Sasha Mission End",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
@@ -466,6 +555,12 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 19
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "item_count": 2
           },
           {
             "name": "Grey Paint Can",
@@ -602,6 +697,11 @@
             "chest_opened_img": "images/items_disabled/timed_dynamite.png"
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Bunker Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
@@ -636,10 +736,14 @@
             "item_count": 6
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+          },
+          {
             "name": "John Smith Mission End",
             "chest_unopened_img": "images/weapons/the_boomer.png",
             "chest_opened_img": "images/weapons_disabled/the_boomer.png",
-
             "access_rules": ["box_of_rockets"]
           }
         ],
@@ -682,10 +786,10 @@
         ]
       },
       {
-        "name": "East Tower",
+        "name": "Tower Near Workshop",
         "access_rules": [
           "relics_disabled",
-          "relics_enabled, fogbane_east_tower"
+          "relics_enabled, fogbane_tower_near_workshop"
         ],
         "sections": [
           {
@@ -693,6 +797,11 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Greg Mission Start",
@@ -722,6 +831,11 @@
             "item_count": 18
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Breakers",
             "chest_unopened_img": "images/items/breaker.png",
             "chest_opened_img": "images/items_disabled/breaker.png",
@@ -731,7 +845,6 @@
             "name": "Claire Mission End",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
-
             "access_rules": ["$has_more_then_n|breaker|3"]
           }
         ],
@@ -780,6 +893,11 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 3
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [
@@ -799,6 +917,11 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 27
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Employment Contracts",
@@ -859,6 +982,12 @@
             "item_count": 9
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "access_rules": ["lockpicks"]
+          },
+          {
             "name": "Chest Scraps",
             "chest_unopened_img": "images/chests/chest.png",
             "chest_opened_img": "images/chests_disabled/chest.png",
@@ -911,10 +1040,22 @@
             "item_count": 17
           },
           {
+            "name": "Outside Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Inside Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17,
+            "access_rules": ["mountain_ruin_key"]
+          },
+          {
+            "name": "Inside Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "item_count": 2,
             "access_rules": ["mountain_ruin_key"]
           },
           {
@@ -949,6 +1090,11 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 16
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Locked Room Scraps",
@@ -990,6 +1136,11 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 5
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Gale Mission Start",
@@ -1099,6 +1250,11 @@
             "item_count": 15
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Teal Paint Can",
             "chest_unopened_img": "images/paint_cans/teal_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/teal_paint_can.png"
@@ -1154,6 +1310,12 @@
             "item_count": 12
           },
           {
+            "name": "Notes",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "item_count": 2
+          },
+          {
             "name": "Paul Mission Start",
             "chest_unopened_img": "images/items/remote_explosives.png",
             "chest_opened_img": "images/items_disabled/remote_explosives.png"
@@ -1185,6 +1347,11 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 13
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Chest Scraps",
@@ -1224,6 +1391,12 @@
             "access_rules": ["north_mine_key"]
           },
           {
+            "name": "Inside Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "access_rules": ["north_mine_key"]
+          },
+          {
             "name": "Blue Paint Can",
             "chest_unopened_img": "images/paint_cans/blue_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.png",
@@ -1258,6 +1431,11 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 14
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Chest Scraps",

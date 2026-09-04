@@ -13,6 +13,11 @@
             "name": "Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [
@@ -305,6 +310,12 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "item_count": 2
           },
           {
             "name": "Red Paint Can",

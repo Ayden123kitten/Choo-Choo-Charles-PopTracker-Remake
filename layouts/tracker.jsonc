@@ -49,7 +49,7 @@
             },
             {
               "type": "group",
-              "header": "Track Switches/Settings",
+              "header": "Track Switches",
               "dock": "top",
               "content": {
                 "type": "layout",
@@ -134,7 +134,7 @@
             },
             {
               "type": "group",
-              "header": "Track Switches/Settings",
+              "header": "Track Switches",
               "dock": "top",
               "content": {
                 "type": "layout",
@@ -171,6 +171,13 @@
                     "content": {
                       "type": "map",
                       "maps": ["candices_house"]
+                    }
+                  },
+                  {
+                    "title": "Dock",
+                    "content": {
+                      "type": "map",
+                      "maps": ["dock"]
                     }
                   },
                   {
@@ -220,6 +227,13 @@
                     "content": {
                       "type": "map",
                       "maps": ["swamp"]
+                    }
+                  },
+                  {
+                    "title": "Train Station",
+                    "content": {
+                      "type": "map",
+                      "maps": ["train_station"]
                     }
                   }
                 ]
@@ -325,13 +339,6 @@
                     }
                   },
                   {
-                    "title": "East Tower",
-                    "content": {
-                      "type": "map",
-                      "maps": ["east_tower"]
-                    }
-                  },
-                  {
                     "title": "Lighthouse",
                     "content": {
                       "type": "map",
@@ -350,6 +357,13 @@
                     "content": {
                       "type": "map",
                       "maps": ["rocket_grounds"]
+                    }
+                  },
+                  {
+                    "title": "Tower Near Workshop",
+                    "content": {
+                      "type": "map",
+                      "maps": ["tower_near_workshop"]
                     }
                   },
                   {
@@ -503,5 +517,9 @@
         }
       ]
     }
+  },
+  "settings_popup": {
+    "type": "layout",
+    "key": "settings"
   }
 }

@@ -553,13 +553,18 @@
             "name": "Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [
           {
             "map": "swamp",
-            "x": 720,
-            "y": 720
+            "x": 715,
+            "y": 730
           }
         ]
       },

@@ -231,6 +231,25 @@
         ]
       },
       {
+        "name": "Near Entrance",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/note_disabled/note.png",
+            "access_rules": ["timed_dynamite"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rocket_grounds",
+            "shape": "trapezoid",
+            "x": 505,
+            "y": 600
+          }
+        ]
+      },
+      {
         "name": "Box of Rockets",
         "sections": [
           {

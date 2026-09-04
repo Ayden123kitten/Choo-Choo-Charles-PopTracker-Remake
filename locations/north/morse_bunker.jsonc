@@ -42,6 +42,24 @@
         ]
       },
       {
+        "name": "Inside On Table",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "shape": "trapezoid",
+            "x": 600,
+            "y": 240
+          }
+        ]
+      },
+      {
         "name": "Inside Near Minecart",
         "sections": [
           {

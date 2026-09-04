@@ -95,6 +95,11 @@
             "name": "Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/note_disabled/note.png"
           }
         ],
         "map_locations": [

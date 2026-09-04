@@ -14,6 +14,11 @@
             "item_count": 13
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
             "name": "Blue Paint Can",
             "chest_unopened_img": "images/paint_cans/blue_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.png",

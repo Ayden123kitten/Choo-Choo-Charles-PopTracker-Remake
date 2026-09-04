@@ -1,27 +1,27 @@
 [
   {
-    "name": "South Mine",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_south_mine"],
+    "name": "Tower Near Workshop",
+    "access_rules": ["relics_disabled", "relics_enabled, fogbane_tower_near_workshop"],
     "children": [
       {
-        "name": "Near Main Rails",
+        "name": "Greg",
         "sections": [
           {
-            "name": "Scraps",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "name": "Mission Start",
+            "chest_unopened_img": "images/items/key.png",
+            "chest_opened_img": "images/items_disabled/key.png"
           }
         ],
         "map_locations": [
           {
-            "map": "south_mine",
-            "x": 925,
-            "y": 530
+            "map": "east_tower",
+            "x": 750,
+            "y": 430
           }
         ]
       },
       {
-        "name": "Near Minecarts",
+        "name": "Between Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -31,14 +31,14 @@
         ],
         "map_locations": [
           {
-            "map": "south_mine",
+            "map": "east_tower",
             "x": 650,
-            "y": 590
+            "y": 390
           }
         ]
       },
       {
-        "name": "On Rocks",
+        "name": "Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -48,14 +48,14 @@
         ],
         "map_locations": [
           {
-            "map": "south_mine",
-            "x": 630,
-            "y": 770
+            "map": "east_tower",
+            "x": 760,
+            "y": 500
           }
         ]
       },
       {
-        "name": "Near Mine Door",
+        "name": "Near East Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -65,14 +65,14 @@
         ],
         "map_locations": [
           {
-            "map": "south_mine",
-            "x": 440,
-            "y": 615
+            "map": "east_tower",
+            "x": 1020,
+            "y": 410
           }
         ]
       },
       {
-        "name": "Inside Small Shelter",
+        "name": "Near Northeast Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -82,14 +82,14 @@
         ],
         "map_locations": [
           {
-            "map": "south_mine",
-            "x": 415,
-            "y": 210
+            "map": "east_tower",
+            "x": 860,
+            "y": 250
           }
         ]
       },
       {
-        "name": "Between Barriers",
+        "name": "On Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -99,69 +99,45 @@
         ],
         "map_locations": [
           {
-            "map": "south_mine",
-            "x": 790,
-            "y": 245
+            "map": "east_tower",
+            "x": 780,
+            "y": 480
           }
         ]
       },
       {
-        "name": "Inside Rest Shelter",
+        "name": "Near Note",
         "sections": [
           {
             "name": "Scraps",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
-          },
-          {
-            "name": "Note",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [
           {
-            "map": "south_mine",
-            "x": 835,
-            "y": 50
-          }
-        ]
-      },
-      {
-        "name": "Inside",
-        "type": "static",
-        "access_rules": ["south_mine_key"],
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
-            "item_count": 7
-          },
-          {
-            "name": "Note",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
-          },
-          {
-            "name": "Green Paint Can",
-            "chest_unopened_img": "images/paint_cans/green_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/green_paint_can.png",
-            "access_rules": ["lockpicks"]
-          },
-          {
-            "name": "Green Egg",
-            "chest_unopened_img": "images/items/green_egg.png",
-            "chest_opened_img": "images/items_disabled/green_egg.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "south_mine",
+            "map": "east_tower",
             "shape": "trapezoid",
-            "size": 80,
-            "x": 355,
-            "y": 640
+            "x": 735,
+            "y": 425
+          }
+        ]
+      },
+      {
+        "name": "On Table",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "shape": "trapezoid",
+            "x": 730,
+            "y": 425
           }
         ]
       }

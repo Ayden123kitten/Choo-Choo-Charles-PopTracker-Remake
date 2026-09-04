@@ -278,6 +278,23 @@
         ]
       },
       {
+        "name": "Shack In Corner",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "north_beach",
+            "x": 285,
+            "y": 260
+          }
+        ]
+      },
+      {
         "name": "Teal Paint Can",
         "sections": [
           {

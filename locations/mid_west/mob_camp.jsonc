@@ -144,6 +144,24 @@
         ]
       },
       {
+        "name": "Mask Tower On Table",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mob_camp",
+            "shape": "trapezoid",
+            "x": 710,
+            "y": 525
+          }
+        ]
+      },
+      {
         "name": "Mask Tower On Stairs",
         "sections": [
           {

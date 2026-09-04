@@ -48,10 +48,10 @@
     "codes": "mountain_ruin_key"
   },
   {
-    "name": "Barn Key",
+    "name": "Tony's Barn Key",
     "type": "toggle",
     "img": "images/items/key.png",
-    "codes": "barn_key"
+    "codes": "tonys_barn_key"
   },
   {
     "name": "Candice's Key",
@@ -72,16 +72,16 @@
     "codes": "employment_contracts"
   },
   {
-    "name": "Tablet",
+    "name": "Ancient Tablet",
     "type": "toggle",
     "img": "images/items/ancient_tablet.png",
     "codes": "ancient_tablet"
   },
   {
-    "name": "Page Drawing",
+    "name": "Child's Drawing",
     "type": "consumable",
-    "img": "images/items/page_drawing.png",
-    "codes": "page_drawing",
+    "img": "images/items/childs_drawing.png",
+    "codes": "childs_drawing",
     "max_quantity": 8,
     "increment": 1,
     "decrement": 1
@@ -126,10 +126,10 @@
     "codes": "box_of_rockets"
   },
   {
-    "name": "Santiago's Journal",
+    "name": "Journal",
     "type": "toggle",
-    "img": "images/items/santiagos_journal.png",
-    "codes": "santiagos_journal"
+    "img": "images/items/journal.png",
+    "codes": "journal"
   },
   {
     "name": "Timed Dynamite",
@@ -240,10 +240,10 @@
     "codes": "fogbane_workshop"
   },
   {
-    "name": "East Tower Fogbane Relic",
+    "name": "Tower Near Workshop Fogbane Relic",
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_east_tower"
+    "codes": "fogbane_tower_near_workshop"
   },
   {
     "name": "Lighthouse Fogbane Relic",
@@ -346,22 +346,6 @@
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
     "codes": "fogbane_morse_bunker"
-  },
-  {
-    "name": "Toggle Fogbane Relics",
-    "type": "progressive",
-    "stages": [
-      {
-        "img": "/images/toggles/cursed_fogs_disabled.png",
-        "inherit_codes": false,
-        "codes": "relics_disabled, cursed_fogs_toggle"
-      },
-      {
-        "img": "/images/toggles/cursed_fogs_enabled.png",
-        "inherit_codes": false,
-        "codes": "relics_enabled, cursed_fogs_toggle"
-      }
-    ]
   },
   {
     "name": "Candice's House/Barn Track Switch",

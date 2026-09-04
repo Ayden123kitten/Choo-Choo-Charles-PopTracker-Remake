@@ -29,7 +29,7 @@
             "south_mine_key",
             "north_mine_key",
             "mountain_ruin_key",
-            "barn_key",
+            "tonys_barn_key",
             "candices_key",
             "mob_camp_key"
           ]
@@ -55,11 +55,18 @@
             "blue_box",
             "broken_bob",
             "box_of_rockets",
-            "santiagos_journal",
+            "journal",
             "timed_dynamite",
             "remote_explosives"
           ],
-          ["page_drawing", "breaker", "derailer", "bug_spray", "the_boomer", "bob"]
+          [
+            "childs_drawing",
+            "breaker",
+            "derailer",
+            "bug_spray",
+            "the_boomer",
+            "bob"
+          ]
         ]
       }
     ]
@@ -79,7 +86,7 @@
             "fogbane_canyon",
             "fogbane_church",
             "fogbane_cliffside_house",
-            "fogbane_east_tower",
+            "fogbane_tower_near_workshop",
             "fogbane_haunted_house",
             "fogbane_junkyard_area",
             "fogbane_junkyard_shed",
@@ -141,9 +148,51 @@
             "track_switch_north_temple",
             "track_switch_caravan_cultists",
             "track_switch_camp_elevator",
-            "track_switch_ruin_temple",
-            "cursed_fogs_toggle"
+            "track_switch_ruin_temple"
           ]
+        ]
+      }
+    ]
+  },
+  "track_switch_item_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "10, 10",
+        "h_alignment": "left",
+        "rows": [
+          [
+            "track_switch_tutorial_barn",
+            "track_switch_middle_port",
+            "track_switch_haunted_East",
+            "track_switch_north_temple",
+            "track_switch_caravan_cultists",
+            "track_switch_camp_elevator",
+            "track_switch_ruin_temple"
+          ]
+        ]
+      }
+    ]
+  },
+  "settings": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "group",
+        "dock": "top",
+        "header": "Settings",
+        "content": [
+          {
+            "type": "itemgrid",
+            "h_alignment": "left",
+            "item_margin": "10, 10",
+            "rows": [
+              ["cursed_fogs_toggle"]
+            ]
+          }
         ]
       }
     ]

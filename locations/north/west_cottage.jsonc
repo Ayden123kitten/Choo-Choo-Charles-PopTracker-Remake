@@ -104,6 +104,23 @@
             "y": 315
           }
         ]
+      },
+      {
+        "name": "Under Roof",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "west_cottage",
+            "x": 830,
+            "y": 305
+          }
+        ]
       }
     ]
   }

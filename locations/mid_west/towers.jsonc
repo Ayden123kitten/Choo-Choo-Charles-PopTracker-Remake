@@ -217,6 +217,11 @@
             "chest_opened_img": "images/items_disabled/scraps.png"
           },
           {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/Note.png",
+            "chest_opened_img": "images/notes_disabled/Note.png"
+          },
+          {
             "name": "Employment Contracts",
             "chest_unopened_img": "images/items/employment_contracts.png",
             "chest_opened_img": "images/items_disabled/employment_contracts.png"

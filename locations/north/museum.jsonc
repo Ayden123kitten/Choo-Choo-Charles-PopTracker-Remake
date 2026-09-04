@@ -107,6 +107,24 @@
         ]
       },
       {
+        "name": "Inside In Side Room",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/note_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "museum",
+            "shape": "trapezoid",
+            "x": 730,
+            "y": 520
+          }
+        ]
+      },
+      {
         "name": "Inside Under Stairs",
         "sections": [
           {
@@ -143,7 +161,7 @@
         ]
       },
       {
-        "name": "Inside Behind Tables",
+        "name": "Inside On Table",
         "sections": [
           {
             "name": "Scraps",
@@ -155,8 +173,26 @@
           {
             "map": "museum",
             "shape": "trapezoid",
+            "x": 750,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "Inside In Corner",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "museum",
+            "shape": "trapezoid",
             "x": 745,
-            "y": 355
+            "y": 340
           }
         ]
       },

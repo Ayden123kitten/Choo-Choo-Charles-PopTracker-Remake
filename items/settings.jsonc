@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Toggle Fogbane Relics",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "/images/toggles/cursed_fogs_disabled.png",
+        "inherit_codes": false,
+        "codes": "relics_disabled, cursed_fogs_toggle"
+      },
+      {
+        "img": "/images/toggles/cursed_fogs_enabled.png",
+        "inherit_codes": false,
+        "codes": "relics_enabled, cursed_fogs_toggle"
+      }
+    ]
+  }
+]

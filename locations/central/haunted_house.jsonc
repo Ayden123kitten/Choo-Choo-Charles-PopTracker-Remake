@@ -8,7 +8,7 @@
     "children": [
       {
         "name": "Sasha",
-        "access_rules": ["$has_more_then_n|page_drawing|7"],
+        "access_rules": ["$has_more_then_n|childs_drawing|7"],
         "sections": [
           {
             "name": "Mission End",
@@ -55,6 +55,23 @@
             "map": "haunted_house",
             "x": 670,
             "y": 270
+          }
+        ]
+      },
+      {
+        "name": "On Table",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 665,
+            "y": 250
           }
         ]
       },

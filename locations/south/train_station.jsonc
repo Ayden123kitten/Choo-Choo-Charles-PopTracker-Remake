@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Train Station",
+    "children": [
+      {
+        "name": "On Roof",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "train_station",
+            "x": 730,
+            "y": 445
+          }
+        ]
+      }
+    ]
+  }
+]

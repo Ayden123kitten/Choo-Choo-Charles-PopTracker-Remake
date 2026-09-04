@@ -15,8 +15,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 740,
-            "y": 680
+            "x": 920,
+            "y": 830
           }
         ]
       },
@@ -32,8 +32,25 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 730,
-            "y": 450
+            "x": 910,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "On Platform Corner",
+        "sections": [
+          {
+            "name": "Notes",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "watchtower",
+            "x": 935,
+            "y": 540
           }
         ]
       },
@@ -49,8 +66,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 600,
-            "y": 310
+            "x": 740,
+            "y": 370
           }
         ]
       },
@@ -66,8 +83,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 775,
-            "y": 115
+            "x": 970,
+            "y": 130
           }
         ]
       },
@@ -83,8 +100,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 860,
-            "y": 300
+            "x": 1070,
+            "y": 350
           }
         ]
       },
@@ -100,8 +117,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 750,
-            "y": 330
+            "x": 930,
+            "y": 400
           }
         ]
       },
@@ -117,8 +134,9 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 765,
-            "y": 400
+            "shape": "trapezoid",
+            "x": 950,
+            "y": 480
           }
         ]
       },
@@ -141,8 +159,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 765,
-            "y": 440
+            "x": 955,
+            "y": 530
           }
         ]
       },
@@ -158,8 +176,25 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 795,
-            "y": 435
+            "x": 990,
+            "y": 515
+          }
+        ]
+      },
+      {
+        "name": "On Table",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "watchtower",
+            "x": 995,
+            "y": 510
           }
         ]
       },
@@ -175,8 +210,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 1000,
-            "y": 440
+            "x": 1265,
+            "y": 925
           }
         ]
       }

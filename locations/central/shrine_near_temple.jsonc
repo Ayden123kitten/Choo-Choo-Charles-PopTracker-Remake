@@ -14,8 +14,8 @@
         "map_locations": [
           {
             "map": "shrine_near_temple",
-            "x": 775,
-            "y": 280
+            "x": 975,
+            "y": 325
           }
         ]
       },
@@ -31,8 +31,8 @@
         "map_locations": [
           {
             "map": "shrine_near_temple",
-            "x": 725,
-            "y": 375
+            "x": 900,
+            "y": 460
           }
         ]
       },
@@ -48,8 +48,25 @@
         "map_locations": [
           {
             "map": "shrine_near_temple",
-            "x": 880,
-            "y": 390
+            "x": 1075,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "On Temple",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "shrine_near_temple",
+            "x": 680,
+            "y": 740
           }
         ]
       }

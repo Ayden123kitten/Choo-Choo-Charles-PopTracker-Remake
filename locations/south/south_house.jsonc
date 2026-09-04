@@ -23,6 +23,23 @@
         ]
       },
       {
+        "name": "In House",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 555,
+            "y": 640
+          }
+        ]
+      },
+      {
         "name": "Under Top Lantern",
         "sections": [
           {

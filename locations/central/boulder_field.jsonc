@@ -6,9 +6,9 @@
         "name": "North",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_1.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_1.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_1.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_1.png"
           }
         ],
         "map_locations": [
@@ -23,9 +23,9 @@
         "name": "Northeast",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_8.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_8.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_8.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_8.png"
           }
         ],
         "map_locations": [
@@ -40,9 +40,9 @@
         "name": "Middle",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_3.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_3.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_3.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_3.png"
           }
         ],
         "map_locations": [
@@ -57,9 +57,9 @@
         "name": "Northwest",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_2.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_2.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_2.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_2.png"
           }
         ],
         "map_locations": [
@@ -74,9 +74,9 @@
         "name": "South",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_5.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_5.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_5.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_5.png"
           }
         ],
         "map_locations": [
@@ -91,9 +91,9 @@
         "name": "West",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_4.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_4.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_4.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_4.png"
           }
         ],
         "map_locations": [
@@ -108,9 +108,9 @@
         "name": "Southwest",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_6.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_6.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_6.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_6.png"
           }
         ],
         "map_locations": [
@@ -125,9 +125,9 @@
         "name": "East",
         "sections": [
           {
-            "name": "Page Drawing",
-            "chest_unopened_img": "images/page_drawings/page_drawing_5.png",
-            "chest_opened_img": "images/page_drawings_disabled/page_drawing_5.png"
+            "name": "Child's Drawing",
+            "chest_unopened_img": "images/childs_drawings/childs_drawing_5.png",
+            "chest_opened_img": "images/childs_drawings_disabled/childs_drawing_5.png"
           }
         ],
         "map_locations": [

@@ -24,6 +24,23 @@
         ]
       },
       {
+        "name": "House On Table",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pickle_valley",
+            "x": 1205,
+            "y": 330
+          }
+        ]
+      },
+      {
         "name": "House Near Water Tank",
         "sections": [
           {
@@ -260,6 +277,24 @@
             "shape": "trapezoid",
             "x": 445,
             "y": 510
+          }
+        ]
+      },
+      {
+        "name": "Cave On Table",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pickle_valley",
+            "shape": "trapezoid",
+            "x": 430,
+            "y": 500
           }
         ]
       },

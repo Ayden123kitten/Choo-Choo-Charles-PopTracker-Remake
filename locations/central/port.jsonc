@@ -8,7 +8,7 @@
         "sections": [
           {
             "name": "Mission End",
-            "access_rules": ["santiagos_journal"],
+            "access_rules": ["journal"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -26,7 +26,7 @@
         "sections": [
           {
             "chest_unopened_img": "images/paint_cans/grey_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png"
           }
         ],
         "map_locations": [
@@ -66,8 +66,8 @@
         "map_locations": [
           {
             "map": "port",
-            "x": 240,
-            "y": 405
+            "x": 400,
+            "y": 230
           }
         ]
       },
@@ -119,6 +119,23 @@
             "map": "port",
             "x": 330,
             "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Station On Table",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 320,
+            "y": 170
           }
         ]
       },
@@ -340,6 +357,23 @@
             "map": "port",
             "x": 1010,
             "y": 350
+          }
+        ]
+      },
+      {
+        "name": "In House",
+        "sections": [
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "port",
+            "x": 1020,
+            "y": 400
           }
         ]
       },
