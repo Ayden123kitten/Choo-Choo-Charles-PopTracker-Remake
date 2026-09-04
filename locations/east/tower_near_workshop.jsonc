@@ -1,7 +1,10 @@
 [
   {
     "name": "Tower Near Workshop",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_tower_near_workshop"],
+    "access_rules": [
+      "relics_disabled",
+      "relics_enabled, fogbane_tower_near_workshop"
+    ],
     "children": [
       {
         "name": "Greg",
@@ -25,6 +28,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -42,6 +46,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -59,6 +64,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -76,6 +82,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -93,6 +100,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -110,6 +118,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }

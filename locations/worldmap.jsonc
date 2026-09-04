@@ -41,6 +41,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 2
@@ -94,6 +95,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "item_count": 12,
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
@@ -159,6 +161,7 @@
           {
             "item_count": 10,
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           },
@@ -200,6 +203,7 @@
           {
             "item_count": 8,
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           },
@@ -227,6 +231,7 @@
           {
             "item_count": 12,
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           },
@@ -255,6 +260,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 37
@@ -350,6 +356,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 23
@@ -394,6 +401,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17
@@ -422,6 +430,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 20
@@ -462,6 +471,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 10
@@ -493,6 +503,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 18
@@ -522,6 +533,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6
@@ -552,6 +564,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 19
@@ -593,6 +606,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 10
@@ -617,6 +631,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 2
@@ -639,6 +654,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 10
@@ -658,6 +674,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 18
@@ -687,6 +704,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 10
@@ -731,6 +749,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6
@@ -764,6 +783,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 14
@@ -794,6 +814,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6
@@ -826,6 +847,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 18
@@ -863,6 +885,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 34
@@ -890,6 +913,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 3
@@ -914,6 +938,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 27
@@ -958,6 +983,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6
@@ -977,6 +1003,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9
@@ -1013,6 +1040,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9
@@ -1087,6 +1115,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 16
@@ -1133,6 +1162,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 5
@@ -1162,6 +1192,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 12
@@ -1189,6 +1220,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 5
@@ -1216,6 +1248,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 8
@@ -1245,6 +1278,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 15
@@ -1285,6 +1319,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 13
@@ -1305,6 +1340,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 12
@@ -1344,6 +1380,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 13
@@ -1428,6 +1465,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 14

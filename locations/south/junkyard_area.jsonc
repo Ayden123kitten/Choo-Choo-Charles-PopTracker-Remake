@@ -34,6 +34,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -51,6 +52,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -68,6 +70,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -85,6 +88,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -102,6 +106,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -119,6 +124,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -136,6 +142,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -153,6 +160,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -170,6 +178,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -187,6 +196,7 @@
         "sections": [
           {
             "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }

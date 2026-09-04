@@ -15,5 +15,22 @@
         "codes": "relics_enabled, cursed_fogs_toggle"
       }
     ]
+  },
+  {
+    "name": "Scraps",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "/images/toggles/scraps_disabled.png",
+        "inherit_codes": false,
+        "codes": "scraps_disabled, scraps_toggle"
+      },
+      {
+        "img": "/images/toggles/scraps_enabled.png",
+        "inherit_codes": false,
+        "codes": "scraps_enabled, scraps_toggle"
+      }
+    ]
   }
 ]
