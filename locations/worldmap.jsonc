@@ -65,6 +65,7 @@
           },
           {
             "name": "Barn",
+            "visibility_rules": ["scraps_enabled"],
             "access_rules": ["tonys_barn_key"],
             "item_count": 9,
             "chest_unopened_img": "images/items/scraps.png",
@@ -107,6 +108,7 @@
           },
           {
             "name": "Chest",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6,
@@ -130,7 +132,8 @@
             "chest_opened_img": "images/items_disabled/key.png"
           },
           {
-            "name": "Room Scraps",
+            "name": "Room",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9,
@@ -301,6 +304,7 @@
         "sections": [
           {
             "name": "Outside",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 7
@@ -312,6 +316,7 @@
           },
           {
             "name": "Inside",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9,
@@ -444,7 +449,6 @@
             "name": "Theodore Mission End",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
-
             "access_rules": ["blue_box"]
           },
           {
@@ -681,6 +685,7 @@
           },
           {
             "name": "Chest",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6,
@@ -720,7 +725,8 @@
             "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
-            "name": "Bunker Scraps",
+            "name": "Bunker",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 2,
@@ -730,7 +736,6 @@
             "name": "Box of Rockets",
             "chest_unopened_img": "images/items/box_of_rockets.png",
             "chest_opened_img": "images/items_disabled/box_of_rockets.png",
-
             "access_rules": ["timed_dynamite"]
           }
         ],
@@ -790,6 +795,7 @@
           },
           {
             "name": "Chest",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 5,
@@ -893,6 +899,7 @@
           {
             "name": "Chest",
             "item_count": 3,
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "access_rules": ["lockpicks"]
@@ -1009,16 +1016,17 @@
             "item_count": 9
           },
           {
-            "name": "Note",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
-            "access_rules": ["lockpicks"]
-          },
-          {
             "name": "Chest",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 5,
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Note",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
             "access_rules": ["lockpicks"]
           }
         ],
@@ -1063,6 +1071,7 @@
         "sections": [
           {
             "name": "Outside",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17
@@ -1074,6 +1083,7 @@
           },
           {
             "name": "Inside",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17,
@@ -1132,6 +1142,7 @@
           },
           {
             "name": "Locked Room",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 2,
@@ -1255,6 +1266,7 @@
           },
           {
             "name": "Chest",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6,
@@ -1296,6 +1308,7 @@
           {
             "name": "Chest",
             "item_count": 4,
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "access_rules": ["lockpicks"]
@@ -1392,6 +1405,7 @@
           },
           {
             "name": "Chest",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 5,
@@ -1416,12 +1430,14 @@
         "sections": [
           {
             "name": "Outside",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 14
           },
           {
             "name": "Inside",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 14,
@@ -1477,6 +1493,7 @@
           },
           {
             "name": "Chest",
+            "visibility_rules": ["scraps_enabled"],
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 7,
