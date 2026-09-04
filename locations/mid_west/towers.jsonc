@@ -231,7 +231,8 @@
           },
           {
             "name": "Note",
-            "chest_unopened_img": "images/notes/Note.png",
+            "visibility_rules": ["notes_enabled"],
+            "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/Note.png"
           },
           {
@@ -261,6 +262,7 @@
           },
           {
             "name": "Lime Paint Can",
+            "visibility_rules": ["paint_cans_enabled"],
             "chest_unopened_img": "images/paint_cans/lime_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/lime_paint_can.png"
           }

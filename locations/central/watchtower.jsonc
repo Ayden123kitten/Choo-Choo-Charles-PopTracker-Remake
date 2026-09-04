@@ -44,6 +44,7 @@
         "sections": [
           {
             "name": "Notes",
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -159,6 +160,7 @@
           },
           {
             "name": "Pink Paint Can",
+            "visibility_rules": ["paint_cans_enabled"],
             "access_rules": ["lockpicks"],
             "chest_unopened_img": "images/paint_cans/pink_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/pink_paint_can.png"
@@ -195,6 +197,7 @@
         "sections": [
           {
             "name": "Note",
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }

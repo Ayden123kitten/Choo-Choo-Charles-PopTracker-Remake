@@ -122,6 +122,7 @@
           },
           {
             "name": "Note",
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -148,11 +149,13 @@
           },
           {
             "name": "Note",
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Green Paint Can",
+            "visibility_rules": ["paint_cans_enabled"],
             "chest_unopened_img": "images/paint_cans/green_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/green_paint_can.png",
             "access_rules": ["lockpicks"]

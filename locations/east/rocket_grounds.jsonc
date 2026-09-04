@@ -247,6 +247,7 @@
         "sections": [
           {
             "name": "Note",
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/note_disabled/note.png",
             "access_rules": ["timed_dynamite"]

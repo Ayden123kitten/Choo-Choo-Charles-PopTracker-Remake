@@ -90,16 +90,25 @@ end
 
 function OnChangeFogbaneRelic()
 local mode = Tracker:FindObjectForCode("cursed_fogs_toggle") --[[@as JsonItem]]
-if mode.CurrentStage == 1 then
+if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_off.jsonc")
     else
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_on.jsonc")
     end
 end
 
--- ANy function added here and used in access rules should try to return an Accessibility Level if it is used inside 
+function OnChangeTrackSwitch()
+local mode = Tracker:FindObjectForCode("track_switch_toggle") --[[@as JsonItem]]
+if mode.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/track_switch/track_switch_off.jsonc")
+    else
+        Tracker:AddLayouts("layouts/track_switch/track_switch_on.jsonc")
+    end
+end
+-- ANy function added here and used in access rules should try to return an Accessibility Level if it is used inside
 -- the ANY() and ALL() functions
 --
 --
 
 ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)
+ScriptHost:AddWatchForCode("track switch layout handler", "cursed_fogs_toggle", OnChangeTrackSwitch)

@@ -30,6 +30,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -302,6 +303,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -461,6 +463,7 @@
       },
       {
         "name": "Purple Paint Can",
+        "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
             "chest_unopened_img": "images/paint_cans/purple_paint_can.png",

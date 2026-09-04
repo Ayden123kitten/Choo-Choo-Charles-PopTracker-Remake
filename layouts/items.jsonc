@@ -6,6 +6,7 @@
     "content": [
       {
         "type": "itemgrid",
+        "header": "Goal Items",
         "item_margin": "2, 2",
         "h_alignment": "left",
         "rows": [
@@ -45,6 +46,7 @@
       {
         "type": "itemgrid",
         "item_margin": "2, 2",
+        "header": "Quest Items",
         "h_alignment": "left",
         "rows": [
           [
@@ -72,6 +74,7 @@
       {
         "type": "itemgrid",
         "item_margin": "2, 2",
+        "header": "Weapons",
         "h_alignment": "left",
         "rows": [["derailer", "bug_spray", "the_boomer", "bob"]]
       }
@@ -84,6 +87,7 @@
     "content": [
       {
         "type": "itemgrid",
+        "header": "Upgrades",
         "item_margin": "2, 2",
         "h_alignment": "left",
         "rows": [
@@ -103,24 +107,7 @@
     "type": "array",
     "orientation": "horizontal",
     "margin": "0,0",
-    "content": [
-      {
-        "type": "itemgrid",
-        "item_margin": "2, 2",
-        "h_alignment": "left",
-        "rows": [
-          [
-            "track_switch_tutorial_barn",
-            "track_switch_middle_port",
-            "track_switch_haunted_East",
-            "track_switch_north_temple",
-            "track_switch_caravan_cultists",
-            "track_switch_camp_elevator",
-            "track_switch_ruin_temple"
-          ]
-        ]
-      }
-    ]
+    "content": []
   },
   "fog_item_grid": {
     "type": "array",
@@ -135,12 +122,13 @@
         "type": "group",
         "dock": "top",
         "header": "Settings",
+        "margin": "0,0",
         "content": [
           {
             "type": "itemgrid",
             "h_alignment": "left",
             "item_margin": "2, 2",
-            "rows": [["cursed_fogs_toggle", "scraps_toggle"]]
+            "rows": [["cursed_fogs_toggle", "scraps_toggle", "notes_toggle", "paint_cans_toggle", "track_switch_toggle"]]
           }
         ]
       }

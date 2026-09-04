@@ -17,6 +17,7 @@
           },
           {
             "name": "Note",
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -331,12 +332,14 @@
           },
           {
             "name": "Note",
+            "visibility_rules": ["notes_enabled"],
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png",
             "item_count": 2
           },
           {
             "name": "Red Paint Can",
+            "visibility_rules": ["paint_cans_enabled"],
             "chest_unopened_img": "images/paint_cans/red_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/red_paint_can.png",
             "access_rules": ["lockpicks"]

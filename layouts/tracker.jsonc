@@ -9,12 +9,13 @@
         {
           "type": "dock",
           "dock": "left",
+          "header": "Goal Items",
           "v_alignment": "stretch",
           "content": [
             {
               "type": "group",
-              "header": "Goal Items",
               "dock": "top",
+              "header": "Goal Items",
               "content": {
                 "type": "layout",
                 "key": "goal_item_grid"
@@ -22,8 +23,8 @@
             },
             {
               "type": "group",
-              "header": "Lockpick/Keys",
               "dock": "top",
+              "header": "Lockpick/Keys",
               "content": {
                 "type": "layout",
                 "key": "unlock_item_grid"
@@ -31,8 +32,8 @@
             },
             {
               "type": "group",
-              "header": "Quest Items",
               "dock": "top",
+              "header": "Quest Items",
               "content": {
                 "type": "layout",
                 "key": "quest_item_grid"
@@ -40,8 +41,8 @@
             },
             {
               "type": "group",
-              "header": "Weapons",
               "dock": "top",
+              "header": "Weapons",
               "content": {
                 "type": "layout",
                 "key": "weapon_item_grid"
@@ -62,13 +63,9 @@
               }
             },
             {
-              "type": "group",
-              "header": "Track Switches",
+              "type": "layout",
               "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "track_switch_item_grid"
-              }
+              "key": "track_switch_item_grid"
             }
           ]
         },
@@ -100,8 +97,8 @@
           "content": [
             {
               "type": "group",
-              "header": "Goal Items",
               "dock": "top",
+              "header": "Goal Items",
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
@@ -112,8 +109,8 @@
             },
             {
               "type": "group",
-              "header": "Lockpick/Keys",
               "dock": "top",
+              "header": "Lockpick/Keys",
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
@@ -124,8 +121,8 @@
             },
             {
               "type": "group",
-              "header": "Quest Items",
               "dock": "top",
+              "header": "Quest Items",
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
@@ -136,8 +133,8 @@
             },
             {
               "type": "group",
-              "header": "Weapons",
               "dock": "top",
+              "header": "Weapons",
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
@@ -146,7 +143,6 @@
                 "key": "weapon_item_grid"
               }
             },
-
             {
               "type": "layout",
               "dock": "top",
@@ -154,8 +150,8 @@
             },
             {
               "type": "group",
-              "header": "Upgrades",
               "dock": "top",
+              "header": "Upgrades",
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
@@ -165,13 +161,9 @@
               }
             },
             {
-              "type": "group",
-              "header": "Track Switches",
+              "type": "layout",
               "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "track_switch_item_grid"
-              }
+              "key": "track_switch_item_grid"
             }
           ]
         },

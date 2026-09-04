@@ -5,6 +5,7 @@
     "children": [
       {
         "name": "Black Paint Can",
+        "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
             "chest_unopened_img": "images/paint_cans/black_paint_can.png",
