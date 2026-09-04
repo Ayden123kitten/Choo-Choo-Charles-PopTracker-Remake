@@ -51,7 +51,7 @@ function CreateLuaManualLocationStorage(name)
     local self = ScriptHost:CreateLuaItem()
     -- self.Type = "custom"
     self.Name = name --code --
-    self.Icon = ImageReference:FromPackRelativePath("/images/items/closed_Chest.png")
+    self.Icon = ImageReference:FromPackRelativePath("/images/items/closed_scraps.png")
     self.ItemState = {
         MANUAL_LOCATIONS = {
             ["default"] = {}

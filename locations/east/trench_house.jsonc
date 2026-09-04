@@ -318,8 +318,8 @@
           {
             "name": "Scraps",
             "access_rules": ["lockpicks"],
-            "chest_unopened_img": "images/chests/chest.png",
-            "chest_opened_img": "images/chests_disabled/chest.png",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6
           }
         ],

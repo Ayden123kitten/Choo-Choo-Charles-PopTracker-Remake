@@ -88,8 +88,18 @@ function Has(item, amount, amountInLogic)
     end
 end
 
+function OnChangeFogbaneRelic()
+local mode = Tracker:FindObjectForCode(FogbaneRelics) --[[@as JsonItem]]
+if mode.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_off.jsonc")
+    else
+        Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_on.jsonc"
+    end
+end
 
 -- ANy function added here and used in access rules should try to return an Accessibility Level if it is used inside 
 -- the ANY() and ALL() functions
 --
 --
+
+ScriptHost:AddWatchForCode("fogbane relic layout handler", FogbaneRelic, OnChangeFogbaneRelic)

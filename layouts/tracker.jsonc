@@ -31,7 +31,7 @@
             },
             {
               "type": "group",
-              "header": "Quest Items/Weapons",
+              "header": "Quest Items",
               "dock": "top",
               "content": {
                 "type": "layout",
@@ -40,11 +40,25 @@
             },
             {
               "type": "group",
-              "header": "Fogbane Relics/Upgrades",
+              "header": "Weapons",
               "dock": "top",
               "content": {
                 "type": "layout",
-                "key": "fog_item_grid"
+                "key": "weapon_item_grid"
+              }
+            },
+            {
+              "type": "layout",
+              "dock": "top",
+              "key": "fog_item_grid"
+            },
+            {
+              "type": "group",
+              "header": "Upgrades",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "upgrade_item_grid"
               }
             },
             {
@@ -88,7 +102,7 @@
               "type": "group",
               "header": "Goal Items",
               "dock": "top",
-              "margin": "0,0,3,0",
+              "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
                 "h_alignment": "center",
@@ -100,7 +114,7 @@
               "type": "group",
               "header": "Lockpick/Keys",
               "dock": "top",
-              "margin": "0,0,3,0",
+              "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
                 "h_alignment": "center",
@@ -110,9 +124,9 @@
             },
             {
               "type": "group",
-              "header": "Quest Items/Weapons",
+              "header": "Quest Items",
               "dock": "top",
-              "margin": "0,0,3,0",
+              "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
                 "h_alignment": "center",
@@ -122,14 +136,32 @@
             },
             {
               "type": "group",
-              "header": "Fogbane Relics/Upgrades",
+              "header": "Weapons",
               "dock": "top",
-              "margin": "0,0,3,0",
+              "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
                 "h_alignment": "center",
                 "v_alignment": "center",
-                "key": "fog_item_grid"
+                "key": "weapon_item_grid"
+              }
+            },
+
+            {
+              "type": "layout",
+              "dock": "top",
+              "key": "fog_item_grid"
+            },
+            {
+              "type": "group",
+              "header": "Upgrades",
+              "dock": "top",
+              "margin": "0,0,2,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "upgrade_item_grid"
               }
             },
             {
