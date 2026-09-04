@@ -89,11 +89,11 @@ function Has(item, amount, amountInLogic)
 end
 
 function OnChangeFogbaneRelic()
-local mode = Tracker:FindObjectForCode(FogbaneRelics) --[[@as JsonItem]]
+local mode = Tracker:FindObjectForCode("cursed_fogs_toggle") --[[@as JsonItem]]
 if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_off.jsonc")
     else
-        Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_on.jsonc"
+        Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_on.jsonc")
     end
 end
 
@@ -102,4 +102,7 @@ end
 --
 --
 
-ScriptHost:AddWatchForCode("fogbane relic layout handler", FogbaneRelic, OnChangeFogbaneRelic)
+ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)
+
+-- Initialize the fogbane relic layout on startup
+OnChangeFogbaneRelic()

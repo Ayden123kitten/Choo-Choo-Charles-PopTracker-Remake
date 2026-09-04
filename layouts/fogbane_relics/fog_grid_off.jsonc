@@ -1,5 +1,8 @@
 {
   "fog_item_grid": {
-    "type": "array"
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": []
   }
 }

@@ -1,56 +1,56 @@
 {
   "fog_item_grid": {
-    "type": "group",
-    "header": "Fogbane Relics"
+    "type": "array",
     "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
-        "type": "itemgrid",
-        "item_margin": "0, 0",
-        "h_alignment": "left",
-        "rows": [
-          [
-            "fogbane_barbed_shelter",
-            "fogbane_canyon",
-            "fogbane_church",
-            "fogbane_cliffside_house",
-            "fogbane_tower_near_workshop",
-            "fogbane_haunted_house",
-            "fogbane_junkyard_area",
-            "fogbane_junkyard_shed",
-            "fogbane_lighthouse",
-            "fogbane_military_base"
-          ],
-          [
-            "fogbane_mine_elevator_exit",
-            "fogbane_mine_shaft",
-            "fogbane_mob_camp",
-            "fogbane_morse_bunker",
-            "fogbane_mountain_ruin_outside",
-            "fogbane_museum",
-            "fogbane_north_beach",
-            "fogbane_north_mine",
-            "fogbane_pickle_valley",
-            "fogbane_port"
-          ],
-          [
-            "fogbane_rocket_grounds",
-            "fogbane_santiagos_house",
-            "fogbane_south_house",
-            "fogbane_south_mine",
-            "fogbane_towers",
-            "fogbane_trailer_cabin",
-            "fogbane_train_depot",
-            "fogbane_watchtower",
-            "fogbane_west_beach",
-            "fogbane_west_cottage"
-          ],
-          [
-            "fogbane_wooden_bridge",
-            "fogbane_workshop"
+        "type": "group",
+        "header": "Fogbane Relics",
+        "content": {
+          "type": "itemgrid",
+          "item_margin": "0, 0",
+          "h_alignment": "left",
+          "rows": [
+            [
+              "fogbane_barbed_shelter",
+              "fogbane_canyon",
+              "fogbane_church",
+              "fogbane_cliffside_house",
+              "fogbane_tower_near_workshop",
+              "fogbane_haunted_house",
+              "fogbane_junkyard_area",
+              "fogbane_junkyard_shed",
+              "fogbane_lighthouse",
+              "fogbane_military_base"
+            ],
+            [
+              "fogbane_mine_elevator_exit",
+              "fogbane_mine_shaft",
+              "fogbane_mob_camp",
+              "fogbane_morse_bunker",
+              "fogbane_mountain_ruin_outside",
+              "fogbane_museum",
+              "fogbane_north_beach",
+              "fogbane_north_mine",
+              "fogbane_pickle_valley",
+              "fogbane_port"
+            ],
+            [
+              "fogbane_rocket_grounds",
+              "fogbane_santiagos_house",
+              "fogbane_south_house",
+              "fogbane_south_mine",
+              "fogbane_towers",
+              "fogbane_trailer_cabin",
+              "fogbane_train_depot",
+              "fogbane_watchtower",
+              "fogbane_west_beach",
+              "fogbane_west_cottage"
+            ],
+            ["fogbane_wooden_bridge", "fogbane_workshop"]
           ]
-        ]
+        }
       }
     ]
   }

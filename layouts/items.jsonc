@@ -59,10 +59,7 @@
             "timed_dynamite",
             "remote_explosives"
           ],
-          [
-            "childs_drawing",
-            "breaker"
-          ]
+          ["childs_drawing", "breaker"]
         ]
       }
     ]
@@ -76,14 +73,7 @@
         "type": "itemgrid",
         "item_margin": "2, 2",
         "h_alignment": "left",
-        "rows": [
-          [
-            "derailer",
-            "bug_spray",
-            "the_boomer",
-            "bob"
-          ]
-        ]
+        "rows": [["derailer", "bug_spray", "the_boomer", "bob"]]
       }
     ]
   },
@@ -132,6 +122,12 @@
       }
     ]
   },
+  "fog_item_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": []
+  },
   "settings": {
     "type": "dock",
     "content": [
@@ -144,9 +140,7 @@
             "type": "itemgrid",
             "h_alignment": "left",
             "item_margin": "2, 2",
-            "rows": [
-              ["cursed_fogs_toggle"]
-            ]
+            "rows": [["cursed_fogs_toggle"]]
           }
         ]
       }
