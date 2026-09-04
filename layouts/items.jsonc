@@ -9,7 +9,7 @@
   },
   "unlock_item_grid": {
         "type": "itemgrid",
-    "orientation": "horizontal",
+        "orientation": "horizontal",
         "item_margin": "2, 2",
         "h_alignment": "left",
         "rows": [
@@ -80,11 +80,13 @@
             "h_alignment": "left",
             "item_margin": "2, 2",
             "rows": [
+            [
               "cursed_fogs_toggle",
               "scraps_toggle",
               "track_switch_toggle",
               "paint_cans_toggle",
               "notes_toggle"
+            ]
             ]
           }
         ]

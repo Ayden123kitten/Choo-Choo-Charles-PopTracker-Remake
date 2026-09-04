@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Fogbane Relics",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/cursed_fogs_disabled.png",
+        "inherit_codes": false,
+        "codes": "relics_disabled, cursed_fogs_toggle"
+      },
+      {
+        "img": "images/toggles/cursed_fogs_enabled.png",
+        "inherit_codes": false,
+        "codes": "relics_enabled, cursed_fogs_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Scraps",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/scraps_disabled.png",
+        "inherit_codes": false,
+        "codes": "scraps_disabled, scraps_toggle"
+      },
+      {
+        "img": "images/toggles/scraps_enabled.png",
+        "inherit_codes": false,
+        "codes": "scraps_enabled, scraps_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/notes_disabled.png",
+        "inherit_codes": false,
+        "codes": "notes_disabled, notes_toggle"
+      },
+      {
+        "img": "images/toggles/notes_enabled.png",
+        "inherit_codes": false,
+        "codes": "notes_enabled, notes_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Paint Cans",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/paint_cans_disabled.png",
+        "inherit_codes": false,
+        "codes": "paint_cans_disabled, paint_cans_toggle"
+      },
+      {
+        "img": "images/toggles/paint_cans_enabled.png",
+        "inherit_codes": false,
+        "codes": "paint_cans_enabled, paint_cans_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Track Switches",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/track_switch_disabled.png",
+        "inherit_codes": false,
+        "codes": "track_switch_disabled, track_switch_toggle"
+      },
+      {
+        "img": "images/toggles/track_switch_enabled.png",
+        "inherit_codes": false,
+        "codes": "track_switch_enabled, track_switch_toggle"
+      }
+    ]
+  }
+]

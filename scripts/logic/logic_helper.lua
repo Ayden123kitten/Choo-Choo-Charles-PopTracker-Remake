@@ -111,4 +111,4 @@ end
 --
 
 ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)
-ScriptHost:AddWatchForCode("track switch layout handler", "cursed_fogs_toggle", OnChangeTrackSwitch)
+ScriptHost:AddWatchForCode("track switch layout handler", "track_switch_toggle", OnChangeTrackSwitch)
