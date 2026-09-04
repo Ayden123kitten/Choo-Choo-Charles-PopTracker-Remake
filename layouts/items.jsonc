@@ -1,27 +1,15 @@
 {
   "goal_item_grid": {
-    "type": "array",
+    "type": "itemgrid",
     "orientation": "horizontal",
-    "margin": "0,0",
-    "content": [
-      {
-        "type": "itemgrid",
-        "header": "Goal Items",
-        "item_margin": "2, 2",
-        "h_alignment": "left",
-        "rows": [
+    "margin": "2,2",
+    "rows": [
           ["fogbane_temple", "green_egg", "red_egg", "blue_egg", "temple_key"]
         ]
-      }
-    ]
   },
   "unlock_item_grid": {
-    "type": "array",
-    "orientation": "horizontal",
-    "margin": "0,0",
-    "content": [
-      {
         "type": "itemgrid",
+    "orientation": "horizontal",
         "item_margin": "2, 2",
         "h_alignment": "left",
         "rows": [
@@ -35,15 +23,8 @@
             "mob_camp_key"
           ]
         ]
-      }
-    ]
   },
   "quest_item_grid": {
-    "type": "array",
-    "orientation": "horizontal",
-    "margin": "0,0",
-    "content": [
-      {
         "type": "itemgrid",
         "item_margin": "2, 2",
         "header": "Quest Items",
@@ -63,29 +44,14 @@
           ],
           ["childs_drawing", "breaker"]
         ]
-      }
-    ]
-  },
+      },
   "weapon_item_grid": {
-    "type": "array",
+    "type": "itemgrid",
     "orientation": "horizontal",
-    "margin": "0,0",
-    "content": [
-      {
-        "type": "itemgrid",
-        "item_margin": "2, 2",
-        "header": "Weapons",
-        "h_alignment": "left",
+    "margin": "2,2",
         "rows": [["derailer", "bug_spray", "the_boomer", "bob"]]
-      }
-    ]
-  },
+      },
   "upgrade_item_grid": {
-    "type": "array",
-    "orientation": "horizontal",
-    "margin": "0,0",
-    "content": [
-      {
         "type": "itemgrid",
         "header": "Upgrades",
         "item_margin": "2, 2",
@@ -100,21 +66,7 @@
             "armor_level"
           ]
         ]
-      }
-    ]
-  },
-  "track_switch_item_grid": {
-    "type": "array",
-    "orientation": "horizontal",
-    "margin": "0,0",
-    "content": []
-  },
-  "fog_item_grid": {
-    "type": "array",
-    "orientation": "horizontal",
-    "margin": "0,0",
-    "content": []
-  },
+      },
   "settings": {
     "type": "dock",
     "content": [
@@ -122,13 +74,18 @@
         "type": "group",
         "dock": "top",
         "header": "Settings",
-        "margin": "0,0",
         "content": [
           {
             "type": "itemgrid",
             "h_alignment": "left",
             "item_margin": "2, 2",
-            "rows": [["cursed_fogs_toggle", "scraps_toggle", "notes_toggle", "paint_cans_toggle", "track_switch_toggle"]]
+            "rows": [
+              "cursed_fogs_toggle",
+              "scraps_toggle",
+              "track_switch_toggle",
+              "paint_cans_toggle",
+              "notes_toggle"
+            ]
           }
         ]
       }
