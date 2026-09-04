@@ -18,6 +18,7 @@
               "header": "Goal Items",
               "content": {
                 "type": "layout",
+                "item_h_alignment": "left",
                 "key": "goal_item_grid"
               }
             },
@@ -27,6 +28,7 @@
               "header": "Lockpick/Keys",
               "content": {
                 "type": "layout",
+                "item_h_alignment": "left",
                 "key": "unlock_item_grid"
               }
             },
@@ -36,6 +38,7 @@
               "header": "Quest Items",
               "content": {
                 "type": "layout",
+                "item_h_alignment": "left",
                 "key": "quest_item_grid"
               }
             },
@@ -45,6 +48,7 @@
               "header": "Weapons",
               "content": {
                 "type": "layout",
+                "item_h_alignment": "left",
                 "key": "weapon_item_grid"
               }
             },
@@ -59,6 +63,7 @@
               "dock": "top",
               "content": {
                 "type": "layout",
+                "item_h_alignment": "left",
                 "key": "upgrade_item_grid"
               }
             },
@@ -102,7 +107,8 @@
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
-                "h_alignment": "center",
+                "item_h_alignment": "left",
+                "h_alignment": "left",
                 "v_alignment": "center",
                 "key": "goal_item_grid"
               }
@@ -114,7 +120,8 @@
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
-                "h_alignment": "center",
+                "item_h_alignment": "left",
+                "h_alignment": "left",
                 "v_alignment": "center",
                 "key": "unlock_item_grid"
               }
@@ -126,7 +133,8 @@
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
-                "h_alignment": "center",
+                "item_h_alignment": "left",
+                "h_alignment": "left",
                 "v_alignment": "center",
                 "key": "quest_item_grid"
               }
@@ -138,7 +146,8 @@
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
-                "h_alignment": "center",
+                "item_h_alignment": "left",
+                "h_alignment": "left",
                 "v_alignment": "center",
                 "key": "weapon_item_grid"
               }
@@ -155,7 +164,8 @@
               "margin": "0,0,2,0",
               "content": {
                 "type": "layout",
-                "h_alignment": "center",
+                "item_h_alignment": "left",
+                "h_alignment": "left",
                 "v_alignment": "center",
                 "key": "upgrade_item_grid"
               }
