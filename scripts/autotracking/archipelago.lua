@@ -5,7 +5,7 @@
 -- this is useful since remote items will not reset but local items might
 -- if you run into issues when touching A LOT of items/locations here, see the comment about Tracker.AllowDeferredLogicUpdate in autotracking.lua
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
-ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua"
+ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
 if slot_data["TrackSwitches"] then
     Tracker:FindObjectForCode("track_switch_toggle").CurrentStage = slot_data["TrackSwitches"]
