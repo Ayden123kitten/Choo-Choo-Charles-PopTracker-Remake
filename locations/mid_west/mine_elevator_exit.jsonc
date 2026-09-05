@@ -2,6 +2,7 @@
   {
     "name": "Mine Elevator Exit",
     "access_rules": [
+      "cursed_fogs_pack",
       "relics_disabled",
       "relics_enabled, fogbane_mine_elevator_exit"
     ],

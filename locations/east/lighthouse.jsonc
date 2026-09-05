@@ -1,7 +1,11 @@
 [
   {
     "name": "Lighthouse",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_lighthouse"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_lighthouse"
+    ],
     "children": [
       {
         "name": "Southwest Near Lit Lantern",

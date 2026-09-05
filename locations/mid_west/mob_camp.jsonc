@@ -1,7 +1,11 @@
 [
   {
     "name": "Mob Camp",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_mob_camp"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_mob_camp"
+    ],
     "children": [
       {
         "name": "Near Table",

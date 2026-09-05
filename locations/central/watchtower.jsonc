@@ -1,7 +1,11 @@
 [
   {
     "name": "Watchtower",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_watchtower"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_watchtower"
+    ],
     "children": [
       {
         "name": "On South Path",

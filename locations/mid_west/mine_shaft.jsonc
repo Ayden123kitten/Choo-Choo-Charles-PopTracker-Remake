@@ -1,7 +1,11 @@
 [
   {
     "name": "Mine Shaft",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_mine_shaft"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_mine_shaft"
+    ],
     "children": [
       {
         "name": "Chest",

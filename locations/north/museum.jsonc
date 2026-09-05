@@ -1,7 +1,11 @@
 [
   {
     "name": "Museum",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_museum"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_museum"
+    ],
     "children": [
       {
         "name": "Outside Near Unlit Lantern",

@@ -2,6 +2,7 @@
   {
     "name": "Pickle Valley",
     "access_rules": [
+      "cursed_fogs_pack",
       "relics_disabled",
       "relics_enabled, fogbane_pickle_valley"
     ],

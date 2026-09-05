@@ -1,7 +1,11 @@
 [
   {
     "name": "Towers",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_towers"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_towers"
+    ],
     "children": [
       {
         "name": "Middle Under Footbridge",

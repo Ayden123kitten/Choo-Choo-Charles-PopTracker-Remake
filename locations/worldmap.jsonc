@@ -94,6 +94,7 @@
         "name": "South House",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_south_house"
         ],
         "sections": [
@@ -163,6 +164,7 @@
         "name": "Junkyard Area",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_junkyard_area"
         ],
         "sections": [
@@ -205,6 +207,7 @@
         "name": "Junkyard Shed",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_junkyard_shed"
         ],
         "sections": [
@@ -233,6 +236,7 @@
         "name": "Military Base",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_military_base"
         ],
         "sections": [
@@ -306,6 +310,7 @@
         "name": "South Mine",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_south_mine"
         ],
         "sections": [
@@ -366,6 +371,7 @@
         "name": "Pickle Valley",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_pickle_valley"
         ],
         "sections": [
@@ -414,7 +420,11 @@
       },
       {
         "name": "Canyon",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_canyon"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_canyon"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -442,6 +452,7 @@
         "name": "Train Depot",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_train_depot"
         ],
         "sections": [
@@ -484,6 +495,7 @@
         "name": "Watchtower",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_watchtower"
         ],
         "sections": [
@@ -548,6 +560,7 @@
         "name": "Haunted House",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_haunted_house"
         ],
         "sections": [
@@ -581,7 +594,11 @@
       },
       {
         "name": "Port",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_port"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_port"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -624,6 +641,7 @@
         "name": "Santiago's House",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_santiagos_house"
         ],
         "sections": [
@@ -672,6 +690,7 @@
         "name": "Doll Woods",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_doll_woods"
         ],
         "sections": [
@@ -723,6 +742,7 @@
         "name": "Rocket Grounds",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_rocket_grounds"
         ],
         "sections": [
@@ -770,7 +790,11 @@
       },
       {
         "name": "Workshop",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_workshop"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_workshop"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -804,6 +828,7 @@
         "name": "Cliffside House",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_cliffside_house"
         ],
         "sections": [
@@ -836,6 +861,7 @@
         "name": "Tower Near Workshop",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_tower_near_workshop"
         ],
         "sections": [
@@ -870,6 +896,7 @@
         "name": "Lighthouse",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_lighthouse"
         ],
         "sections": [
@@ -910,7 +937,11 @@
       },
       {
         "name": "Temple",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_temple"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_temple"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -965,7 +996,11 @@
       },
       {
         "name": "Towers",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_towers"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_towers"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -1011,6 +1046,7 @@
         "name": "Trailer Cabin",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_trailer_cabin"
         ],
         "sections": [
@@ -1070,6 +1106,7 @@
         "name": "Mine Elevator Exit",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_mine_elevator_exit"
         ],
         "sections": [
@@ -1093,6 +1130,7 @@
         "name": "Mountain Ruin",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_mountain_ruin_outside"
         ],
         "sections": [
@@ -1151,7 +1189,11 @@
       },
       {
         "name": "Mob Camp",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_mob_camp"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_mob_camp"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -1199,6 +1241,7 @@
         "name": "West Cottage",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_west_cottage"
         ],
         "sections": [
@@ -1231,7 +1274,11 @@
       },
       {
         "name": "Church",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_church"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_church"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -1259,6 +1306,7 @@
         "name": "Barbed Shelter",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_barbed_shelter"
         ],
         "sections": [
@@ -1287,6 +1335,7 @@
         "name": "West Beach",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_west_beach"
         ],
         "sections": [
@@ -1318,6 +1367,7 @@
         "name": "North Beach",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_north_beach"
         ],
         "sections": [
@@ -1362,6 +1412,7 @@
         "name": "Wooden Bridge",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_wooden_bridge"
         ],
         "sections": [
@@ -1384,7 +1435,11 @@
       },
       {
         "name": "Museum",
-        "access_rules": ["relics_disabled", "relics_enabled, fogbane_museum"],
+        "access_rules": [
+          "fogbane_pack, relics_enabled",
+          "relics_disabled",
+          "relics_enabled, fogbane_museum"
+        ],
         "sections": [
           {
             "name": "Scraps",
@@ -1424,6 +1479,7 @@
         "name": "Morse Bunker",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_morse_bunker"
         ],
         "sections": [
@@ -1462,6 +1518,7 @@
         "name": "North Mine",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_north_mine"
         ],
         "sections": [
@@ -1515,6 +1572,7 @@
         "name": "Mine Shaft",
         "access_rules": [
           "relics_disabled",
+          "fogbane_pack, relics_enabled",
           "relics_enabled, fogbane_mine_shaft"
         ],
         "sections": [

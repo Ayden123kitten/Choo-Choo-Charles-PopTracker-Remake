@@ -1,7 +1,11 @@
 [
   {
     "name": "North Beach",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_north_beach"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_north_beach"
+    ],
     "children": [
       {
         "name": "Chest",

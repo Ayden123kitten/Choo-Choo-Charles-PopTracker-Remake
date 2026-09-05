@@ -2,6 +2,7 @@
   {
     "name": "Santiago's House",
     "access_rules": [
+      "cursed_fogs_pack",
       "relics_disabled",
       "relics_enabled, fogbane_santiagos_house"
     ],

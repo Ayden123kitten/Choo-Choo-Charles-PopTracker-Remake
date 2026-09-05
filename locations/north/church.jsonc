@@ -1,7 +1,11 @@
 [
   {
     "name": "Church",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_church"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_church"
+    ],
     "children": [
       {
         "name": "Black Paint Can",

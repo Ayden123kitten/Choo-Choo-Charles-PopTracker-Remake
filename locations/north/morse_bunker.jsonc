@@ -1,7 +1,11 @@
 [
   {
     "name": "Morse Bunker",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_morse_bunker"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_morse_bunker"
+    ],
     "children": [
       {
         "name": "Chest",

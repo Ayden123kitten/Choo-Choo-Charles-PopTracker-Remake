@@ -2,6 +2,7 @@
   {
     "name": "Barbed Shelter",
     "access_rules": [
+      "cursed_fogs_pack",
       "relics_disabled",
       "relics_enabled, fogbane_barbed_shelter"
     ],

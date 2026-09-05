@@ -2,6 +2,7 @@
   {
     "name": "Trailer Cabin",
     "access_rules": [
+      "cursed_fogs_pack",
       "relics_disabled",
       "relics_enabled, fogbane_trailer_cabin"
     ],

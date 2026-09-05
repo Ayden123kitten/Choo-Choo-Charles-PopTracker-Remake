@@ -1,7 +1,11 @@
 [
   {
     "name": "Doll Woods",
-    "access_rules": ["relics_disabled", "relics_enabled, fogbane_doll_woods"],
+    "access_rules": [
+      "fogbane_pack, relics_enabled",
+      "relics_disabled",
+      "relics_enabled, fogbane_doll_woods"
+    ],
     "children": [
       {
         "name": "Middle Under Doll Tree",
