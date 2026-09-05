@@ -35,6 +35,7 @@ ScriptHost:LoadScript("scripts/locations.lua")
 -- Layout
 Tracker:AddLayouts("layouts/items.jsonc")
 Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc")
+Tracker:AddLayouts("layouts/goal_no_fog.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
 
