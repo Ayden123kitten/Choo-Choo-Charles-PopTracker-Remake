@@ -21,6 +21,7 @@
         "map_locations": [
           {
             "map": "mob_camp",
+            "shape": "trapezoid",
             "x": 705,
             "y": 150
           }
@@ -40,6 +41,7 @@
         "map_locations": [
           {
             "map": "mob_camp",
+            "shape": "trapezoid",
             "x": 665,
             "y": 125
           }
@@ -57,6 +59,7 @@
         "map_locations": [
           {
             "map": "mob_camp",
+            "shape": "trapezoid",
             "x": 700,
             "y": 125
           }
