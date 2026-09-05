@@ -14,7 +14,7 @@
           "item_h_alignment": "center",
           "item_v_alignment": "center",
           "rows": [
-            ["fogbane_temple","temple_key","red_egg","green_egg","blue_egg"]
+            ["fogbane_temple","red_egg","green_egg","blue_egg","temple_key"]
           ]
         }
       }
