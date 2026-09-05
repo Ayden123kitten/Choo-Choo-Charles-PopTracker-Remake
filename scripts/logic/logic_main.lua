@@ -2,8 +2,8 @@
 -- ScriptHost:AddWatchForCode("ow_dungeon details handler", "ow_dungeon_details", owDungeonDetails)
 
 
-choo-choo_charles_location = {}
-choo-choo_charles_location.__index = choo-choo_charles_location
+choo_choo_charles_location = {}
+choo_choo_charles_location.__index = choo_choo_charles_location
 
 accessLVL= {
     [0] = "none",

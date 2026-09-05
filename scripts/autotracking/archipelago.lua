@@ -7,26 +7,6 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
-if slot_data["TrackSwitches"] then
-    Tracker:FindObjectForCode("track_switch_toggle").CurrentStage = slot_data["TrackSwitches"]
-end
-
-if slot_data["CursedFogs"] then
-    Tracker:FindObjectForCode("cursed_fogs_toggle").CurrentStage = slot_data["CursedFogs"]
-end
-
-if slot_data["SpeedUpgrade"] then
-    Tracker:FindObjectForCode("speed_toggle").CurrentStage = slot_data["SpeedUpgrade"]
-end
-
-if slot_data["ArmorUpgrade"] then
-    Tracker:FindObjectForCode("armor_toggle").CurrentStage = slot_data["ArmorUpgrade"]
-end
-
-if slot_data["DamageUpgrade"] then
-    Tracker:FindObjectForCode("damage_toggle").CurrentStage = slot_data["DamageUpgrade"]
-end
-)
 -- used for hint tracking to quickly map hint status to a value from the Highlight enum
 HINT_STATUS_MAPPING = {}
 if Highlight then
@@ -122,7 +102,25 @@ end
 
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
-	-- put any code here that slot_data should affect (toggling setting items for example)
+if slot_data["TrackSwitches"] then
+    Tracker:FindObjectForCode("track_switch_toggle").CurrentStage = slot_data["TrackSwitches"]
+end
+
+if slot_data["CursedFogs"] then
+    Tracker:FindObjectForCode("cursed_fogs_toggle").CurrentStage = slot_data["CursedFogs"]
+end
+
+if slot_data["SpeedUpgrade"] then
+    Tracker:FindObjectForCode("speed_toggle").CurrentStage = slot_data["SpeedUpgrade"]
+end
+
+if slot_data["ArmorUpgrade"] then
+    Tracker:FindObjectForCode("armor_toggle").CurrentStage = slot_data["ArmorUpgrade"]
+end
+
+if slot_data["DamageUpgrade"] then
+    Tracker:FindObjectForCode("damage_toggle").CurrentStage = slot_data["DamageUpgrade"]
+end
 end
 
 -- called right after an AP slot is connected

@@ -177,7 +177,7 @@ if  speed.CurrentStage == 0 and damage.CurrentStage == 0 and armor.CurrentStage 
     end
 end
 
-function OnChangeWeapons()
+function OnChangeMaps()
 local scraps = Tracker:FindObjectForCode("scraps_toggle")
 local paint = Tracker:FindObjectForCode("paint_cans_toggle")
 local notes = Tracker:FindObjectForCode("notes_toggle")
