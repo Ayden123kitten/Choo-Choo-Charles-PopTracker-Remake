@@ -173,6 +173,25 @@ if  speed.CurrentStage == 0 and damage.CurrentStage == 0 and armor.CurrentStage 
     end
 end
 
+function OnChangeWeapons()
+local scraps = Tracker:FindObjectForCode("scraps_toggle")
+local paint = Tracker:FindObjectForCode("paint_cans_toggle")
+local notes = Tracker:FindObjectForCode("notes_toggle")
+if scraps.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_scraps.jsonc")
+if notes.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc"))
+if scraps.CurrentStage == 0 and paint.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps.jsonc")
+if scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps_or_notes.jsonc")
+if scraps.CurrentStage == 0 and notes.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_notes_or_scraps.jsonc")
+    elseif scraps.CurrentStage == 1 and notes.CurrentStage == 1 and paint.CurrentStage == 1
+        Tracker:AddLayouts("layouts/maps/maps.jsonc")
+    end
+end
+
 Tracker:AddLayouts("layouts/goal.jsonc")
 Tracker:AddLayouts("layouts/unlock.jsonc")
 Tracker:AddLayouts("layouts/quest.jsonc")
@@ -183,3 +202,6 @@ ScriptHost:AddWatchForCode("weapons layout handler", "weapons_toggle", OnChangeW
 ScriptHost:AddWatchForCode("armor layout handler", "armor_toggle", OnChangeUpgrade)
 ScriptHost:AddWatchForCode("speed layout handler", "speed_toggle", OnChangeUpgrade)
 ScriptHost:AddWatchForCode("damage layout handler", "damage_toggle", OnChangeUpgrade)
+ScriptHost:AddWatchForCode("notes layout handler", "notes_toggle", OnChangeMaps)
+ScriptHost:AddWatchForCode("scraps layout handler", "scraps_toggle", OnChangeMaps)
+ScriptHost:AddWatchForCode("paint cans layout handler", "paint_cans_toggle", OnChangeMaps)
