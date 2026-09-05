@@ -56,6 +56,10 @@
           {
             "type": "layout",
             "key": "track_switch_item_grid"
+          },
+          {
+            "type": "layout",
+            "key": "upgrades_item_grid"
           }
         ]
       }

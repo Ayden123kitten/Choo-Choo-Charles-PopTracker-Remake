@@ -399,7 +399,7 @@
     "name": "Speed Level",
     "type": "consumable",
     "img": "images/icons/speed_upgrade.png",
-    "codes": "speed_level",
+    "codes": "speed_levels",
     "max_quantity": 9,
     "increment": 1,
     "decrement": 1
@@ -408,7 +408,7 @@
     "name": "Damage Level",
     "type": "consumable",
     "img": "images/icons/damage_upgrade.png",
-    "codes": "damage_level",
+    "codes": "damage_levels",
     "max_quantity": 9,
     "increment": 1,
     "decrement": 1
@@ -417,7 +417,7 @@
     "name": "Armor Level",
     "type": "consumable",
     "img": "images/icons/armor_upgrade.png",
-    "codes": "armor_level",
+    "codes": "armor_levels",
     "max_quantity": 9,
     "increment": 1,
     "decrement": 1

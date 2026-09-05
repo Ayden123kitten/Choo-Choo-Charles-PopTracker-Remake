@@ -102,5 +102,71 @@
         "codes": "weapons_enabled, weapons_toggle"
       }
     ]
+  },
+  {
+    "name": "Armor",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/armor_disabled.png",
+        "inherit_codes": false,
+        "codes": "armor_disabled_toggle, armor_toggle"
+      },
+      {
+        "img": "images/toggles/armor_unlock.png",
+        "inherit_codes": false,
+        "codes": "armor_unlock_toggle, armor_toggle"
+      },
+      {
+        "img": "images/toggles/armor_levels.png",
+        "inherit_codes": false,
+        "codes": "armor_levels_toggle, armor_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Damage",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/damage_disabled.png",
+        "inherit_codes": false,
+        "codes": "damage_disabled_toggle, damage_toggle"
+      },
+      {
+        "img": "images/toggles/damage_unlock.png",
+        "inherit_codes": false,
+        "codes": "damage_unlock_toggle, damage_toggle"
+      },
+      {
+        "img": "images/toggles/damage_levels.png",
+        "inherit_codes": false,
+        "codes": "damage_levels_toggle, damage_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Speed",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/speed_disabled.png",
+        "inherit_codes": false,
+        "codes": "speed_disabled_toggle, speed_toggle"
+      },
+      {
+        "img": "images/toggles/speed_unlock.png",
+        "inherit_codes": false,
+        "codes": "speed_unlock_toggle, speed_toggle"
+      },
+      {
+        "img": "images/toggles/speed_levels.png",
+        "inherit_codes": false,
+        "codes": "speed_levels_toggle, speed_toggle"
+      }
+    ]
   }
 ]

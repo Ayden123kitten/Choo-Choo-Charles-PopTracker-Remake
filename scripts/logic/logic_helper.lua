@@ -1,4 +1,3 @@
-
 ACCESS_NONE = AccessibilityLevel.None
 ACCESS_PARTIAL = AccessibilityLevel.Partial
 ACCESS_INSPECT = AccessibilityLevel.Inspect
@@ -51,7 +50,6 @@ function ANY(...)
         end
         if type(v) == "boolean" then
             v = bool_to_accesslvl[v]
-            -- v = A(v)
         end
         if v > max then
             if v == ACCESS_NORMAL then
@@ -66,7 +64,6 @@ end
 function Has(item, amount, amountInLogic)
     local count = Tracker:ProviderCountForCode(item)
 
-    -- print(item, count, amount, amountInLogic)
     if amountInLogic then
         if count >= amountInLogic then
             return ACCESS_NORMAL
@@ -89,7 +86,7 @@ function Has(item, amount, amountInLogic)
 end
 
 function OnChangeFogbaneRelic()
-local mode = Tracker:FindObjectForCode("cursed_fogs_toggle") --[[@as JsonItem]]
+local mode = Tracker:FindObjectForCode("cursed_fogs_toggle")
 if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_off.jsonc")
     else
@@ -98,7 +95,7 @@ if mode.CurrentStage == 0 then
 end
 
 function OnChangeTrackSwitch()
-local mode = Tracker:FindObjectForCode("track_switch_toggle") --[[@as JsonItem]]
+local mode = Tracker:FindObjectForCode("track_switch_toggle")
 if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/track_switch/track_switch_off.jsonc")
     else
@@ -107,23 +104,82 @@ if mode.CurrentStage == 0 then
 end
 
 function OnChangeWeapons()
-local mode = Tracker:FindObjectForCode("weapons_toggle") --[[@as JsonItem]]
+local mode = Tracker:FindObjectForCode("weapons_toggle")
 if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/weapons/weapons_off.jsonc")
     else
         Tracker:AddLayouts("layouts/weapons/weapons_on.jsonc")
     end
 end
--- ANy function added here and used in access rules should try to return an Accessibility Level if it is used inside
--- the ANY() and ALL() functions
---
---
+
+function OnChangeUpgrade()
+local armor = Tracker:FindObjectForCode("armor_toggle")
+local speed = Tracker:FindObjectForCode("speed_toggle")
+local damage = Tracker:FindObjectForCode("damage_toggle")
+if  speed.CurrentStage == 0 and damage.CurrentStage == 0 and armor.CurrentStage == 0 then
+    Tracker:AddLayouts("layouts/upgrades/upgrades_disabled.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 0 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_au.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 0 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_al.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 1 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_du.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 1 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_du_au.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 1 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_du_al.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 2 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_dl.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 2 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_dl_au.jsonc")
+    elseif  speed.CurrentStage == 0 and damage.CurrentStage == 2 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_dl_al.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 0 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 0 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_au.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 0 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_al.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 1 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_du.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 1 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_du_au.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 1 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_du_al.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 2 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_dl.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 2 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_dl_au.jsonc")
+    elseif  speed.CurrentStage == 1 and damage.CurrentStage == 2 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_su_dl_al.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 0 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 0 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_au.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 0 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_al.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 1 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_du.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 1 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_du_au.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 1 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_du_al.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 2 and armor.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_dl.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 2 and armor.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_dl_au.jsonc")
+    elseif  speed.CurrentStage == 2 and damage.CurrentStage == 2 and armor.CurrentStage == 2 then
+        Tracker:AddLayouts("layouts/upgrades/upgrades_sl_dl_al.jsonc")
+    end
+end
 
 Tracker:AddLayouts("layouts/goal.jsonc")
 Tracker:AddLayouts("layouts/unlock.jsonc")
 Tracker:AddLayouts("layouts/quest.jsonc")
-Tracker:AddLayouts("layouts/upgrade.jsonc")
 
 ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)
 ScriptHost:AddWatchForCode("track switch layout handler", "track_switch_toggle", OnChangeTrackSwitch)
 ScriptHost:AddWatchForCode("weapons layout handler", "weapons_toggle", OnChangeWeapons)
+ScriptHost:AddWatchForCode("armor layout handler", "armor_toggle", OnChangeUpgrade)
+ScriptHost:AddWatchForCode("speed layout handler", "speed_toggle", OnChangeUpgrade)
+ScriptHost:AddWatchForCode("damage layout handler", "damage_toggle", OnChangeUpgrade)

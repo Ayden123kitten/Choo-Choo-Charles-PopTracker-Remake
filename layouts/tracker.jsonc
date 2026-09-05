@@ -38,12 +38,12 @@
             {
               "type": "layout",
               "dock": "top",
-              "key": "upgrade_item_grid"
+              "key": "track_switch_item_grid"
             },
             {
               "type": "layout",
               "dock": "top",
-              "key": "track_switch_item_grid"
+              "key": "upgrades_item_grid"
             }
           ]
         },

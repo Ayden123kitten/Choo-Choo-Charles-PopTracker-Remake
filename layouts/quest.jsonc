@@ -14,18 +14,18 @@
           "item_v_alignment": "center",
           "rows": [
             [
-            "employment_contracts",
-            "ancient_tablet",
-            "dead_fish",
-            "jar_of_pickles",
-            "blue_box",
-            "broken_bob",
-            "box_of_rockets",
-            "journal",
-            "timed_dynamite",
-            "remote_explosives"
-          ],
-          ["childs_drawing", "breaker"]
+              "employment_contracts",
+              "ancient_tablet",
+              "dead_fish",
+              "jar_of_pickles",
+              "blue_box",
+              "broken_bob",
+              "box_of_rockets",
+              "journal",
+              "timed_dynamite",
+              "remote_explosives"
+            ],
+            ["childs_drawing", "breaker"]
           ]
         }
       }
