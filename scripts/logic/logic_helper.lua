@@ -89,8 +89,10 @@ function OnChangeFogbaneRelic()
 local mode = Tracker:FindObjectForCode("cursed_fogs_toggle")
 if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_off.jsonc")
+        Tracker:AddLayouts("layouts/quest_no_fog.jsonc")
     elseif mode.CurrentStage == 1 then
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_pack.jsonc")
+        Tracker:AddLayouts("layouts/quests.jsonc")
     else
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_on.jsonc")
     end
@@ -198,7 +200,6 @@ end
 
 Tracker:AddLayouts("layouts/goal.jsonc")
 Tracker:AddLayouts("layouts/unlock.jsonc")
-Tracker:AddLayouts("layouts/quest.jsonc")
 
 ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)
 ScriptHost:AddWatchForCode("track switch layout handler", "track_switch_toggle", OnChangeTrackSwitch)
