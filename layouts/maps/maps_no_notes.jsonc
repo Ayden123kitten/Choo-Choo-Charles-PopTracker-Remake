@@ -1,12 +1,5 @@
 {
-  "tracker_horizontal": {
-    "type": "container",
-    "background": "#000000",
-    "content": {
-      "type": "dock",
-      "dropshadow": true,
-      "content": [
-        {
+    "tabs_layout": {
           "type": "tabbed",
           "tabs": [
             {
@@ -364,7 +357,4 @@
             }
           ]
         }
-      ]
-    }
-  }
-}
+      }

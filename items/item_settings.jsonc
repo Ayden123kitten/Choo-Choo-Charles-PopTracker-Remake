@@ -10,6 +10,11 @@
         "codes": "relics_disabled, cursed_fogs_toggle"
       },
       {
+        "img": "images/toggles/cursed_fogs_pack.png",
+        "inherit_codes": false,
+        "codes": "cursed_fogs_pack, cursed_fogs_toggle"
+      },
+      {
         "img": "images/toggles/cursed_fogs_enabled.png",
         "inherit_codes": false,
         "codes": "relics_enabled, cursed_fogs_toggle"
@@ -78,6 +83,11 @@
         "img": "images/toggles/track_switch_disabled.png",
         "inherit_codes": false,
         "codes": "track_switch_disabled, track_switch_toggle"
+      },
+      {
+        "img": "images/toggles/track_switch_pack.png",
+        "inherit_codes": false,
+        "codes": "track_switch_pack, track_switch_toggle"
       },
       {
         "img": "images/toggles/track_switch_enabled.png",

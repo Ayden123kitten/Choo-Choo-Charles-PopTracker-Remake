@@ -89,6 +89,8 @@ function OnChangeFogbaneRelic()
 local mode = Tracker:FindObjectForCode("cursed_fogs_toggle")
 if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_off.jsonc")
+    elseif mode.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_pack.jsonc")
     else
         Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_on.jsonc")
     end
@@ -98,6 +100,8 @@ function OnChangeTrackSwitch()
 local mode = Tracker:FindObjectForCode("track_switch_toggle")
 if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/track_switch/track_switch_off.jsonc")
+    elseif mode.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/track_switch/track_switch_pack.jsonc")
     else
         Tracker:AddLayouts("layouts/track_switch/track_switch_on.jsonc")
     end
@@ -179,15 +183,15 @@ local paint = Tracker:FindObjectForCode("paint_cans_toggle")
 local notes = Tracker:FindObjectForCode("notes_toggle")
 if scraps.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_scraps.jsonc")
-if notes.CurrentStage == 0 then
-        Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc"))
-if scraps.CurrentStage == 0 and paint.CurrentStage == 0 then
+    elseif notes.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc")
+    elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps.jsonc")
-if scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage == 0 then
+    elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps_or_notes.jsonc")
-if scraps.CurrentStage == 0 and notes.CurrentStage == 0 then
+    elseif scraps.CurrentStage == 0 and notes.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_notes_or_scraps.jsonc")
-    elseif scraps.CurrentStage == 1 and notes.CurrentStage == 1 and paint.CurrentStage == 1
+    elseif scraps.CurrentStage == 1 and notes.CurrentStage == 1 and paint.CurrentStage == 1 then
         Tracker:AddLayouts("layouts/maps/maps.jsonc")
     end
 end

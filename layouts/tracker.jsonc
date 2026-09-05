@@ -46,6 +46,10 @@
               "key": "upgrades_item_grid"
             }
           ]
+        },
+        {
+           "type": "layout",
+           "key": "tabs_layout"
         }
       ]
     }

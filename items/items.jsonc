@@ -348,6 +348,12 @@
     "codes": "fogbane_morse_bunker"
   },
   {
+    "name": "Fogbane Relic Pack",
+    "type": "toggle",
+    "img": "images/items/cursed_fog.png",
+    "codes": "fogbane_pack"
+  },
+  {
     "name": "Candice's House/Barn Track Switch",
     "type": "toggle",
     "img": "images/icons/track_switch.png",
@@ -394,6 +400,12 @@
     "type": "toggle",
     "img": "images/icons/track_switch.png",
     "codes": "track_switch_camp_elevator"
+  },
+  {
+    "name": "Track Switch Pack",
+    "type": "toggle",
+    "img": "images/icons/track_switch.png",
+    "codes": "track_switch_pack"
   },
   {
     "name": "Speed Level",
