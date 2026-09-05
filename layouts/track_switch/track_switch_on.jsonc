@@ -10,7 +10,8 @@
         "content": {
           "type": "itemgrid",
           "item_margin": "2, 2",
-          "h_alignment": "left",
+          "item_h_alignment": "center",
+          "item_v_alignment": "center",
           "rows": [
             [
             "track_switch_tutorial_barn",

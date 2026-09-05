@@ -19,6 +19,7 @@
   {
     "name": "Scraps",
     "type": "progressive",
+    "initial_stage_idx": 1,
     "allow_disabled": false,
     "stages": [
       {
@@ -53,6 +54,7 @@
   {
     "name": "Paint Cans",
     "type": "progressive",
+    "initial_stage_idx": 1,
     "allow_disabled": false,
     "stages": [
       {
@@ -81,6 +83,23 @@
         "img": "images/toggles/track_switch_enabled.png",
         "inherit_codes": false,
         "codes": "track_switch_enabled, track_switch_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Weapons",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/weapons_disabled.png",
+        "inherit_codes": false,
+        "codes": "weapons_disabled, weapons_toggle"
+      },
+      {
+        "img": "images/toggles/weapons_enabled.png",
+        "inherit_codes": false,
+        "codes": "weapons_enabled, weapons_toggle"
       }
     ]
   }

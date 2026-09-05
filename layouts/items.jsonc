@@ -1,72 +1,4 @@
 {
-  "goal_item_grid": {
-    "type": "itemgrid",
-    "orientation": "horizontal",
-    "margin": "2,2",
-    "rows": [
-          ["fogbane_temple", "green_egg", "red_egg", "blue_egg", "temple_key"]
-        ]
-  },
-  "unlock_item_grid": {
-        "type": "itemgrid",
-        "orientation": "horizontal",
-        "item_margin": "2, 2",
-        "h_alignment": "left",
-        "rows": [
-          [
-            "lockpicks",
-            "south_mine_key",
-            "north_mine_key",
-            "mountain_ruin_key",
-            "tonys_barn_key",
-            "candices_key",
-            "mob_camp_key"
-          ]
-        ]
-  },
-  "quest_item_grid": {
-        "type": "itemgrid",
-        "item_margin": "2, 2",
-        "header": "Quest Items",
-        "h_alignment": "left",
-        "rows": [
-          [
-            "employment_contracts",
-            "ancient_tablet",
-            "dead_fish",
-            "jar_of_pickles",
-            "blue_box",
-            "broken_bob",
-            "box_of_rockets",
-            "journal",
-            "timed_dynamite",
-            "remote_explosives"
-          ],
-          ["childs_drawing", "breaker"]
-        ]
-      },
-  "weapon_item_grid": {
-    "type": "itemgrid",
-    "orientation": "horizontal",
-    "margin": "2,2",
-        "rows": [["derailer", "bug_spray", "the_boomer", "bob"]]
-      },
-  "upgrade_item_grid": {
-        "type": "itemgrid",
-        "header": "Upgrades",
-        "item_margin": "2, 2",
-        "h_alignment": "left",
-        "rows": [
-          [
-            "speed_unlock",
-            "damage_unlock",
-            "armor_unlock",
-            "speed_level",
-            "damage_level",
-            "armor_level"
-          ]
-        ]
-      },
   "settings": {
     "type": "dock",
     "content": [
@@ -77,13 +9,15 @@
         "content": [
           {
             "type": "itemgrid",
-            "h_alignment": "left",
+          "item_h_alignment": "center",
+          "item_v_alignment": "center",
             "item_margin": "2, 2",
             "rows": [
             [
               "cursed_fogs_toggle",
               "scraps_toggle",
               "track_switch_toggle",
+              "weapons_toggle",
               "paint_cans_toggle",
               "notes_toggle"
             ]

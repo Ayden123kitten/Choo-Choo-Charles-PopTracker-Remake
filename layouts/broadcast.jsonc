@@ -47,6 +47,10 @@
         "content": [
           {
             "type": "layout",
+            "key": "weapons_item_grid"
+          },
+          {
+            "type": "layout",
             "key": "fog_item_grid"
           },
           {

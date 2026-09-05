@@ -105,10 +105,25 @@ if mode.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/track_switch/track_switch_on.jsonc")
     end
 end
+
+function OnChangeWeapons()
+local mode = Tracker:FindObjectForCode("weapons_toggle") --[[@as JsonItem]]
+if mode.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/weapons/weapons_off.jsonc")
+    else
+        Tracker:AddLayouts("layouts/weapons/weapons_on.jsonc")
+    end
+end
 -- ANy function added here and used in access rules should try to return an Accessibility Level if it is used inside
 -- the ANY() and ALL() functions
 --
 --
 
+Tracker:AddLayouts("layouts/goal.jsonc")
+Tracker:AddLayouts("layouts/unlock.jsonc")
+Tracker:AddLayouts("layouts/quest.jsonc")
+Tracker:AddLayouts("layouts/upgrade.jsonc")
+
 ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)
 ScriptHost:AddWatchForCode("track switch layout handler", "track_switch_toggle", OnChangeTrackSwitch)
+ScriptHost:AddWatchForCode("weapons layout handler", "weapons_toggle", OnChangeWeapons)

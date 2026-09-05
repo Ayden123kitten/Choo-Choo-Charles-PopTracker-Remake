@@ -1,94 +1,4 @@
 {
-  "tracker_default": {
-    "type": "container",
-    "background": "#000000",
-    "content": {
-      "type": "dock",
-      "dropshadow": true,
-      "content": [
-        {
-          "type": "dock",
-          "dock": "left",
-          "header": "Goal Items",
-          "v_alignment": "stretch",
-          "content": [
-            {
-              "type": "group",
-              "dock": "top",
-              "header": "Goal Items",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "key": "goal_item_grid"
-              }
-            },
-            {
-              "type": "group",
-              "dock": "top",
-              "header": "Lockpick/Keys",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "key": "unlock_item_grid"
-              }
-            },
-            {
-              "type": "group",
-              "dock": "top",
-              "header": "Quest Items",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "key": "quest_item_grid"
-              }
-            },
-            {
-              "type": "group",
-              "dock": "top",
-              "header": "Weapons",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "key": "weapon_item_grid"
-              }
-            },
-            {
-              "type": "layout",
-              "dock": "top",
-              "key": "fog_item_grid"
-            },
-            {
-              "type": "group",
-              "header": "Upgrades",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "key": "upgrade_item_grid"
-              }
-            },
-            {
-              "type": "layout",
-              "dock": "top",
-              "key": "track_switch_item_grid"
-            }
-          ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Full Map",
-              "content": {
-                "type": "map",
-                "maps": ["aranearum"]
-              }
-            }
-          ]
-        }
-      ]
-    }
-  },
   "tracker_horizontal": {
     "type": "container",
     "background": "#000000",
@@ -101,56 +11,24 @@
           "dock": "left",
           "content": [
             {
-              "type": "group",
+              "type": "layout",
               "dock": "top",
-              "header": "Goal Items",
-              "margin": "0,0,2,0",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "h_alignment": "left",
-                "v_alignment": "center",
-                "key": "goal_item_grid"
-              }
+              "key": "goal_item_grid"
             },
             {
-              "type": "group",
+              "type": "layout",
               "dock": "top",
-              "header": "Lockpick/Keys",
-              "margin": "0,0,2,0",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "h_alignment": "left",
-                "v_alignment": "center",
-                "key": "unlock_item_grid"
-              }
+              "key": "unlock_item_grid"
             },
             {
-              "type": "group",
+              "type": "layout",
               "dock": "top",
-              "header": "Quest Items",
-              "margin": "0,0,2,0",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "h_alignment": "left",
-                "v_alignment": "center",
-                "key": "quest_item_grid"
-              }
+              "key": "quest_item_grid"
             },
             {
-              "type": "group",
+              "type": "layout",
               "dock": "top",
-              "header": "Weapons",
-              "margin": "0,0,2,0",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "h_alignment": "left",
-                "v_alignment": "center",
-                "key": "weapon_item_grid"
-              }
+              "key": "weapons_item_grid"
             },
             {
               "type": "layout",
@@ -158,17 +36,9 @@
               "key": "fog_item_grid"
             },
             {
-              "type": "group",
+              "type": "layout",
               "dock": "top",
-              "header": "Upgrades",
-              "margin": "0,0,2,0",
-              "content": {
-                "type": "layout",
-                "item_h_alignment": "left",
-                "h_alignment": "left",
-                "v_alignment": "center",
-                "key": "upgrade_item_grid"
-              }
+              "key": "upgrade_item_grid"
             },
             {
               "type": "layout",
