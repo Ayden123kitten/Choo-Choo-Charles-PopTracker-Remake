@@ -200,6 +200,7 @@ end
 
 Tracker:AddLayouts("layouts/goal.jsonc")
 Tracker:AddLayouts("layouts/unlock.jsonc")
+Tracker:AddLayouts("layouts/quest.jsonc")
 
 ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)
 ScriptHost:AddWatchForCode("track switch layout handler", "track_switch_toggle", OnChangeTrackSwitch)
