@@ -18,7 +18,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "x": 750,
             "y": 430
           }
@@ -36,7 +36,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "x": 650,
             "y": 390
           }
@@ -54,7 +54,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "x": 760,
             "y": 500
           }
@@ -72,7 +72,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "x": 1020,
             "y": 410
           }
@@ -90,7 +90,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "x": 860,
             "y": 250
           }
@@ -108,7 +108,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "x": 780,
             "y": 480
           }
@@ -126,7 +126,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "shape": "trapezoid",
             "x": 735,
             "y": 425
@@ -145,7 +145,7 @@
         ],
         "map_locations": [
           {
-            "map": "east_tower",
+            "map": "tower_near_workshop",
             "shape": "trapezoid",
             "x": 730,
             "y": 425
