@@ -2,6 +2,7 @@
   {
     "name": "Fogbane Relics",
     "type": "progressive",
+    "item_size": "64,64",
     "allow_disabled": false,
     "stages": [
       {
@@ -24,6 +25,7 @@
   {
     "name": "Scraps",
     "type": "progressive",
+    "item_size": "64,32",
     "initial_stage_idx": 1,
     "allow_disabled": false,
     "stages": [
@@ -41,6 +43,7 @@
   },
   {
     "name": "Notes",
+    "item_size": "32,64",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -58,6 +61,7 @@
   },
   {
     "name": "Paint Cans",
+    "item_size": "64,63",
     "type": "progressive",
     "initial_stage_idx": 1,
     "allow_disabled": false,
@@ -76,6 +80,7 @@
   },
   {
     "name": "Track Switches",
+    "item_size": "64,45",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -99,6 +104,7 @@
   {
     "name": "Weapons",
     "type": "progressive",
+    "item_size": "23,64",
     "allow_disabled": false,
     "stages": [
       {
@@ -115,6 +121,7 @@
   },
   {
     "name": "Armor",
+    "item_size": "45,64",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -137,6 +144,7 @@
   },
   {
     "name": "Damage",
+    "item_size": "63,64",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -159,6 +167,7 @@
   },
   {
     "name": "Speed",
+    "item_size": "64,48",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
