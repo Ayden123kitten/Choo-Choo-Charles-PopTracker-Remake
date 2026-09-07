@@ -12,6 +12,7 @@
         "sections": [
           {
             "name": "Mission End",
+            "item_size": "64,57",
             "chest_unopened_img": "images/weapons/bug_spray.png",
             "chest_opened_img": "images/weapons/bug_spray.png"
           }
@@ -30,6 +31,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -48,6 +50,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -66,6 +69,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -84,6 +88,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -102,6 +107,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -120,6 +126,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -138,6 +145,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -156,6 +164,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -174,6 +183,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -191,6 +201,7 @@
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
+            "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/orange_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/orange_paint_can.png"
           }
@@ -209,6 +220,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -227,6 +239,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -245,6 +258,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }

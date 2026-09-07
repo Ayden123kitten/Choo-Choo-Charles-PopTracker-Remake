@@ -13,6 +13,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -32,6 +33,7 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "visibility_rules": ["notes_enabled"],
+            "item_size": 3,
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -50,6 +52,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -68,6 +71,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -86,6 +90,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -104,6 +109,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -122,6 +128,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -140,6 +147,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -158,6 +166,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -176,6 +185,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -194,6 +204,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -212,6 +223,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -230,6 +242,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -248,6 +261,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -266,6 +280,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -285,6 +300,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -305,6 +321,7 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "visibility_rules": ["notes_enabled"],
+            "item_size": 3,
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -324,6 +341,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -342,6 +360,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -360,6 +379,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -378,6 +398,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -396,6 +417,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -414,6 +436,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -432,6 +455,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -450,6 +474,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -467,6 +492,7 @@
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
+            "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/purple_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/purple_paint_can.png"
           }
@@ -484,6 +510,7 @@
         "sections": [
           {
             "access_rules": ["lockpicks"],
+            "item_size": "46,64",
             "chest_unopened_img": "images/items/jar_of_pickles.png",
             "chest_opened_img": "images/items_disabled/jar_of_pickles.png"
           }
@@ -502,6 +529,7 @@
         "sections": [
           {
             "name": "Mission End",
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "access_rules": ["jar_of_pickles"]

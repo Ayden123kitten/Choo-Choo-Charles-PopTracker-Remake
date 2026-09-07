@@ -13,6 +13,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -31,6 +32,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -49,6 +51,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -67,6 +70,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -85,6 +89,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -103,6 +108,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -121,6 +127,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -139,6 +146,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -157,6 +165,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -175,6 +184,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -193,6 +203,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -211,6 +222,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -230,17 +242,20 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_count": 7,
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
+            "item_size": 3,
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/Note.png"
           },
           {
             "name": "Employment Contracts",
+            "item_size": "64,42",
             "chest_unopened_img": "images/items/employment_contracts.png",
             "chest_opened_img": "images/items_disabled/employment_contracts.png"
           }
@@ -261,12 +276,14 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_count": 6,
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           },
           {
             "name": "Lime Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
+            "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/lime_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/lime_paint_can.png"
           }
@@ -286,6 +303,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -304,6 +322,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -322,6 +341,7 @@
           {
             "name": "Mission End",
             "access_rules": ["employment_contracts"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }

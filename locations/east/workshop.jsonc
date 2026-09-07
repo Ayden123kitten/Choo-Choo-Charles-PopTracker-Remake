@@ -13,6 +13,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -31,6 +32,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -49,6 +51,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -67,6 +70,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -85,6 +89,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -103,12 +108,14 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
+            "item_size": 3,
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/note_disabled/note.png"
           }
@@ -128,6 +135,7 @@
           {
             "name": "Mission End",
             "access_rules": ["box_of_rockets"],
+            "item_size": "27,64",
             "chest_unopened_img": "images/weapons/the_boomer.png",
             "chest_opened_img": "images/weapons_disabled/the_boomer.png"
           }

@@ -13,6 +13,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 6,
@@ -33,6 +34,7 @@
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
+            "item_size": 3,
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
           }
@@ -51,6 +53,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -69,6 +72,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -87,6 +91,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -105,6 +110,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -123,6 +129,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -141,6 +148,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -159,6 +167,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -177,6 +186,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -195,6 +205,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -213,6 +224,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -231,6 +243,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
@@ -249,6 +262,7 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
           }
