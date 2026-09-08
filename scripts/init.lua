@@ -38,6 +38,10 @@ Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc")
 Tracker:AddLayouts("layouts/goal_no_fog.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
+Tracker:AddLayouts("layouts/fogbane_relics/fog_grid_off.jsonc")
+Tracker:AddLayouts("layouts/track_switch/track_switch_off.jsonc")
+Tracker:AddLayouts("layouts/upgrades/upgrades_disabled.jsonc")
+Tracker:AddLayouts("layouts/weapons/weapons_off.jsonc")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then

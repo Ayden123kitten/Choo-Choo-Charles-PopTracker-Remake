@@ -262,7 +262,7 @@
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
-            "item_size": 3,
+            "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/note_disabled/note.png",
             "access_rules": ["timed_dynamite"]
