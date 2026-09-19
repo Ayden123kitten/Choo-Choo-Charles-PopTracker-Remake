@@ -1,6 +1,6 @@
 [
   {
-    "name": "Train Depot",
+    "name": "Middle Station",
     "access_rules": [
       "fogbane_pack, relics_enabled",
       "relics_disabled",
