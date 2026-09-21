@@ -3,7 +3,7 @@ Tracker:AddLocations("locations/worldmap.jsonc")
 -- South
 Tracker:AddLocations("locations/south/barn.jsonc")
 Tracker:AddLocations("locations/south/candice_s_house.jsonc")
-Tracker:AddLocations("locations/south/dock.jsonc")
+Tracker:AddLocations("locations/south/start_dock.jsonc")
 Tracker:AddLocations("locations/south/start_station.jsonc")
 Tracker:AddLocations("locations/south/start_camp.jsonc")
 Tracker:AddLocations("locations/south/swamp.jsonc")

@@ -27,8 +27,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 1100,
-            "y": 250
+            "x": 1400,
+            "y": 330
           }
         ]
       },
@@ -46,8 +46,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 1160,
-            "y": 180
+            "x": 1470,
+            "y": 250
           }
         ]
       },
@@ -65,8 +65,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 1200,
-            "y": 250
+            "x": 1535,
+            "y": 330
           }
         ]
       },
@@ -84,8 +84,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 870,
-            "y": 200
+            "x": 1100,
+            "y": 265
           }
         ]
       },
@@ -103,8 +103,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 840,
-            "y": 320
+            "x": 1070,
+            "y": 420
           }
         ]
       },
@@ -122,8 +122,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 930,
-            "y": 390
+            "x": 1175,
+            "y": 515
           }
         ]
       },
@@ -141,8 +141,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 450,
-            "y": 290
+            "x": 575,
+            "y": 410
           }
         ]
       },
@@ -160,8 +160,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 400,
-            "y": 510
+            "x": 515,
+            "y": 665
           }
         ]
       },
@@ -179,8 +179,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 810,
-            "y": 730
+            "x": 1035,
+            "y": 940
           }
         ]
       },
@@ -198,8 +198,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 1210,
-            "y": 570
+            "x": 1535,
+            "y": 735
           }
         ]
       },
@@ -217,8 +217,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 1290,
-            "y": 430
+            "x": 1630,
+            "y": 555
           }
         ]
       },
@@ -236,8 +236,8 @@
         "map_locations": [
           {
             "map": "junkyard_area",
-            "x": 710,
-            "y": 530
+            "x": 900,
+            "y": 680
           }
         ]
       }
