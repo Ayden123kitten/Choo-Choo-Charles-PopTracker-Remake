@@ -19,7 +19,7 @@
     "img": "images/maps/south/candice_s_house.png"
   },
   {
-    "name": "star_dock",
+    "name": "start_dock",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/south/start_dock.png"
