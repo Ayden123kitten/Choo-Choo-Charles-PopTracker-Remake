@@ -13,16 +13,16 @@
     "img": "images/maps/south/barn.png"
   },
   {
-    "name": "candices_house",
+    "name": "candice_s_house",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/south/candices_house.png"
+    "img": "images/maps/south/candice_s_house.png"
   },
   {
-    "name": "dock",
+    "name": "star_dock",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/south/dock.png"
+    "img": "images/maps/south/start_dock.png"
   },
   {
     "name": "junkyard_area",
@@ -49,10 +49,10 @@
     "img": "images/maps/south/south_house.png"
   },
   {
-    "name": "south_mine",
+    "name": "south_mine_outside",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/south/south_mine.png"
+    "img": "images/maps/south/south_mine_outside.png"
   },
   {
     "name": "start_camp",
@@ -67,10 +67,10 @@
     "img": "images/maps/south/swamp.png"
   },
   {
-    "name": "train_station",
+    "name": "start_station",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/south/train_station.png"
+    "img": "images/maps/south/start_station.png"
   },
   // Central
   {
@@ -92,10 +92,10 @@
     "img": "images/maps/central/haunted_house.png"
   },
   {
-    "name": "train_depot",
+    "name": "middle_station",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/central/train_depot.png"
+    "img": "images/maps/central/middle_station.png"
   },
   {
     "name": "pickle_valley",
@@ -110,10 +110,10 @@
     "img": "images/maps/central/port.png"
   },
   {
-    "name": "santiagos_house",
+    "name": "santiago_s_house",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/central/santiagos_house.png"
+    "img": "images/maps/central/santiago_s_house.png"
   },
   {
     "name": "shrine_near_temple",
@@ -144,7 +144,7 @@
     "name": "tower_near_workshop",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/east/east_tower.png"
+    "img": "images/maps/east/tower_near_workshop.png"
   },
   {
     "name": "lighthouse",
@@ -202,10 +202,10 @@
     "img": "images/maps/mid_west/mob_camp.png"
   },
   {
-    "name": "mountain_ruin",
+    "name": "mountain_ruin_outside",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/mid_west/mountain_ruin.png"
+    "img": "images/maps/mid_west/mountain_ruin_outside.png"
   },
   {
     "name": "towers",
@@ -233,10 +233,10 @@
     "img": "images/maps/north/church.png"
   },
   {
-    "name": "cliffside_house",
+    "name": "cliff_house",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/east/cliffside_house.png"
+    "img": "images/maps/east/cliff_house.png"
   },
   {
     "name": "morse_bunker",
@@ -257,10 +257,10 @@
     "img": "images/maps/north/north_beach.png"
   },
   {
-    "name": "north_mine",
+    "name": "north_mine_outside",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/north/north_mine.png"
+    "img": "images/maps/north/north_mine_outside.png"
   },
   {
     "name": "west_beach",

@@ -1,31 +1,14 @@
 [
   {
-    "name": "Santiago's House",
+    "name": "South Mine Outside",
     "access_rules": [
-      "cursed_fogs_pack",
+      "fogbane_pack, relics_enabled",
       "relics_disabled",
-      "relics_enabled, fogbane_santiagos_house"
+      "relics_enabled, fogbane_south_mine_outside"
     ],
     "children": [
       {
-        "name": "Journal",
-        "sections": [
-          {
-            "item_size": "64,43",
-            "chest_unopened_img": "images/items/journal.png",
-            "chest_opened_img": "images/items_disabled/journal.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "santiagos_house",
-            "x": 605,
-            "y": 370
-          }
-        ]
-      },
-      {
-        "name": "On Shrine",
+        "name": "Near Main Rails",
         "sections": [
           {
             "name": "Scraps",
@@ -37,14 +20,14 @@
         ],
         "map_locations": [
           {
-            "map": "santiagos_house",
-            "x": 815,
-            "y": 665
+            "map": "south_mine_outside",
+            "x": 925,
+            "y": 530
           }
         ]
       },
       {
-        "name": "Near Shrine",
+        "name": "Near Minecarts",
         "sections": [
           {
             "name": "Scraps",
@@ -56,66 +39,9 @@
         ],
         "map_locations": [
           {
-            "map": "santiagos_house",
-            "x": 895,
-            "y": 575
-          }
-        ]
-      },
-      {
-        "name": "Near Crates Outside",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "santiagos_house",
-            "x": 700,
-            "y": 395
-          }
-        ]
-      },
-      {
-        "name": "Behind Lit Lantern",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "santiagos_house",
-            "x": 675,
-            "y": 330
-          }
-        ]
-      },
-      {
-        "name": "Behind House",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "santiagos_house",
-            "x": 580,
-            "y": 370
+            "map": "south_mine_outside",
+            "x": 650,
+            "y": 590
           }
         ]
       },
@@ -132,14 +58,14 @@
         ],
         "map_locations": [
           {
-            "map": "santiagos_house",
-            "x": 685,
-            "y": 500
+            "map": "south_mine_outside",
+            "x": 630,
+            "y": 770
           }
         ]
       },
       {
-        "name": "Near Table",
+        "name": "Near Mine Door",
         "sections": [
           {
             "name": "Scraps",
@@ -151,14 +77,14 @@
         ],
         "map_locations": [
           {
-            "map": "santiagos_house",
-            "x": 640,
-            "y": 370
+            "map": "south_mine_outside",
+            "x": 440,
+            "y": 615
           }
         ]
       },
       {
-        "name": "Near Crates Inside",
+        "name": "Inside Small Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -170,14 +96,14 @@
         ],
         "map_locations": [
           {
-            "map": "santiagos_house",
-            "x": 675,
-            "y": 390
+            "map": "south_mine_outside",
+            "x": 415,
+            "y": 210
           }
         ]
       },
       {
-        "name": "On Crates Inside",
+        "name": "Between Barriers",
         "sections": [
           {
             "name": "Scraps",
@@ -189,14 +115,14 @@
         ],
         "map_locations": [
           {
-            "map": "santiagos_house",
-            "x": 600,
-            "y": 400
+            "map": "south_mine_outside",
+            "x": 790,
+            "y": 245
           }
         ]
       },
       {
-        "name": "On Path",
+        "name": "Inside Rest Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -204,13 +130,65 @@
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
+          },
+          {
+            "name": "Note",
+            "visibility_rules": ["notes_enabled"],
+            "item_size": "32,64",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [
           {
-            "map": "santiagos_house",
-            "x": 855,
-            "y": 220
+            "map": "south_mine_outside",
+            "x": 835,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Inside",
+        "type": "static",
+        "access_rules": ["south_mine_outside_key"],
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
+            "item_count": 7
+          },
+          {
+            "name": "Note",
+            "visibility_rules": ["notes_enabled"],
+            "item_size": "32,64",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
+            "name": "Green Paint Can",
+            "visibility_rules": ["paint_cans_enabled"],
+            "item_size": "64,63",
+            "chest_unopened_img": "images/paint_cans/green_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/green_paint_can.png",
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Green Egg",
+            "item_size": "51,64",
+            "chest_unopened_img": "images/items/green_egg.png",
+            "chest_opened_img": "images/items_disabled/green_egg.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "shape": "trapezoid",
+            "size": 80,
+            "x": 355,
+            "y": 640
           }
         ]
       }

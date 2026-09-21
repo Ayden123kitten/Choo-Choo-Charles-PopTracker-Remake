@@ -31,25 +31,25 @@
     "codes": "temple_key"
   },
   {
-    "name": "South Mine Key",
+    "name": "South Mine Outside Key",
     "type": "toggle",
     "img": "images/items/key.png",
 
-    "codes": "south_mine_key"
+    "codes": "south_mine_outside_key"
   },
   {
-    "name": "North Mine Key",
+    "name": "North Mine Outside Key",
     "type": "toggle",
     "img": "images/items/key.png",
 
-    "codes": "north_mine_key"
+    "codes": "north_mine_outside_key"
   },
   {
-    "name": "Mountain Ruin Key",
+    "name": "Mountain Ruin Outside Key",
     "type": "toggle",
     "img": "images/items/key.png",
 
-    "codes": "mountain_ruin_key"
+    "codes": "mountain_ruin_outside_key"
   },
   {
     "name": "Tony's Barn Key",
@@ -198,18 +198,18 @@
     "codes": "fogbane_military_base"
   },
   {
-    "name": "South Mine Outside Fogbane Relic",
+    "name": "South Mine Outside Outside Fogbane Relic",
 
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_south_mine"
+    "codes": "fogbane_south_mine_outside"
   },
   {
     "name": "Middle Station Fogbane Relic",
 
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_train_depot"
+    "codes": "fogbane_middle_station"
   },
   {
     "name": "Canyon Fogbane Relic",
@@ -237,7 +237,7 @@
 
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_santiagos_house"
+    "codes": "fogbane_santiago_s_house"
   },
   {
     "name": "Port Fogbane Relic",
@@ -254,11 +254,11 @@
     "codes": "fogbane_doll_woods"
   },
   {
-    "name": "Cliffside House Fogbane Relic",
+    "name": "Cliff House Fogbane Relic",
 
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_cliffside_house"
+    "codes": "fogbane_cliff_house"
   },
   {
     "name": "Rocket Grounds Fogbane Relic",
@@ -289,11 +289,11 @@
     "codes": "fogbane_lighthouse"
   },
   {
-    "name": "North Mine Outside Fogbane Relic",
+    "name": "North Mine Outside Outside Fogbane Relic",
 
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_north_mine"
+    "codes": "fogbane_north_mine_outside"
   },
   {
     "name": "Wooden Bridge Fogbane Relic",
@@ -373,11 +373,11 @@
     "codes": "fogbane_mine_elevator_exit"
   },
   {
-    "name": "Mountain Ruin Outside Fogbane Relic",
+    "name": "Mountain Ruin Outside Outside Fogbane Relic",
 
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_mountain_ruin_outside"
+    "codes": "fogbane_mountain_ruin_outside_outside"
   },
   {
     "name": "Temple Fogbane Relic",
@@ -449,7 +449,7 @@
     "codes": "track_switch_camp_elevator"
   },
   {
-    "name": "Mountain Ruin/Temple Track Switch",
+    "name": "Mountain Ruin Outside/Temple Track Switch",
     "type": "toggle",
     "img": "images/icons/track_switch.png",
 

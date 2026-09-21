@@ -3,7 +3,7 @@
     "name": "Aranerarum",
     "children": [
       {
-        "name": "Dock",
+        "name": "Start Dock",
         "sections": [
           {
             "name": "Note",
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "name": "Train Station",
+        "name": "Start Station",
         "sections": [
           {
             "name": "Note",
@@ -332,11 +332,11 @@
         ]
       },
       {
-        "name": "South Mine",
+        "name": "South Mine Outside",
         "access_rules": [
           "relics_disabled",
           "fogbane_pack, relics_enabled",
-          "relics_enabled, fogbane_south_mine"
+          "relics_enabled, fogbane_south_mine_outside"
         ],
         "sections": [
           {
@@ -361,7 +361,7 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9,
-            "access_rules": ["south_mine_key"]
+            "access_rules": ["south_mine_outside_key"]
           },
           {
             "name": "Inside 2",
@@ -369,7 +369,7 @@
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png",
-            "access_rules": ["south_mine_key"]
+            "access_rules": ["south_mine_outside_key"]
           },
           {
             "name": "Green Paint Can",
@@ -377,7 +377,7 @@
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/grey_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png",
-            "access_rules": ["south_mine_key, lockpicks"]
+            "access_rules": ["south_mine_outside_key, lockpicks"]
           },
           {
             "name": "Green Egg",
@@ -385,7 +385,7 @@
             "chest_unopened_img": "images/items/green_egg.png",
             "chest_opened_img": "images/items_disabled/green_egg.png",
 
-            "access_rules": ["south_mine_key"]
+            "access_rules": ["south_mine_outside_key"]
           }
         ],
         "map_locations": [
@@ -491,7 +491,7 @@
         "access_rules": [
           "relics_disabled",
           "fogbane_pack, relics_enabled",
-          "relics_enabled, fogbane_train_depot"
+          "relics_enabled, fogbane_middle_station"
         ],
         "sections": [
           {
@@ -696,7 +696,7 @@
         "access_rules": [
           "relics_disabled",
           "fogbane_pack, relics_enabled",
-          "relics_enabled, fogbane_santiagos_house"
+          "relics_enabled, fogbane_santiago_s_house"
         ],
         "sections": [
           {
@@ -893,11 +893,11 @@
         ]
       },
       {
-        "name": "Cliffside House",
+        "name": "Cliff House",
         "access_rules": [
           "relics_disabled",
           "fogbane_pack, relics_enabled",
-          "relics_enabled, fogbane_cliffside_house"
+          "relics_enabled, fogbane_cliff_house"
         ],
         "sections": [
           {
@@ -1218,11 +1218,11 @@
         ]
       },
       {
-        "name": "Mountain Ruin",
+        "name": "Mountain Ruin Outside",
         "access_rules": [
           "relics_disabled",
           "fogbane_pack, relics_enabled",
-          "relics_enabled, fogbane_mountain_ruin_outside"
+          "relics_enabled, fogbane_mountain_ruin_outside_outside"
         ],
         "sections": [
           {
@@ -1247,7 +1247,7 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17,
-            "access_rules": ["mountain_ruin_key"]
+            "access_rules": ["mountain_ruin_outside_key"]
           },
           {
             "name": "Inside 2",
@@ -1256,7 +1256,7 @@
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png",
             "item_count": 2,
-            "access_rules": ["mountain_ruin_key"]
+            "access_rules": ["mountain_ruin_outside_key"]
           },
           {
             "name": "Red Paint Can",
@@ -1264,14 +1264,14 @@
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/red_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/red_paint_can.png",
-            "access_rules": ["mountain_ruin_key, lockpicks"]
+            "access_rules": ["mountain_ruin_outside_key, lockpicks"]
           },
           {
             "name": "Red Egg",
             "item_size": "51,64",
             "chest_unopened_img": "images/items/red_egg.png",
             "chest_opened_img": "images/items_disabled/red_egg.png",
-            "access_rules": ["mountain_ruin_key"]
+            "access_rules": ["mountain_ruin_outside_key"]
           }
         ],
         "map_locations": [
@@ -1638,11 +1638,11 @@
         ]
       },
       {
-        "name": "North Mine",
+        "name": "North Mine Outside",
         "access_rules": [
           "relics_disabled",
           "fogbane_pack, relics_enabled",
-          "relics_enabled, fogbane_north_mine"
+          "relics_enabled, fogbane_north_mine_outside"
         ],
         "sections": [
           {
@@ -1660,7 +1660,7 @@
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 14,
-            "access_rules": ["north_mine_key"]
+            "access_rules": ["north_mine_outside_key"]
           },
           {
             "name": "Note",
@@ -1668,7 +1668,7 @@
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png",
-            "access_rules": ["north_mine_key"]
+            "access_rules": ["north_mine_outside_key"]
           },
           {
             "name": "Blue Paint Can",
@@ -1676,14 +1676,14 @@
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/blue_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.png",
-            "access_rules": ["north_mine_key, lockpicks"]
+            "access_rules": ["north_mine_outside_key, lockpicks"]
           },
           {
             "name": "Blue Egg",
             "item_size": "51,64",
             "chest_unopened_img": "images/items/blue_egg.png",
             "chest_opened_img": "images/items_disabled/blue_egg.png",
-            "access_rules": ["north_mine_key"]
+            "access_rules": ["north_mine_outside_key"]
           }
         ],
         "map_locations": [

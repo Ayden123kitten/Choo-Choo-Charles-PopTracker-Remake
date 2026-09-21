@@ -16,9 +16,9 @@
           "rows": [
             [
               "lockpicks",
-              "south_mine_key",
-              "north_mine_key",
-              "mountain_ruin_key",
+              "south_mine_outside_key",
+              "north_mine_outside_key",
+              "mountain_ruin_outside_key",
               "tonys_barn_key",
               "candices_key",
               "mob_camp_key"

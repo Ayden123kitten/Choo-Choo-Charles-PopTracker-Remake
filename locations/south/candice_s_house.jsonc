@@ -25,10 +25,10 @@
         ],
         "map_locations": [
           {
-            "map": "candices_house",
+            "map": "candice_s_house",
             "size": 120,
-            "x": 880,
-            "y": 310
+            "x": 1294,
+            "y": 399
           }
         ]
       },
@@ -44,9 +44,9 @@
         ],
         "map_locations": [
           {
-            "map": "candices_house",
-            "x": 380,
-            "y": 410
+            "map": "candice_s_house",
+            "x": 660,
+            "y": 516
           }
         ]
       }

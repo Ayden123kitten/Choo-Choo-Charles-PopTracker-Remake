@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dock",
+    "name": "Start Dock",
     "children": [
       {
         "name": "On Crates",
@@ -15,9 +15,9 @@
         ],
         "map_locations": [
           {
-            "map": "dock",
-            "x": 720,
-            "y": 680
+            "map": "start_dock",
+            "x": 685,
+            "y": 695
           }
         ]
       }

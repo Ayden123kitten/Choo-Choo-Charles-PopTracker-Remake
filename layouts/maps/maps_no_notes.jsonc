@@ -26,7 +26,7 @@
               "title": "Candice's House",
               "content": {
                 "type": "map",
-                "maps": ["candices_house"]
+                "maps": ["candice_s_house"]
               }
             },
             {
@@ -58,10 +58,10 @@
               }
             },
             {
-              "title": "South Mine",
+              "title": "South Mine Outside",
               "content": {
                 "type": "map",
-                "maps": ["south_mine"]
+                "maps": ["south_mine_outside"]
               }
             },
             {
@@ -126,7 +126,7 @@
               "title": "Santiago's House",
               "content": {
                 "type": "map",
-                "maps": ["santiagos_house"]
+                "maps": ["santiago_s_house"]
               }
             },
             {
@@ -147,7 +147,7 @@
               "title": "Middle Station",
               "content": {
                 "type": "map",
-                "maps": ["train_depot"]
+                "maps": ["middle_station"]
               }
             },
             {
@@ -167,10 +167,10 @@
           "dock": "top",
           "tabs": [
             {
-              "title": "Cliffside House",
+              "title": "Cliff House",
               "content": {
                 "type": "map",
-                "maps": ["cliffside_house"]
+                "maps": ["cliff_house"]
               }
             },
             {
@@ -260,10 +260,10 @@
               }
             },
             {
-              "title": "Mountain Ruin",
+              "title": "Mountain Ruin Outside",
               "content": {
                 "type": "map",
-                "maps": ["mountain_ruin"]
+                "maps": ["mountain_ruin_outside"]
               }
             },
             {
@@ -325,10 +325,10 @@
               }
             },
             {
-              "title": "North Mine",
+              "title": "North Mine Outside",
               "content": {
                 "type": "map",
-                "maps": ["north_mine"]
+                "maps": ["north_mine_outside"]
               }
             },
             {

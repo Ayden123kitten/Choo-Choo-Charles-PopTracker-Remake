@@ -1,23 +1,21 @@
 [
   {
-    "name": "North Mine",
+    "name": "Mountain Ruin Outside",
     "access_rules": [
-      "fogbane_pack, relics_enabled",
+      "cursed_fogs_pack",
       "relics_disabled",
-      "relics_enabled, fogbane_north_mine"
+      "relics_enabled, fogbane_mountain_ruin_outside_outside"
     ],
     "children": [
       {
-        "name": "Inside",
-        "access_rules": ["north_mine_key"],
+        "name": "Bottom Sheltered",
         "sections": [
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
-            "item_count": 13
+            "chest_opened_img": "images/items_disabled/scraps.png"
           },
           {
             "name": "Note",
@@ -25,110 +23,95 @@
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
-          },
-          {
-            "name": "Blue Paint Can",
-            "visibility_rules": ["paint_cans_enabled"],
-            "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/blue_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.png",
-            "access_rules": ["lockpicks"]
-          },
-          {
-            "name": "Blue Egg",
-            "item_size": "51,64",
-            "chest_unopened_img": "images/items/blue_egg.png",
-            "chest_opened_img": "images/items_disabled/blue_egg.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "size": 60,
+            "map": "mountain_ruin_outside",
+            "x": 1040,
+            "y": 750
+          }
+        ]
+      },
+      {
+        "name": "Bottom Near Minecarts",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "x": 1020,
+            "y": 670
+          }
+        ]
+      },
+      {
+        "name": "Bottom Near Tents 1",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "x": 1010,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Bottom Near Crates",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "x": 1000,
+            "y": 680
+          }
+        ]
+      },
+      {
+        "name": "Bottom Collapsed Mines",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
             "shape": "trapezoid",
-            "x": 610,
-            "y": 530
-          }
-        ]
-      },
-      {
-        "name": "South Near Crossroads",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "north_mine",
-            "x": 880,
-            "y": 755
-          }
-        ]
-      },
-      {
-        "name": "South On Downhill Path 1",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "north_mine",
-            "x": 805,
-            "y": 740
-          }
-        ]
-      },
-      {
-        "name": "South Above Door",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "north_mine",
-            "x": 610,
-            "y": 575
-          }
-        ]
-      },
-      {
-        "name": "South On Downhill Path 2",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "north_mine",
-            "x": 590,
+            "x": 865,
             "y": 655
           }
         ]
       },
       {
-        "name": "South On Downhill Path 3",
+        "name": "Bottom Near Tents 2",
         "sections": [
           {
             "name": "Scraps",
@@ -140,14 +123,14 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "x": 500,
+            "map": "mountain_ruin_outside",
+            "x": 1050,
             "y": 600
           }
         ]
       },
       {
-        "name": "South Near Lantern",
+        "name": "Bottom Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -159,14 +142,14 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "x": 755,
-            "y": 600
+            "map": "mountain_ruin_outside",
+            "x": 1000,
+            "y": 495
           }
         ]
       },
       {
-        "name": "Middle Near Shelter",
+        "name": "Downhill Path On Rocks 1",
         "sections": [
           {
             "name": "Scraps",
@@ -178,14 +161,14 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "x": 715,
-            "y": 460
+            "map": "mountain_ruin_outside",
+            "x": 925,
+            "y": 450
           }
         ]
       },
       {
-        "name": "Middle In Rock Pit",
+        "name": "Downhill Path Near Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -197,14 +180,14 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "x": 670,
-            "y": 370
+            "map": "mountain_ruin_outside",
+            "x": 870,
+            "y": 280
           }
         ]
       },
       {
-        "name": "Northeast On Arch Path",
+        "name": "Pillars Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -216,14 +199,14 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
+            "map": "mountain_ruin_outside",
             "x": 760,
-            "y": 300
+            "y": 290
           }
         ]
       },
       {
-        "name": "Northeast Near Barrier",
+        "name": "Pillars Near Crate",
         "sections": [
           {
             "name": "Scraps",
@@ -235,14 +218,14 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "x": 915,
-            "y": 165
+            "map": "mountain_ruin_outside",
+            "x": 700,
+            "y": 270
           }
         ]
       },
       {
-        "name": "Northeast Near Pillars",
+        "name": "Pillars Near Dirt Heaps",
         "sections": [
           {
             "name": "Scraps",
@@ -254,71 +237,14 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "x": 790,
-            "y": 200
-          }
-        ]
-      },
-      {
-        "name": "Middle On Path",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "north_mine",
-            "x": 590,
-            "y": 400
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Minecart",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "north_mine",
-            "x": 710,
-            "y": 320
-          }
-        ]
-      },
-      {
-        "name": "Northeast Sheltered",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "north_mine",
-            "x": 880,
+            "map": "mountain_ruin_outside",
+            "x": 720,
             "y": 120
           }
         ]
       },
       {
-        "name": "Northeast On Rocks",
+        "name": "Pillars Near Tents 2",
         "sections": [
           {
             "name": "Scraps",
@@ -330,9 +256,130 @@
         ],
         "map_locations": [
           {
-            "map": "north_mine",
-            "x": 825,
-            "y": 385
+            "map": "mountain_ruin_outside",
+            "x": 640,
+            "y": 155
+          }
+        ]
+      },
+      {
+        "name": "Pillars Near Tents 1",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "x": 650,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Pillars Behind Tent",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "x": 590,
+            "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Downhill Path On Rocks 2",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "x": 960,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "Topmost On Rocks",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "x": 720,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Inside",
+        "access_rules": ["mountain_ruin_outside_key"],
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
+            "item_count": 17
+          },
+          {
+            "name": "Note",
+            "visibility_rules": ["notes_enabled"],
+            "item_size": "32,64",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
+            "item_count": 2
+          },
+          {
+            "name": "Red Paint Can",
+            "visibility_rules": ["paint_cans_enabled"],
+            "item_size": "64,63",
+            "chest_unopened_img": "images/paint_cans/red_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/red_paint_can.png",
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Red Egg",
+            "item_size": "51,64",
+            "chest_unopened_img": "images/items/red_egg.png",
+            "chest_opened_img": "images/items_disabled/red_egg.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin_outside",
+            "size": 75,
+            "shape": "trapezoid",
+            "x": 670,
+            "y": 345
           }
         ]
       }

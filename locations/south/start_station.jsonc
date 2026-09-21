@@ -1,6 +1,6 @@
 [
   {
-    "name": "Train Station",
+    "name": "Start Station",
     "children": [
       {
         "name": "On Roof",
@@ -15,7 +15,7 @@
         ],
         "map_locations": [
           {
-            "map": "train_station",
+            "map": "start_station",
             "x": 730,
             "y": 445
           }
