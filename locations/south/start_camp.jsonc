@@ -16,8 +16,8 @@
         "map_locations": [
           {
             "map": "start_camp",
-            "x": 640,
-            "y": 380
+            "x": 870,
+            "y": 410
           }
         ]
       },
@@ -35,8 +35,8 @@
         "map_locations": [
           {
             "map": "start_camp",
-            "x": 630,
-            "y": 560
+            "x": 875,
+            "y": 615
           }
         ]
       }

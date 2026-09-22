@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "south_mine_outside",
-            "x": 925,
-            "y": 530
+            "x": 1225,
+            "y": 675
           }
         ]
       },
@@ -40,8 +40,8 @@
         "map_locations": [
           {
             "map": "south_mine_outside",
-            "x": 650,
-            "y": 590
+            "x": 900,
+            "y": 750
           }
         ]
       },
@@ -59,8 +59,8 @@
         "map_locations": [
           {
             "map": "south_mine_outside",
-            "x": 630,
-            "y": 770
+            "x": 870,
+            "y": 970
           }
         ]
       },
@@ -78,8 +78,8 @@
         "map_locations": [
           {
             "map": "south_mine_outside",
-            "x": 440,
-            "y": 615
+            "x": 630,
+            "y": 775
           }
         ]
       },
@@ -97,8 +97,8 @@
         "map_locations": [
           {
             "map": "south_mine_outside",
-            "x": 415,
-            "y": 210
+            "x": 595,
+            "y": 265
           }
         ]
       },
@@ -116,8 +116,8 @@
         "map_locations": [
           {
             "map": "south_mine_outside",
-            "x": 790,
-            "y": 245
+            "x": 1070,
+            "y": 305
           }
         ]
       },
@@ -142,14 +142,13 @@
         "map_locations": [
           {
             "map": "south_mine_outside",
-            "x": 835,
-            "y": 50
+            "x": 1115,
+            "y": 60
           }
         ]
       },
       {
         "name": "Inside",
-        "type": "static",
         "access_rules": ["south_mine_outside_key"],
         "sections": [
           {
@@ -187,8 +186,8 @@
             "map": "south_mine_outside",
             "shape": "trapezoid",
             "size": 80,
-            "x": 355,
-            "y": 640
+            "x": 540,
+            "y": 825
           }
         ]
       }

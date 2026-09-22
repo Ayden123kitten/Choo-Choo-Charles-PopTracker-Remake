@@ -14,14 +14,14 @@
             "name": "Mission End",
             "item_size": "64,57",
             "chest_unopened_img": "images/weapons/bug_spray.png",
-            "chest_opened_img": "images/weapons/bug_spray.png"
+            "chest_opened_img": "images/weapons_disabled/bug_spray.png"
           }
         ],
         "map_locations": [
           {
             "map": "military_base",
-            "x": 790,
-            "y": 490
+            "x": 1010,
+            "y": 615
           }
         ]
       },
@@ -39,8 +39,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 380,
-            "y": 410
+            "x": 515,
+            "y": 525
           }
         ]
       },
@@ -58,8 +58,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 600,
-            "y": 330
+            "x": 780,
+            "y": 410
           }
         ]
       },
@@ -77,8 +77,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 590,
-            "y": 640
+            "x": 780,
+            "y": 790
           }
         ]
       },
@@ -96,8 +96,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 830,
-            "y": 480
+            "x": 1075,
+            "y": 605
           }
         ]
       },
@@ -115,8 +115,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 765,
-            "y": 355
+            "x": 995,
+            "y": 445
           }
         ]
       },
@@ -134,8 +134,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 860,
-            "y": 340
+            "x": 1130,
+            "y": 430
           }
         ]
       },
@@ -153,8 +153,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 890,
-            "y": 310
+            "x": 1160,
+            "y": 385
           }
         ]
       },
@@ -172,8 +172,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 800,
-            "y": 160
+            "x": 1040,
+            "y": 195
           }
         ]
       },
@@ -191,8 +191,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 840,
-            "y": 460
+            "x": 1085,
+            "y": 570
           }
         ]
       },
@@ -209,8 +209,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 830,
-            "y": 430
+            "x": 1075,
+            "y": 540
           }
         ]
       },
@@ -228,13 +228,13 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 760,
-            "y": 580
+            "x": 980,
+            "y": 715
           }
         ]
       },
       {
-        "name": "Between Back Gates",
+        "name": "Near Back Gates",
         "sections": [
           {
             "name": "Scraps",
@@ -247,8 +247,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 910,
-            "y": 610
+            "x": 1185,
+            "y": 755
           }
         ]
       },
@@ -266,8 +266,8 @@
         "map_locations": [
           {
             "map": "military_base",
-            "x": 1120,
-            "y": 520
+            "x": 1450,
+            "y": 640
           }
         ]
       }

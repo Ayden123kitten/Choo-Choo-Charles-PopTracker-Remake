@@ -16,8 +16,8 @@
         "map_locations": [
           {
             "map": "start_station",
-            "x": 730,
-            "y": 445
+            "x": 720,
+            "y": 550
           }
         ]
       }
