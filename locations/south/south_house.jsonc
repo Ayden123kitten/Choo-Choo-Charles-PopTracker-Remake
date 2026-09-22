@@ -14,8 +14,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6,
             "access_rules": ["lockpicks"]
           }
@@ -35,8 +35,8 @@
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           }
         ],
         "map_locations": [
@@ -54,8 +54,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -73,8 +73,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -92,8 +92,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -111,8 +111,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -130,8 +130,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -149,8 +149,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -168,8 +168,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -187,8 +187,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -206,8 +206,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -225,8 +225,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -244,8 +244,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -263,8 +263,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [

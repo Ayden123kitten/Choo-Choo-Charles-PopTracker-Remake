@@ -14,8 +14,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -33,8 +33,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -52,8 +52,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -71,8 +71,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -90,8 +90,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -109,8 +109,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -128,15 +128,15 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           }
         ],
         "map_locations": [
@@ -155,30 +155,30 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 7
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Green Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/green_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/green_paint_can.png",
+            "chest_unopened_img": "images/paint_cans/green_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/green_paint_can.webp",
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Green Egg",
             "item_size": "51,64",
-            "chest_unopened_img": "images/items/green_egg.png",
-            "chest_opened_img": "images/items_disabled/green_egg.png"
+            "chest_unopened_img": "images/items/green_egg.webp",
+            "chest_opened_img": "images/items_disabled/green_egg.webp"
           }
         ],
         "map_locations": [

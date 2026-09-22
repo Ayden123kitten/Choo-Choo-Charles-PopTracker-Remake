@@ -5,12 +5,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "/images/toggles/cursed_fogs_disabled.png",
+        "img": "/images/toggles/cursed_fogs_disabled.webp",
         "inherit_codes": false,
         "codes": "relics_disabled, cursed_fogs_toggle"
       },
       {
-        "img": "/images/toggles/cursed_fogs_enabled.png",
+        "img": "/images/toggles/cursed_fogs_enabled.webp",
         "inherit_codes": false,
         "codes": "relics_enabled, cursed_fogs_toggle"
       }
@@ -22,12 +22,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "/images/toggles/scraps_disabled.png",
+        "img": "/images/toggles/scraps_disabled.webp",
         "inherit_codes": false,
         "codes": "scraps_disabled, scraps_toggle"
       },
       {
-        "img": "/images/toggles/scraps_enabled.png",
+        "img": "/images/toggles/scraps_enabled.webp",
         "inherit_codes": false,
         "codes": "scraps_enabled, scraps_toggle"
       }
@@ -39,12 +39,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "/images/toggles/notes_disabled.png",
+        "img": "/images/toggles/notes_disabled.webp",
         "inherit_codes": false,
         "codes": "notes_disabled, notes_toggle"
       },
       {
-        "img": "/images/toggles/notes_enabled.png",
+        "img": "/images/toggles/notes_enabled.webp",
         "inherit_codes": false,
         "codes": "notes_enabled, notes_toggle"
       }
@@ -56,12 +56,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "/images/toggles/paint_cans_disabled.png",
+        "img": "/images/toggles/paint_cans_disabled.webp",
         "inherit_codes": false,
         "codes": "paint_cans_disabled, paint_cans_toggle"
       },
       {
-        "img": "/images/toggles/paint_cans_enabled.png",
+        "img": "/images/toggles/paint_cans_enabled.webp",
         "inherit_codes": false,
         "codes": "paint_cans_enabled, paint_cans_toggle"
       }
@@ -73,12 +73,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "/images/toggles/track_switch_disabled.png",
+        "img": "/images/toggles/track_switch_disabled.webp",
         "inherit_codes": false,
         "codes": "track_switch_disabled, track_switch_toggle"
       },
       {
-        "img": "/images/toggles/track_switch_enabled.png",
+        "img": "/images/toggles/track_switch_enabled.webp",
         "inherit_codes": false,
         "codes": "track_switch_enabled, track_switch_toggle"
       }

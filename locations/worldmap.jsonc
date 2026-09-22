@@ -9,8 +9,8 @@
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           }
         ],
         "map_locations": [
@@ -28,8 +28,8 @@
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           }
         ],
         "map_locations": [
@@ -47,8 +47,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 2
           }
         ],
@@ -66,8 +66,8 @@
           {
             "name": "Tony Tiddle Mission Start",
             "item_size": "64,26",
-            "chest_unopened_img": "images/items/key.png",
-            "chest_opened_img": "images/items_disabled/key.png"
+            "chest_unopened_img": "images/items/key.webp",
+            "chest_opened_img": "images/items_disabled/key.webp"
           },
           {
             "name": "Barn",
@@ -75,8 +75,8 @@
             "access_rules": ["tonys_barn_key"],
             "item_count": 9,
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           },
           {
             "name": "Barn Note",
@@ -84,8 +84,8 @@
             "item_count": 2,
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           }
         ],
         "map_locations": [
@@ -109,22 +109,22 @@
             "visibility_rules": ["scraps_enabled"],
             "item_count": 12,
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Chest",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6,
             "access_rules": ["lockpicks"]
           }
@@ -143,15 +143,15 @@
           {
             "name": "Candice Mission Start",
             "item_size": "64,26",
-            "chest_unopened_img": "images/items/key.png",
-            "chest_opened_img": "images/items_disabled/key.png"
+            "chest_unopened_img": "images/items/key.webp",
+            "chest_opened_img": "images/items_disabled/key.webp"
           },
           {
             "name": "Room",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 9,
             "access_rules": ["candices_key"]
           },
@@ -159,8 +159,8 @@
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "access_rules": ["candices_key"]
           }
         ],
@@ -185,28 +185,28 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           },
           {
             "name": "Daryl Mission Start",
             "item_size": "64,37",
-            "chest_unopened_img": "images/items/lockpicks.png",
-            "chest_opened_img": "images/items_disabled/lockpicks.png"
+            "chest_unopened_img": "images/items/lockpicks.webp",
+            "chest_opened_img": "images/items_disabled/lockpicks.webp"
           },
           {
             "name": "Ancient Tablet",
             "item_size": "64,46",
-            "chest_unopened_img": "images/items/ancient_tablet.png",
-            "chest_opened_img": "images/items_disabled/ancient_tablet.png",
+            "chest_unopened_img": "images/items/ancient_tablet.webp",
+            "chest_opened_img": "images/items_disabled/ancient_tablet.webp",
 
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Daryl Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
 
             "access_rules": ["ancient_tablet"]
           }
@@ -232,14 +232,14 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           },
           {
             "name": "Helen Mission Start",
             "item_size": "64,26",
-            "chest_unopened_img": "images/items/key.png",
-            "chest_opened_img": "images/items_disabled/key.png"
+            "chest_unopened_img": "images/items/key.webp",
+            "chest_opened_img": "images/items_disabled/key.webp"
           }
         ],
         "map_locations": [
@@ -263,21 +263,21 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           },
           {
             "name": "Orange Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/orange_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/orange_paint_can.png"
+            "chest_unopened_img": "images/paint_cans/orange_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/orange_paint_can.webp"
           },
           {
             "name": "Sgt. Flint Mission End",
             "item_size": "64,57",
-            "chest_unopened_img": "images/weapons/bug_spray.png",
-            "chest_opened_img": "images/weapons_disabled/bug_spray.png"
+            "chest_unopened_img": "images/weapons/bug_spray.webp",
+            "chest_opened_img": "images/weapons_disabled/bug_spray.webp"
           }
         ],
         "map_locations": [
@@ -296,28 +296,28 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 37
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Dead Fish",
             "item_size": "64,14",
-            "chest_unopened_img": "images/items/dead_fish.png",
-            "chest_opened_img": "images/items_disabled/dead_fish.png"
+            "chest_unopened_img": "images/items/dead_fish.webp",
+            "chest_opened_img": "images/items_disabled/dead_fish.webp"
           },
           {
             "name": "Lizbeth Murkwater Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
 
             "access_rules": ["dead_fish"]
           }
@@ -343,23 +343,23 @@
             "name": "Outside 1",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 7
           },
           {
             "name": "Outside 2",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Inside 1",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 9,
             "access_rules": ["south_mine_outside_key"]
           },
@@ -367,23 +367,23 @@
             "name": "Inside 2",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "access_rules": ["south_mine_outside_key"]
           },
           {
             "name": "Green Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/grey_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png",
+            "chest_unopened_img": "images/paint_cans/grey_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.webp",
             "access_rules": ["south_mine_outside_key, lockpicks"]
           },
           {
             "name": "Green Egg",
             "item_size": "51,64",
-            "chest_unopened_img": "images/items/green_egg.png",
-            "chest_opened_img": "images/items_disabled/green_egg.png",
+            "chest_unopened_img": "images/items/green_egg.webp",
+            "chest_opened_img": "images/items_disabled/green_egg.webp",
 
             "access_rules": ["south_mine_outside_key"]
           }
@@ -410,37 +410,37 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 23
           },
           {
             "name": "Purple Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/purple_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/purple_paint_can.png"
+            "chest_unopened_img": "images/paint_cans/purple_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/purple_paint_can.webp"
           },
           {
             "name": "Jar of Pickles",
             "item_size": "46,64",
-            "chest_unopened_img": "images/items/jar_of_pickles.png",
-            "chest_opened_img": "images/items_disabled/jar_of_pickles.png",
+            "chest_unopened_img": "images/items/jar_of_pickles.webp",
+            "chest_opened_img": "images/items_disabled/jar_of_pickles.webp",
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "item_count": 2
           },
           {
             "name": "Pickle Lady Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
 
             "access_rules": ["jar_of_pickles"]
           }
@@ -466,15 +466,15 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 17
           },
           {
             "name": "Blue Box",
             "item_size": "64,48",
-            "chest_unopened_img": "images/items/blue_box.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
+            "chest_unopened_img": "images/items/blue_box.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp"
           }
         ],
         "map_locations": [
@@ -498,30 +498,30 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 20
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Theodore Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "access_rules": ["blue_box"]
           },
           {
             "name": "White Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/white_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/white_paint_can.png"
+            "chest_unopened_img": "images/paint_cans/white_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/white_paint_can.webp"
           }
         ],
         "map_locations": [
@@ -545,24 +545,24 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 10
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "item_count": 2
           },
           {
             "name": "Pink Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/pink_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/pink_paint_can.png",
+            "chest_unopened_img": "images/paint_cans/pink_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/pink_paint_can.webp",
             "access_rules": ["lockpicks"]
           }
         ],
@@ -582,15 +582,15 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 18
           },
           {
             "name": "Child's Drawings",
             "item_size": "45,64",
-            "chest_unopened_img": "images/items/childs_drawing.png",
-            "chest_opened_img": "images/items_disabled/childs_drawing.png",
+            "chest_unopened_img": "images/items/childs_drawing.webp",
+            "chest_opened_img": "images/items_disabled/childs_drawing.webp",
             "item_count": 8
           }
         ],
@@ -615,22 +615,22 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Sasha Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "access_rules": ["$has_more_then_n|childs_drawing|7"]
           }
         ],
@@ -654,30 +654,30 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 19
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "item_count": 2
           },
           {
             "name": "Grey Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/grey_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png"
+            "chest_unopened_img": "images/paint_cans/grey_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.webp"
           },
           {
             "name": "Santiago Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
 
             "access_rules": ["journal"]
           }
@@ -703,15 +703,15 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 10
           },
           {
             "name": "Journal",
             "item_size": "64,43",
-            "chest_unopened_img": "images/items/journal.png",
-            "chest_opened_img": "images/items_disabled/journal.png"
+            "chest_unopened_img": "images/items/journal.webp",
+            "chest_opened_img": "images/items_disabled/journal.webp"
           }
         ],
         "map_locations": [
@@ -730,8 +730,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 2
           }
         ],
@@ -755,8 +755,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 10
           }
         ],
@@ -776,16 +776,16 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 18
           },
           {
             "name": "Chest",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6,
             "access_rules": ["lockpicks"]
           }
@@ -810,37 +810,37 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 10
           },
           {
             "name": "Timed Dynamite",
             "item_size": "64,45",
-            "chest_unopened_img": "images/items/timed_dynamite.png",
-            "chest_opened_img": "images/items_disabled/timed_dynamite.png"
+            "chest_unopened_img": "images/items/timed_dynamite.webp",
+            "chest_opened_img": "images/items_disabled/timed_dynamite.webp"
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Bunker",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 2,
             "access_rules": ["timed_dynamite"]
           },
           {
             "name": "Box of Rockets",
             "item_size": "46,64",
-            "chest_unopened_img": "images/items/box_of_rockets.png",
-            "chest_opened_img": "images/items_disabled/box_of_rockets.png",
+            "chest_unopened_img": "images/items/box_of_rockets.webp",
+            "chest_opened_img": "images/items_disabled/box_of_rockets.webp",
             "access_rules": ["timed_dynamite"]
           }
         ],
@@ -865,22 +865,22 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "John Smith Mission End",
             "item_size": "27,64",
-            "chest_unopened_img": "images/weapons/the_boomer.png",
-            "chest_opened_img": "images/weapons_disabled/the_boomer.png",
+            "chest_unopened_img": "images/weapons/the_boomer.webp",
+            "chest_opened_img": "images/weapons_disabled/the_boomer.webp",
             "access_rules": ["box_of_rockets"]
           }
         ],
@@ -904,16 +904,16 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 14
           },
           {
             "name": "Chest",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 5,
             "access_rules": ["lockpicks"]
           }
@@ -939,22 +939,22 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Greg Mission Start",
             "item_size": "64,26",
-            "chest_unopened_img": "images/items/key.png",
-            "chest_opened_img": "images/items_disabled/key.png"
+            "chest_unopened_img": "images/items/key.webp",
+            "chest_opened_img": "images/items_disabled/key.webp"
           }
         ],
         "map_locations": [
@@ -977,29 +977,29 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 18
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Breaker",
             "item_size": "39,64",
-            "chest_unopened_img": "images/items/breaker.png",
-            "chest_opened_img": "images/items_disabled/breaker.png",
+            "chest_unopened_img": "images/items/breaker.webp",
+            "chest_opened_img": "images/items_disabled/breaker.webp",
             "item_count": 4
           },
           {
             "name": "Claire Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "access_rules": ["$has_more_then_n|breaker|3"]
           }
         ],
@@ -1024,8 +1024,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 34
           },
           {
@@ -1033,8 +1033,8 @@
             "item_count": 3,
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "access_rules": ["lockpicks"]
           }
         ],
@@ -1055,16 +1055,16 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 3
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           }
         ],
         "map_locations": [
@@ -1087,35 +1087,35 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 27
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Employment Contracts",
             "item_size": "64,42",
-            "chest_unopened_img": "images/items/employment_contracts.png",
-            "chest_opened_img": "images/items_disabled/employment_contracts.png"
+            "chest_unopened_img": "images/items/employment_contracts.webp",
+            "chest_opened_img": "images/items_disabled/employment_contracts.webp"
           },
           {
             "name": "Lime Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/lime_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/lime_paint_can.png"
+            "chest_unopened_img": "images/paint_cans/lime_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/lime_paint_can.webp"
           },
           {
             "name": "Ronny Mission End",
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "access_rules": ["employment_contracts"]
           }
         ],
@@ -1140,8 +1140,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6
           }
         ],
@@ -1161,16 +1161,16 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 9
           },
           {
             "name": "Chest",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 5,
             "access_rules": ["lockpicks"]
           },
@@ -1178,8 +1178,8 @@
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "access_rules": ["lockpicks"]
           }
         ],
@@ -1204,8 +1204,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 9
           }
         ],
@@ -1229,23 +1229,23 @@
             "name": "Outside 1",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 17
           },
           {
             "name": "Outside 2",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Inside 1",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 17,
             "access_rules": ["mountain_ruin_outside_key"]
           },
@@ -1253,8 +1253,8 @@
             "name": "Inside 2",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "item_count": 2,
             "access_rules": ["mountain_ruin_outside_key"]
           },
@@ -1262,15 +1262,15 @@
             "name": "Red Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/red_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/red_paint_can.png",
+            "chest_unopened_img": "images/paint_cans/red_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/red_paint_can.webp",
             "access_rules": ["mountain_ruin_outside_key, lockpicks"]
           },
           {
             "name": "Red Egg",
             "item_size": "51,64",
-            "chest_unopened_img": "images/items/red_egg.png",
-            "chest_opened_img": "images/items_disabled/red_egg.png",
+            "chest_unopened_img": "images/items/red_egg.webp",
+            "chest_opened_img": "images/items_disabled/red_egg.webp",
             "access_rules": ["mountain_ruin_outside_key"]
           }
         ],
@@ -1296,37 +1296,37 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 16
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Mob Camp Key",
             "item_size": "64,26",
-            "chest_unopened_img": "images/items/key.png",
-            "chest_opened_img": "images/items_disabled/key.png"
+            "chest_unopened_img": "images/items/key.webp",
+            "chest_opened_img": "images/items_disabled/key.webp"
           },
           {
             "name": "Locked Room",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 2,
             "access_rules": ["mob_camp_key"]
           },
           {
             "name": "Bob",
             "item_size": "39,64",
-            "chest_unopened_img": "images/weapons/bob.png",
-            "chest_opened_img": "images/weapons_disabled/bob.png",
+            "chest_unopened_img": "images/weapons/bob.webp",
+            "chest_opened_img": "images/weapons_disabled/bob.webp",
             "access_rules": ["mob_camp_key, broken_bob"]
           }
         ],
@@ -1351,22 +1351,22 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 5
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Gale Mission Start",
             "item_size": "64,26",
-            "chest_unopened_img": "images/items/key.png",
-            "chest_opened_img": "images/items_disabled/key.png"
+            "chest_unopened_img": "images/items/key.webp",
+            "chest_opened_img": "images/items_disabled/key.webp"
           }
         ],
         "map_locations": [
@@ -1389,16 +1389,16 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 12
           },
           {
             "name": "Black Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/black_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/black_paint_can.png"
+            "chest_unopened_img": "images/paint_cans/black_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/black_paint_can.webp"
           }
         ],
         "map_locations": [
@@ -1421,15 +1421,15 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 5
           },
           {
             "name": "Gertrude Mission Start",
             "item_size": "64,49",
-            "chest_unopened_img": "images/items/broken_bob.png",
-            "chest_opened_img": "images/items_disabled/broken_bob.png"
+            "chest_unopened_img": "images/items/broken_bob.webp",
+            "chest_opened_img": "images/items_disabled/broken_bob.webp"
           }
         ],
         "map_locations": [
@@ -1452,16 +1452,16 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 8
           },
           {
             "name": "Chest",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 6,
             "access_rules": ["lockpicks"]
           }
@@ -1486,31 +1486,31 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 15
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Teal Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/teal_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/teal_paint_can.png"
+            "chest_unopened_img": "images/paint_cans/teal_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/teal_paint_can.webp"
           },
           {
             "name": "Chest",
             "item_count": 4,
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "access_rules": ["lockpicks"]
           }
         ],
@@ -1535,8 +1535,8 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 13
           }
         ],
@@ -1561,29 +1561,29 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 12
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "item_count": 2
           },
           {
             "name": "Paul Mission Start",
             "item_size": "64,64",
-            "chest_unopened_img": "images/items/remote_explosives.png",
-            "chest_opened_img": "images/items_disabled/remote_explosives.png"
+            "chest_unopened_img": "images/items/remote_explosives.webp",
+            "chest_opened_img": "images/items_disabled/remote_explosives.webp"
           },
           {
             "name": "Paul Mission End",
             "item_size": "64,49",
-            "chest_unopened_img": "images/items/temple_key.png",
-            "chest_opened_img": "images/items_disabled/temple_key.png",
+            "chest_unopened_img": "images/items/temple_key.webp",
+            "chest_opened_img": "images/items_disabled/temple_key.webp",
             "access_rules": ["remote_explosives"]
           }
         ],
@@ -1607,23 +1607,23 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 13
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Chest",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 5,
             "access_rules": ["lockpicks"]
           }
@@ -1649,16 +1649,16 @@
             "name": "Outside",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 14
           },
           {
             "name": "Inside",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 14,
             "access_rules": ["north_mine_outside_key"]
           },
@@ -1666,23 +1666,23 @@
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp",
             "access_rules": ["north_mine_outside_key"]
           },
           {
             "name": "Blue Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/blue_paint_can.png",
-            "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.png",
+            "chest_unopened_img": "images/paint_cans/blue_paint_can.webp",
+            "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.webp",
             "access_rules": ["north_mine_outside_key, lockpicks"]
           },
           {
             "name": "Blue Egg",
             "item_size": "51,64",
-            "chest_unopened_img": "images/items/blue_egg.png",
-            "chest_opened_img": "images/items_disabled/blue_egg.png",
+            "chest_unopened_img": "images/items/blue_egg.webp",
+            "chest_opened_img": "images/items_disabled/blue_egg.webp",
             "access_rules": ["north_mine_outside_key"]
           }
         ],
@@ -1708,23 +1708,23 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 14
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
+            "chest_unopened_img": "images/notes/note.webp",
+            "chest_opened_img": "images/notes_disabled/note.webp"
           },
           {
             "name": "Chest",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png",
+            "chest_unopened_img": "images/items/scraps.webp",
+            "chest_opened_img": "images/items_disabled/scraps.webp",
             "item_count": 7,
             "access_rules": ["lockpicks"]
           }
