@@ -6,17 +6,17 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/cursed_fogs_disabled.png",
+        "img": "images/toggles/cursed_fogs_disabled.webp",
         "inherit_codes": false,
         "codes": "relics_disabled, cursed_fogs_toggle"
       },
       {
-        "img": "images/toggles/cursed_fogs_pack.png",
+        "img": "images/toggles/cursed_fogs_pack.webp",
         "inherit_codes": false,
         "codes": "cursed_fogs_pack, cursed_fogs_toggle"
       },
       {
-        "img": "images/toggles/cursed_fogs_enabled.png",
+        "img": "images/toggles/cursed_fogs_enabled.webp",
         "inherit_codes": false,
         "codes": "relics_enabled, cursed_fogs_toggle"
       }
@@ -30,12 +30,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/scraps_disabled.png",
+        "img": "images/toggles/scraps_disabled.webp",
         "inherit_codes": false,
         "codes": "scraps_disabled, scraps_toggle"
       },
       {
-        "img": "images/toggles/scraps_enabled.png",
+        "img": "images/toggles/scraps_enabled.webp",
         "inherit_codes": false,
         "codes": "scraps_enabled, scraps_toggle"
       }
@@ -48,12 +48,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/notes_disabled.png",
+        "img": "images/toggles/notes_disabled.webp",
         "inherit_codes": false,
         "codes": "notes_disabled, notes_toggle"
       },
       {
-        "img": "images/toggles/notes_enabled.png",
+        "img": "images/toggles/notes_enabled.webp",
         "inherit_codes": false,
         "codes": "notes_enabled, notes_toggle"
       }
@@ -67,12 +67,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/paint_cans_disabled.png",
+        "img": "images/toggles/paint_cans_disabled.webp",
         "inherit_codes": false,
         "codes": "paint_cans_disabled, paint_cans_toggle"
       },
       {
-        "img": "images/toggles/paint_cans_enabled.png",
+        "img": "images/toggles/paint_cans_enabled.webp",
         "inherit_codes": false,
         "codes": "paint_cans_enabled, paint_cans_toggle"
       }
@@ -85,17 +85,17 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/track_switch_disabled.png",
+        "img": "images/toggles/track_switch_disabled.webp",
         "inherit_codes": false,
         "codes": "track_switch_disabled, track_switch_toggle"
       },
       {
-        "img": "images/toggles/track_switch_pack.png",
+        "img": "images/toggles/track_switch_pack.webp",
         "inherit_codes": false,
         "codes": "track_switch_pack, track_switch_toggle"
       },
       {
-        "img": "images/toggles/track_switch_enabled.png",
+        "img": "images/toggles/track_switch_enabled.webp",
         "inherit_codes": false,
         "codes": "track_switch_enabled, track_switch_toggle"
       }
@@ -108,12 +108,12 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/weapons_disabled.png",
+        "img": "images/toggles/weapons_disabled.webp",
         "inherit_codes": false,
         "codes": "weapons_disabled, weapons_toggle"
       },
       {
-        "img": "images/toggles/weapons_enabled.png",
+        "img": "images/toggles/weapons_enabled.webp",
         "inherit_codes": false,
         "codes": "weapons_enabled, weapons_toggle"
       }
@@ -126,17 +126,17 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/armor_disabled.png",
+        "img": "images/toggles/armor_disabled.webp",
         "inherit_codes": false,
         "codes": "armor_disabled_toggle, armor_toggle"
       },
       {
-        "img": "images/toggles/armor_unlock.png",
+        "img": "images/toggles/armor_unlock.webp",
         "inherit_codes": false,
         "codes": "armor_unlock_toggle, armor_toggle"
       },
       {
-        "img": "images/toggles/armor_levels.png",
+        "img": "images/toggles/armor_levels.webp",
         "inherit_codes": false,
         "codes": "armor_levels_toggle, armor_toggle"
       }
@@ -149,17 +149,17 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/damage_disabled.png",
+        "img": "images/toggles/damage_disabled.webp",
         "inherit_codes": false,
         "codes": "damage_disabled_toggle, damage_toggle"
       },
       {
-        "img": "images/toggles/damage_unlock.png",
+        "img": "images/toggles/damage_unlock.webp",
         "inherit_codes": false,
         "codes": "damage_unlock_toggle, damage_toggle"
       },
       {
-        "img": "images/toggles/damage_levels.png",
+        "img": "images/toggles/damage_levels.webp",
         "inherit_codes": false,
         "codes": "damage_levels_toggle, damage_toggle"
       }
@@ -172,17 +172,17 @@
     "allow_disabled": false,
     "stages": [
       {
-        "img": "images/toggles/speed_disabled.png",
+        "img": "images/toggles/speed_disabled.webp",
         "inherit_codes": false,
         "codes": "speed_disabled_toggle, speed_toggle"
       },
       {
-        "img": "images/toggles/speed_unlock.png",
+        "img": "images/toggles/speed_unlock.webp",
         "inherit_codes": false,
         "codes": "speed_unlock_toggle, speed_toggle"
       },
       {
-        "img": "images/toggles/speed_levels.png",
+        "img": "images/toggles/speed_levels.webp",
         "inherit_codes": false,
         "codes": "speed_levels_toggle, speed_toggle"
       }
