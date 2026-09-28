@@ -12,9 +12,7 @@
           "item_margin": "2, 2",
           "item_h_alignment": "center",
           "item_v_alignment": "center",
-          "rows": [
-            ["damage_levels","armor_levels"]
-          ]
+          "rows": [["damage_levels", "armor_levels"]]
         }
       }
     ]

@@ -197,10 +197,11 @@
         ]
       },
       {
-        "name": "Orange Paint Can",
+        "name": "On Shelf",
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
+            "name": "Orange Paint Can",
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/orange_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/orange_paint_can.png"

@@ -3,7 +3,7 @@
     "name": "Trench House",
     "children": [
       {
-        "name": "South On Path 1",
+        "name": "South, On Path, Bottom",
         "sections": [
           {
             "name": "Scraps",
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "name": "South On Path 2",
+        "name": "South, On Path, Middle",
         "sections": [
           {
             "name": "Scraps",
@@ -41,7 +41,7 @@
         ]
       },
       {
-        "name": "South On Path 3",
+        "name": "South, On Path, Top",
         "sections": [
           {
             "name": "Scraps",
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "name": "South Behind Rock",
+        "name": "South, Behind Rock",
         "sections": [
           {
             "name": "Scraps",
@@ -79,7 +79,7 @@
         ]
       },
       {
-        "name": "South Lonely",
+        "name": "South, Lonely",
         "sections": [
           {
             "name": "Scraps",
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "name": "East Near Trench",
+        "name": "East, Near Trench",
         "sections": [
           {
             "name": "Scraps",
@@ -117,7 +117,7 @@
         ]
       },
       {
-        "name": "West Near Shrine",
+        "name": "West, Near Shrine",
         "sections": [
           {
             "name": "Scraps",
@@ -136,7 +136,7 @@
         ]
       },
       {
-        "name": "West On Shrine",
+        "name": "West, On Shrine",
         "sections": [
           {
             "name": "Scraps",
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "name": "Middle Near Door",
+        "name": "Middle, Near Door",
         "sections": [
           {
             "name": "Scraps",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "name": "Middle Behind House",
+        "name": "Middle, Behind House",
         "sections": [
           {
             "name": "Scraps",
@@ -193,7 +193,7 @@
         ]
       },
       {
-        "name": "Middle Near Water Tank",
+        "name": "Middle, Near Water Tank",
         "sections": [
           {
             "name": "Scraps",
@@ -212,7 +212,7 @@
         ]
       },
       {
-        "name": "Inside Under Table",
+        "name": "Inside, Under Table",
         "sections": [
           {
             "name": "Scraps",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "name": "Inside Above Stairs",
+        "name": "Inside, Above Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -252,7 +252,7 @@
         ]
       },
       {
-        "name": "Inside Behind Crates",
+        "name": "Inside, Behind Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "name": "Inside Near Tables",
+        "name": "Inside, Near Tables",
         "sections": [
           {
             "name": "Scraps",
@@ -292,7 +292,7 @@
         ]
       },
       {
-        "name": "Northwest Under Lantern",
+        "name": "Northwest, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -311,7 +311,7 @@
         ]
       },
       {
-        "name": "Northwest Near Rock",
+        "name": "Northwest, Near Rock",
         "sections": [
           {
             "name": "Scraps",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "name": "Southwest Near Rock",
+        "name": "Southwest, Near Rock",
         "sections": [
           {
             "name": "Scraps",

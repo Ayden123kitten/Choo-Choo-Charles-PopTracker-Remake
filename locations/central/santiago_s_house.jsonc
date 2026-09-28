@@ -8,9 +8,10 @@
     ],
     "children": [
       {
-        "name": "Journal",
+        "name": "On Table",
         "sections": [
           {
+            "name": "Journal",
             "item_size": "64,43",
             "chest_unopened_img": "images/items/journal.png",
             "chest_opened_img": "images/items_disabled/journal.png"

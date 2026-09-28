@@ -8,7 +8,7 @@
     ],
     "children": [
       {
-        "name": "Near Table",
+        "name": "Locked Room, Near Table",
         "sections": [
           {
             "access_rules": ["mob_camp_key"],
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "name": "On Shelves",
+        "name": "Locked Room, On Shelves",
         "sections": [
           {
             "access_rules": ["mob_camp_key"],
@@ -50,9 +50,10 @@
         ]
       },
       {
-        "name": "Bob",
+        "name": "Locked Room, On Table",
         "sections": [
           {
+            "name": "Stolen Bob",
             "access_rules": ["mob_camp_key, broken_bob"],
             "item_size": "39,64",
             "chest_unopened_img": "images/weapons/bob.png",
@@ -69,9 +70,10 @@
         ]
       },
       {
-        "name": "Mob Camp Key",
+        "name": "Topmost, On Table",
         "sections": [
           {
+            "name": "Mob Camp Key",
             "item_size": "64,26",
             "chest_unopened_img": "images/items/key.png",
             "chest_opened_img": "images/items_disabled/key.png"
@@ -87,7 +89,7 @@
         ]
       },
       {
-        "name": "Topmost Near Campfire",
+        "name": "Topmost, Near Campfire",
         "sections": [
           {
             "name": "Scraps",
@@ -106,7 +108,7 @@
         ]
       },
       {
-        "name": "Topmost Near Beds",
+        "name": "Topmost, Near Beds",
         "sections": [
           {
             "name": "Scraps",
@@ -126,7 +128,7 @@
         ]
       },
       {
-        "name": "Topmost On Balcony",
+        "name": "Topmost, On Balcony",
         "sections": [
           {
             "name": "Scraps",
@@ -145,7 +147,7 @@
         ]
       },
       {
-        "name": "Mask Tower Near Note",
+        "name": "Mask Tower, Near Note",
         "sections": [
           {
             "name": "Scraps",
@@ -165,7 +167,7 @@
         ]
       },
       {
-        "name": "Mask Tower On Table",
+        "name": "Mask Tower, On Table",
         "sections": [
           {
             "name": "Note",
@@ -185,7 +187,7 @@
         ]
       },
       {
-        "name": "Mask Tower On Stairs",
+        "name": "Mask Tower, On Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -204,7 +206,7 @@
         ]
       },
       {
-        "name": "Mask Tower Sheltered 1",
+        "name": "Mask Tower, Sheltered 1",
         "sections": [
           {
             "name": "Scraps",
@@ -224,7 +226,7 @@
         ]
       },
       {
-        "name": "Mask Tower Sheltered 2",
+        "name": "Mask Tower, Sheltered 2",
         "sections": [
           {
             "name": "Scraps",
@@ -244,7 +246,7 @@
         ]
       },
       {
-        "name": "Rest Shelter Between Tents 1",
+        "name": "Rest Shelter, Between Tents, Bottom",
         "sections": [
           {
             "name": "Scraps",
@@ -263,7 +265,7 @@
         ]
       },
       {
-        "name": "Rest Shelter Between Tents 2",
+        "name": "Rest Shelter, Between Tents, Top",
         "sections": [
           {
             "name": "Scraps",
@@ -282,7 +284,7 @@
         ]
       },
       {
-        "name": "Workshop Near Beams",
+        "name": "Workshop, Near Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -301,7 +303,7 @@
         ]
       },
       {
-        "name": "Workshop Under Stairs",
+        "name": "Workshop, Under Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -320,7 +322,7 @@
         ]
       },
       {
-        "name": "Workshop Near Water Tank",
+        "name": "Workshop, Near Water Tank",
         "sections": [
           {
             "name": "Scraps",
@@ -339,7 +341,7 @@
         ]
       },
       {
-        "name": "Rest Shelter Near Campfire",
+        "name": "Rest Shelter, Near Campfire",
         "sections": [
           {
             "name": "Scraps",
@@ -358,7 +360,7 @@
         ]
       },
       {
-        "name": "Workshop In Tower",
+        "name": "Workshop, In Tower",
         "sections": [
           {
             "name": "Scraps",
@@ -378,7 +380,7 @@
         ]
       },
       {
-        "name": "Rest Shelter Inside",
+        "name": "Rest Shelter, Inside",
         "sections": [
           {
             "name": "Scraps",
@@ -398,7 +400,7 @@
         ]
       },
       {
-        "name": "Topmost On Bridge",
+        "name": "Topmost, On Bridge",
         "sections": [
           {
             "name": "Scraps",

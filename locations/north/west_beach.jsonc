@@ -30,7 +30,7 @@
         ]
       },
       {
-        "name": "Top On Upper Footbridge",
+        "name": "Top, On Footbridge, Crates Side",
         "sections": [
           {
             "name": "Scraps",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "name": "Top On Lower Footbridge",
+        "name": "Top, On Footbridge, Lanterns Side",
         "sections": [
           {
             "name": "Scraps",
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "name": "Bottom Foot Of Stairs",
+        "name": "Bottom, Foot Of Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -87,7 +87,7 @@
         ]
       },
       {
-        "name": "Bottom Near Minecart",
+        "name": "Bottom, Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -106,7 +106,7 @@
         ]
       },
       {
-        "name": "Bottom In Corner",
+        "name": "Bottom, In Corner",
         "sections": [
           {
             "name": "Scraps",
@@ -125,7 +125,7 @@
         ]
       },
       {
-        "name": "Laying On Sand",
+        "name": "Laying, On Sand",
         "sections": [
           {
             "name": "Scraps",
@@ -144,7 +144,7 @@
         ]
       },
       {
-        "name": "Laying Under Stairs",
+        "name": "Laying, Under Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "name": "Top Near Beams",
+        "name": "Top, Near Beams",
         "sections": [
           {
             "name": "Scraps",

@@ -29,7 +29,7 @@
         ]
       },
       {
-        "name": "In Bedroom",
+        "name": "In Side Room",
         "sections": [
           {
             "name": "Note",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "name": "Near Blood Trail",
+        "name": "Near Boat's Blood Trail",
         "sections": [
           {
             "name": "Scraps",
@@ -257,7 +257,7 @@
         ]
       },
       {
-        "name": "Behind Boat",
+        "name": "Near Boat's Lonely Crate",
         "sections": [
           {
             "name": "Scraps",

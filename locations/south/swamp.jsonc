@@ -3,7 +3,7 @@
     "name": "Swamp",
     "children": [
       {
-        "name": "South Path To Candice's House",
+        "name": "South, Path To Candice's House",
         "sections": [
           {
             "name": "Scraps",
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "name": "South Between Trees",
+        "name": "South, Between Trees",
         "sections": [
           {
             "name": "Scraps",
@@ -41,7 +41,7 @@
         ]
       },
       {
-        "name": "South In Clovers",
+        "name": "South, In Clovers",
         "sections": [
           {
             "name": "Scraps",
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "name": "South At Crossroads",
+        "name": "South, At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -79,7 +79,7 @@
         ]
       },
       {
-        "name": "South Behind Lantern",
+        "name": "South, Behind Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "name": "Southeast Near Minecart",
+        "name": "Southeast, Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -117,7 +117,7 @@
         ]
       },
       {
-        "name": "Southeast At Crossroads",
+        "name": "Southeast, At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -136,7 +136,7 @@
         ]
       },
       {
-        "name": "East Near Pathway Pool",
+        "name": "East, Near Pathway Pool",
         "sections": [
           {
             "name": "Scraps",
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "name": "East At Crossroads",
+        "name": "East, At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "name": "East Near Lantern",
+        "name": "East, Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -193,7 +193,7 @@
         ]
       },
       {
-        "name": "East On Crates",
+        "name": "East, On Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -212,7 +212,7 @@
         ]
       },
       {
-        "name": "East Near Long Barrier",
+        "name": "East, Near Long Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -231,7 +231,7 @@
         ]
       },
       {
-        "name": "Middle Near Bridge",
+        "name": "Middle, Near Bridge",
         "sections": [
           {
             "name": "Scraps",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "name": "Northeast Behind Unlit Lantern",
+        "name": "Northeast, Behind Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -269,7 +269,7 @@
         ]
       },
       {
-        "name": "Northeast Near Puddles",
+        "name": "Northeast, Near Puddles",
         "sections": [
           {
             "name": "Scraps",
@@ -288,7 +288,7 @@
         ]
       },
       {
-        "name": "Northeast Under Lit Lantern",
+        "name": "Northeast, Under Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "name": "Northeast Near Pond",
+        "name": "Northeast, Near Pond",
         "sections": [
           {
             "name": "Scraps",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "name": "North Under Lantern",
+        "name": "North, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -345,7 +345,7 @@
         ]
       },
       {
-        "name": "North On Crates",
+        "name": "North, On Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -364,7 +364,7 @@
         ]
       },
       {
-        "name": "North Near Pond",
+        "name": "North, Near Pond",
         "sections": [
           {
             "name": "Scraps",
@@ -383,7 +383,7 @@
         ]
       },
       {
-        "name": "North Near Barrier",
+        "name": "North, Near Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -402,7 +402,7 @@
         ]
       },
       {
-        "name": "Northwest In Clovers",
+        "name": "Northwest, In Clovers",
         "sections": [
           {
             "name": "Scraps",
@@ -421,7 +421,7 @@
         ]
       },
       {
-        "name": "Northwest Near Pond",
+        "name": "Northwest, Near Pond",
         "sections": [
           {
             "name": "Scraps",
@@ -440,7 +440,7 @@
         ]
       },
       {
-        "name": "West Near Minecart",
+        "name": "West, Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -459,7 +459,7 @@
         ]
       },
       {
-        "name": "West Near Puddles",
+        "name": "West, Near Puddles",
         "sections": [
           {
             "name": "Scraps",
@@ -478,7 +478,7 @@
         ]
       },
       {
-        "name": "West Under Lit Lantern",
+        "name": "West, Under Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -497,7 +497,7 @@
         ]
       },
       {
-        "name": "West Path To Barn",
+        "name": "West, Path To Barn",
         "sections": [
           {
             "name": "Scraps",
@@ -516,7 +516,7 @@
         ]
       },
       {
-        "name": "West Behind Unlit Lantern",
+        "name": "West, Behind Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -535,7 +535,7 @@
         ]
       },
       {
-        "name": "West Between Crossroads",
+        "name": "West, Between Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -554,7 +554,7 @@
         ]
       },
       {
-        "name": "Southwest Near Lantern",
+        "name": "Southwest, Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -573,7 +573,7 @@
         ]
       },
       {
-        "name": "Northeast At Crossroads",
+        "name": "Northeast, At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -592,7 +592,7 @@
         ]
       },
       {
-        "name": "East Near Short Barrier",
+        "name": "East, Near Short Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -611,7 +611,7 @@
         ]
       },
       {
-        "name": "South Inside Shack",
+        "name": "South, Inside Shack",
         "sections": [
           {
             "name": "Scraps",
@@ -637,7 +637,7 @@
         ]
       },
       {
-        "name": "South On Floating Bridge",
+        "name": "South, On Floating Bridge",
         "sections": [
           {
             "name": "Scraps",
@@ -656,7 +656,7 @@
         ]
       },
       {
-        "name": "Islet 1",
+        "name": "Islet, Right",
         "sections": [
           {
             "name": "Scraps",
@@ -675,7 +675,7 @@
         ]
       },
       {
-        "name": "Islet 2",
+        "name": "Islet, Top",
         "sections": [
           {
             "name": "Scraps",
@@ -694,7 +694,7 @@
         ]
       },
       {
-        "name": "Islet 3",
+        "name": "Islet, Left",
         "sections": [
           {
             "name": "Scraps",
@@ -713,9 +713,10 @@
         ]
       },
       {
-        "name": "Dead Fish",
+        "name": "Islet, Middle",
         "sections": [
           {
+            "name": "Dead Fish",
             "item_size": "64,14",
             "chest_unopened_img": "images/items/dead_fish.png",
             "chest_opened_img": "images/items_disabled/dead_fish.png"

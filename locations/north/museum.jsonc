@@ -8,7 +8,7 @@
     ],
     "children": [
       {
-        "name": "Outside Near Unlit Lantern",
+        "name": "Outside, Near Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "Outside Behind Sign",
+        "name": "Outside, Behind Sign",
         "sections": [
           {
             "name": "Scraps",
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "name": "Outside Near Platform",
+        "name": "Outside, Near Platform",
         "sections": [
           {
             "name": "Scraps",
@@ -65,7 +65,7 @@
         ]
       },
       {
-        "name": "Outside Near Trees",
+        "name": "Outside, Near Trees",
         "sections": [
           {
             "name": "Scraps",
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "name": "Outside Behind Museum",
+        "name": "Outside, Behind Museum",
         "sections": [
           {
             "name": "Scraps",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "name": "Inside Near Mutiny Note",
+        "name": "Inside, Near Mutiny Note",
         "sections": [
           {
             "name": "Scraps",
@@ -123,7 +123,7 @@
         ]
       },
       {
-        "name": "Inside In Side Room",
+        "name": "Inside, In Side Room",
         "sections": [
           {
             "name": "Note",
@@ -143,7 +143,7 @@
         ]
       },
       {
-        "name": "Inside Under Stairs",
+        "name": "Inside, Under Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -163,7 +163,7 @@
         ]
       },
       {
-        "name": "Inside On Table",
+        "name": "Inside, On Table",
         "sections": [
           {
             "name": "Scraps",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "name": "Inside In Corner",
+        "name": "Inside, In Corner",
         "sections": [
           {
             "name": "Note",
@@ -203,7 +203,7 @@
         ]
       },
       {
-        "name": "Inside On Balcony",
+        "name": "Inside, On Balcony",
         "sections": [
           {
             "name": "Scraps",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "name": "On Hill 1",
+        "name": "On Hill, Right",
         "sections": [
           {
             "name": "Scraps",
@@ -242,7 +242,7 @@
         ]
       },
       {
-        "name": "On Hill 2",
+        "name": "On Hill, Left",
         "sections": [
           {
             "name": "Scraps",

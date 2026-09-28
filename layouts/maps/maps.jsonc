@@ -281,10 +281,10 @@
               }
             },
             {
-              "title": "Towers",
+              "title": "Tall Towers",
               "content": {
                 "type": "map",
-                "maps": ["towers"]
+                "maps": ["tall_towers"]
               }
             },
             {

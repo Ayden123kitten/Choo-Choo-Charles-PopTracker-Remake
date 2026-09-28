@@ -8,10 +8,11 @@
     ],
     "children": [
       {
-        "name": "Black Paint Can",
+        "name": "On Seat",
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
+            "name": "Black Paint Can",
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/black_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/black_paint_can.png"
@@ -27,7 +28,7 @@
         ]
       },
       {
-        "name": "Outside On Downhill Path",
+        "name": "Outside, On Downhill Path",
         "sections": [
           {
             "name": "Scraps",
@@ -46,7 +47,7 @@
         ]
       },
       {
-        "name": "Outside On Back Path 1",
+        "name": "Outside, On Back Path, Near Rock Wall",
         "sections": [
           {
             "name": "Scraps",
@@ -65,7 +66,7 @@
         ]
       },
       {
-        "name": "Outside Near Door",
+        "name": "Outside, Near Door",
         "sections": [
           {
             "name": "Scraps",
@@ -84,7 +85,7 @@
         ]
       },
       {
-        "name": "Graveyard On Path",
+        "name": "Graveyard, On Path",
         "sections": [
           {
             "name": "Scraps",
@@ -103,7 +104,7 @@
         ]
       },
       {
-        "name": "Outside Under Window",
+        "name": "Outside, Under Window",
         "sections": [
           {
             "name": "Scraps",
@@ -122,7 +123,7 @@
         ]
       },
       {
-        "name": "Graveyard Near Graves 1",
+        "name": "Graveyard, Near Graves, Top",
         "sections": [
           {
             "name": "Scraps",
@@ -141,7 +142,7 @@
         ]
       },
       {
-        "name": "Graveyard Near Graves 3",
+        "name": "Graveyard, Near Graves, Right",
         "sections": [
           {
             "name": "Scraps",
@@ -160,7 +161,7 @@
         ]
       },
       {
-        "name": "Graveyard Near Graves 2",
+        "name": "Graveyard, Near Graves, Middle",
         "sections": [
           {
             "name": "Scraps",
@@ -179,7 +180,7 @@
         ]
       },
       {
-        "name": "Inside Near Door",
+        "name": "Inside, Near Door",
         "sections": [
           {
             "name": "Scraps",
@@ -199,7 +200,7 @@
         ]
       },
       {
-        "name": "Inside Near Sermon Note",
+        "name": "Inside, Near Sermon Note",
         "sections": [
           {
             "name": "Scraps",
@@ -219,7 +220,7 @@
         ]
       },
       {
-        "name": "Inside In Black Corner",
+        "name": "Inside, In Black Corner",
         "sections": [
           {
             "name": "Scraps",
@@ -239,7 +240,7 @@
         ]
       },
       {
-        "name": "Outside On Back Path 2",
+        "name": "Outside, On Back Path, Between Trees",
         "sections": [
           {
             "name": "Scraps",

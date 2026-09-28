@@ -5,6 +5,12 @@
     "location_border_thickness": 4,
     "img": "images/maps/aranearum.png"
   },
+  {
+    "name": "aranearum_no_notes",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/aranearum.png"
+  },
   // South
   {
     "name": "barn",
@@ -208,10 +214,10 @@
     "img": "images/maps/mid_west/mountain_ruin.png"
   },
   {
-    "name": "towers",
+    "name": "tall_towers",
     "location_size": 30,
     "location_border_thickness": 4,
-    "img": "images/maps/mid_west/towers.png"
+    "img": "images/maps/mid_west/tall_towers.png"
   },
   {
     "name": "trailer_cabin",

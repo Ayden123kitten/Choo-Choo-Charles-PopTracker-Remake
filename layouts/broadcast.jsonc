@@ -6,7 +6,6 @@
     "content": [
       {
         "type": "array",
-        "header": "Goal Items",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
@@ -18,7 +17,6 @@
       },
       {
         "type": "array",
-        "header": "Lockpicks/Keys",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
@@ -30,7 +28,6 @@
       },
       {
         "type": "array",
-        "header": "Quest Items",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [

@@ -12,9 +12,7 @@
           "item_margin": "2, 2",
           "item_h_alignment": "center",
           "item_v_alignment": "center",
-          "rows": [
-            ["speed_unlock","damage_unlock","armor_unlock"]
-          ]
+          "rows": [["speed_unlock", "damage_unlock", "armor_unlock"]]
         }
       }
     ]

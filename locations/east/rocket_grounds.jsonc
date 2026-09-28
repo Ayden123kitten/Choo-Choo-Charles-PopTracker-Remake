@@ -8,9 +8,10 @@
     ],
     "children": [
       {
-        "name": "Timed Dynamite",
+        "name": "On Crate",
         "sections": [
           {
+            "name": "Timed Dynamite",
             "item_size": "64,45",
             "chest_unopened_img": "images/items/timed_dynamite.png",
             "chest_opened_img": "images/items_disabled/timed_dynamite.png"
@@ -25,7 +26,7 @@
         ]
       },
       {
-        "name": "East Near Lantern",
+        "name": "East, Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -44,7 +45,7 @@
         ]
       },
       {
-        "name": "East Near Barrier",
+        "name": "East, Near Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -63,7 +64,7 @@
         ]
       },
       {
-        "name": "Middle Near Dirt Heap",
+        "name": "Middle, Near Dirt Heap",
         "sections": [
           {
             "name": "Scraps",
@@ -82,7 +83,7 @@
         ]
       },
       {
-        "name": "Middle Near Planks",
+        "name": "Middle, Near Planks",
         "sections": [
           {
             "name": "Scraps",
@@ -101,7 +102,7 @@
         ]
       },
       {
-        "name": "Middle Near Crate",
+        "name": "Middle, Near Crate",
         "sections": [
           {
             "name": "Scraps",
@@ -120,7 +121,7 @@
         ]
       },
       {
-        "name": "Middle Near Lantern",
+        "name": "Middle, Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -139,7 +140,7 @@
         ]
       },
       {
-        "name": "North Under Sign",
+        "name": "North, Under Sign",
         "sections": [
           {
             "name": "Scraps",
@@ -158,7 +159,7 @@
         ]
       },
       {
-        "name": "Middle Near Rock",
+        "name": "Middle, Near Rock",
         "sections": [
           {
             "name": "Scraps",
@@ -177,7 +178,7 @@
         ]
       },
       {
-        "name": "Southwest Above Door",
+        "name": "Southwest, Above Door",
         "sections": [
           {
             "name": "Scraps",
@@ -196,7 +197,7 @@
         ]
       },
       {
-        "name": "South Above Bunker",
+        "name": "South, Above Bunker",
         "sections": [
           {
             "name": "Scraps",
@@ -236,7 +237,7 @@
         ]
       },
       {
-        "name": "In Corner",
+        "name": "Bunker, In Corner",
         "sections": [
           {
             "name": "Scraps",
@@ -257,7 +258,7 @@
         ]
       },
       {
-        "name": "Near Entrance",
+        "name": "Bunker, Near Entrance",
         "sections": [
           {
             "name": "Note",
@@ -278,9 +279,10 @@
         ]
       },
       {
-        "name": "Box of Rockets",
+        "name": "Bunker, In Middle",
         "sections": [
           {
+            "name": "Box of Rockets",
             "item_size": "46,64",
             "chest_unopened_img": "images/items/box_of_rockets.png",
             "chest_opened_img": "images/items_disabled/box_of_rockets.png",

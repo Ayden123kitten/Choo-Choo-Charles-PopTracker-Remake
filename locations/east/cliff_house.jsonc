@@ -8,7 +8,7 @@
     ],
     "children": [
       {
-        "name": "South Path Near Rails",
+        "name": "West, On Path, Near Rails",
         "sections": [
           {
             "name": "Scraps",
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "South Path Near Lantern 1",
+        "name": "West, On Path, Near Lantern 1",
         "sections": [
           {
             "name": "Scraps",
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "name": "South Path Near Lantern 2",
+        "name": "West, On Path, Near Lantern 2",
         "sections": [
           {
             "name": "Scraps",
@@ -65,7 +65,7 @@
         ]
       },
       {
-        "name": "South Path Near Lantern 3",
+        "name": "West, On Path, Near Lantern 3",
         "sections": [
           {
             "name": "Scraps",
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "name": "South Path Near Lantern 4",
+        "name": "West, On Path, Near Lantern 4",
         "sections": [
           {
             "name": "Scraps",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "name": "Cliffside Path Near Tent",
+        "name": "Cliffside, On Path, Near Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -122,7 +122,7 @@
         ]
       },
       {
-        "name": "Cliffside Path Under Lantern",
+        "name": "Cliffside, On Path, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -141,7 +141,7 @@
         ]
       },
       {
-        "name": "Clifftop Behind House",
+        "name": "Clifftop, Behind House",
         "sections": [
           {
             "name": "Scraps",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "name": "Clifftop Near Door",
+        "name": "Clifftop, Near Door",
         "sections": [
           {
             "name": "Scraps",
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "name": "Clifftop Near Minecart",
+        "name": "Clifftop, Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -198,7 +198,7 @@
         ]
       },
       {
-        "name": "Inside Near Bed",
+        "name": "Inside, Near Bed",
         "sections": [
           {
             "name": "Scraps",
@@ -217,7 +217,7 @@
         ]
       },
       {
-        "name": "Inside First Floor",
+        "name": "Inside, On First Floor",
         "sections": [
           {
             "name": "Scraps",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "name": "Wooded Path Near Lantern",
+        "name": "Wooded Path, Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "name": "South Path On Shortcut Trails",
+        "name": "West, Path, On Shortcut Trail",
         "sections": [
           {
             "name": "Scraps",
@@ -288,8 +288,6 @@
         ],
         "map_locations": [
           {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
             "map": "cliff_house",
             "x": 1295,
             "y": 370

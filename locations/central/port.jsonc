@@ -31,6 +31,7 @@
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
+            "name": "Docks, Sheltered, On Shelf",
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/grey_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png"
@@ -45,7 +46,7 @@
         ]
       },
       {
-        "name": "Station Near Shelter",
+        "name": "Station, Near Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -64,7 +65,7 @@
         ]
       },
       {
-        "name": "Station Half Sheltered",
+        "name": "Station, Half Sheltered",
         "sections": [
           {
             "name": "Scraps",
@@ -83,7 +84,7 @@
         ]
       },
       {
-        "name": "Station Near Tent",
+        "name": "Station, Near Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -102,7 +103,7 @@
         ]
       },
       {
-        "name": "Station Near Beams",
+        "name": "Station, Near Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -121,7 +122,7 @@
         ]
       },
       {
-        "name": "Station Near Note",
+        "name": "Station, Near Note",
         "sections": [
           {
             "name": "Scraps",
@@ -140,7 +141,7 @@
         ]
       },
       {
-        "name": "Station On Table",
+        "name": "Station, On Table",
         "sections": [
           {
             "name": "Note",
@@ -159,7 +160,7 @@
         ]
       },
       {
-        "name": "Path Summit",
+        "name": "Path, Topmost",
         "sections": [
           {
             "name": "Scraps",
@@ -178,7 +179,7 @@
         ]
       },
       {
-        "name": "Path Near Lit Lantern",
+        "name": "Path, Near Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -197,7 +198,7 @@
         ]
       },
       {
-        "name": "Path Under Unlit Lantern",
+        "name": "Path, Under Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -216,7 +217,7 @@
         ]
       },
       {
-        "name": "Path Near Tent",
+        "name": "Path, Near Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -235,7 +236,7 @@
         ]
       },
       {
-        "name": "Docks Near Shelter",
+        "name": "Docks, Near Shelter",
         "sections": [
           {
             "name": "Scraps",
@@ -254,7 +255,7 @@
         ]
       },
       {
-        "name": "Docks Sheltered",
+        "name": "Docks, Sheltered",
         "sections": [
           {
             "name": "Scraps",
@@ -273,7 +274,7 @@
         ]
       },
       {
-        "name": "Docks Platform Start",
+        "name": "Docks, Platform Start",
         "sections": [
           {
             "name": "Scraps",
@@ -292,7 +293,7 @@
         ]
       },
       {
-        "name": "Docks Under Platform",
+        "name": "Docks, Under Platform",
         "sections": [
           {
             "name": "Scraps",
@@ -311,7 +312,7 @@
         ]
       },
       {
-        "name": "Docks Near Beds",
+        "name": "Docks, Near Beds",
         "sections": [
           {
             "name": "Scraps",
@@ -330,7 +331,7 @@
         ]
       },
       {
-        "name": "Docks Between Lanterns",
+        "name": "Docks, Between Lanterns",
         "sections": [
           {
             "name": "Scraps",
@@ -349,7 +350,7 @@
         ]
       },
       {
-        "name": "Docks Near Crates",
+        "name": "Docks, Near Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -368,7 +369,7 @@
         ]
       },
       {
-        "name": "Docks On Gangway",
+        "name": "Docks, On Gangway",
         "sections": [
           {
             "name": "Scraps",
@@ -387,7 +388,7 @@
         ]
       },
       {
-        "name": "Docks Behind House",
+        "name": "Docks, Behind House",
         "sections": [
           {
             "name": "Scraps",
@@ -425,7 +426,7 @@
         ]
       },
       {
-        "name": "Docks In Gangway Corner",
+        "name": "Docks, In Gangway Corner",
         "sections": [
           {
             "name": "Scraps",

@@ -345,11 +345,11 @@
     "codes": "fogbane_trailer_cabin"
   },
   {
-    "name": "Towers Fogbane Relic",
+    "name": "Tall Towers Fogbane Relic",
 
     "type": "toggle",
     "img": "images/items/cursed_fog.png",
-    "codes": "fogbane_towers"
+    "codes": "fogbane_tall_towers"
   },
   {
     "name": "North Beach Fogbane Relic",

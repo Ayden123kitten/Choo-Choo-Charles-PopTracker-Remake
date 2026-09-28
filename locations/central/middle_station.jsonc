@@ -32,7 +32,6 @@
         "sections": [
           {
             "name": "Mission End",
-            "shape": "trapezoid",
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
@@ -41,6 +40,7 @@
         "map_locations": [
           {
             "map": "middle_station",
+            "shape": "trapezoid",
             "x": 735,
             "y": 445
           }
@@ -265,7 +265,6 @@
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
-            "shape": "trapezoid",
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
@@ -274,6 +273,7 @@
         "map_locations": [
           {
             "map": "middle_station",
+            "shape": "trapezoid",
             "x": 675,
             "y": 420
           }
@@ -394,7 +394,7 @@
         ]
       },
       {
-        "name": "Inside Railcar Near Stool",
+        "name": "Inside Railcar, Near Stool",
         "sections": [
           {
             "name": "Scraps",
@@ -413,7 +413,7 @@
         ]
       },
       {
-        "name": "Inside Railcar Near Crate",
+        "name": "Inside Railcar, Near Crate",
         "sections": [
           {
             "name": "Scraps",

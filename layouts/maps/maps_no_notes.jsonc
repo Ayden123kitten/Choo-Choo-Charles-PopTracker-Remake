@@ -6,7 +6,7 @@
         "title": "Full map",
         "content": {
           "type": "map",
-          "maps": ["aranearum"]
+          "maps": ["aranearum_no_notes"]
         }
       },
       {
@@ -267,10 +267,10 @@
               }
             },
             {
-              "title": "Towers",
+              "title": "Tall Towers",
               "content": {
                 "type": "map",
-                "maps": ["towers"]
+                "maps": ["tall_towers"]
               }
             },
             {

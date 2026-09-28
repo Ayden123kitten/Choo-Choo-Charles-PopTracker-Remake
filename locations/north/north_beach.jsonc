@@ -29,7 +29,7 @@
         ]
       },
       {
-        "name": "Campfire Near Crate Tents",
+        "name": "Campfire, Near Crate Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "name": "Shrine Near Middle",
+        "name": "Shrine, Near Middle",
         "sections": [
           {
             "name": "Scraps",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "name": "Shrine In Corner",
+        "name": "Shrine, In Corner",
         "sections": [
           {
             "name": "Scraps",
@@ -86,7 +86,7 @@
         ]
       },
       {
-        "name": "Campfire Near Bed Tents",
+        "name": "Campfire, Near Bed Tents",
         "sections": [
           {
             "name": "Scraps",
@@ -105,7 +105,7 @@
         ]
       },
       {
-        "name": "Laying 1",
+        "name": "Laying Right",
         "sections": [
           {
             "name": "Scraps",
@@ -124,7 +124,7 @@
         ]
       },
       {
-        "name": "Laying 2",
+        "name": "Laying Top",
         "sections": [
           {
             "name": "Scraps",
@@ -143,7 +143,7 @@
         ]
       },
       {
-        "name": "Laying 3 (Blinky)",
+        "name": "Laying Bottom (Blinky)",
         "sections": [
           {
             "name": "Scraps",
@@ -162,7 +162,7 @@
         ]
       },
       {
-        "name": "Shack Near Grave",
+        "name": "Shack, Near Grave",
         "sections": [
           {
             "name": "Scraps",
@@ -181,7 +181,7 @@
         ]
       },
       {
-        "name": "Shack Near Drying Rack",
+        "name": "Shack, Near Drying Rack",
         "sections": [
           {
             "name": "Scraps",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "name": "Shack Near Water Tank",
+        "name": "Shack, Near Water Tank",
         "sections": [
           {
             "name": "Scraps",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "name": "Shack Near Beams",
+        "name": "Shack, Near Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -238,7 +238,7 @@
         ]
       },
       {
-        "name": "Shack Near Floating Bridge",
+        "name": "Shack, Near Floating Bridge",
         "sections": [
           {
             "name": "Scraps",
@@ -257,7 +257,7 @@
         ]
       },
       {
-        "name": "Shack On Floating Bridge",
+        "name": "Shack, On Floating Bridge",
         "sections": [
           {
             "name": "Scraps",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "name": "Shack Behind Door",
+        "name": "Shack, Behind Door",
         "sections": [
           {
             "name": "Scraps",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "name": "Shack Near Note",
+        "name": "Shack, Near Note",
         "sections": [
           {
             "name": "Scraps",
@@ -314,7 +314,7 @@
         ]
       },
       {
-        "name": "Shack In Corner",
+        "name": "Shack, In Corner",
         "sections": [
           {
             "name": "Note",
@@ -333,10 +333,11 @@
         ]
       },
       {
-        "name": "Teal Paint Can",
+        "name": "Dock, On Table",
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
+            "name": "Teal Paint Can",
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/teal_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/teal_paint_can.png"

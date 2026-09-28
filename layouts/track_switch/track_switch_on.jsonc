@@ -15,13 +15,13 @@
           "item_v_alignment": "center",
           "rows": [
             [
-            "track_switch_tutorial_barn",
-            "track_switch_middle_port",
-            "track_switch_haunted_East",
-            "track_switch_north_temple",
-            "track_switch_caravan_cultists",
-            "track_switch_camp_elevator",
-            "track_switch_ruin_temple"
+              "track_switch_tutorial_barn",
+              "track_switch_middle_port",
+              "track_switch_haunted_East",
+              "track_switch_north_temple",
+              "track_switch_caravan_cultists",
+              "track_switch_camp_elevator",
+              "track_switch_ruin_temple"
             ]
           ]
         }

@@ -15,7 +15,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 300,
             "y": 690
           }
@@ -34,7 +34,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 330,
             "y": 640
           }
@@ -54,7 +54,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 500,
             "y": 750
           }
@@ -90,7 +90,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 680,
             "y": 740
           }
@@ -131,7 +131,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 740,
             "y": 950
           }
@@ -166,7 +166,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 690,
             "y": 800
           }
@@ -213,7 +213,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 775,
             "y": 890
           }
@@ -244,7 +244,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 810,
             "y": 825
           }
@@ -282,7 +282,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 875,
             "y": 835
           }
@@ -324,7 +324,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 80,
             "x": 750,
             "y": 770
@@ -340,7 +340,7 @@
         ],
         "sections": [
           {
-            "name": "Outside 1",
+            "name": "Outside",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
@@ -348,27 +348,12 @@
             "item_count": 7
           },
           {
-            "name": "Outside 2",
-            "visibility_rules": ["notes_enabled"],
-            "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
-          },
-          {
-            "name": "Inside 1",
+            "name": "Inside",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 9,
-            "access_rules": ["south_mine_key"]
-          },
-          {
-            "name": "Inside 2",
-            "visibility_rules": ["notes_enabled"],
-            "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
             "access_rules": ["south_mine_key"]
           },
           {
@@ -390,7 +375,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "shape": "trapezoid",
             "size": 40,
             "x": 840,
@@ -447,7 +432,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 50,
             "x": 605,
             "y": 610
@@ -479,7 +464,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 70,
             "x": 460,
             "y": 600
@@ -526,7 +511,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 40,
             "x": 528,
             "y": 505
@@ -568,7 +553,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 540,
             "y": 440
           }
@@ -596,7 +581,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 45,
             "x": 592,
             "y": 450
@@ -636,7 +621,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 585,
             "y": 390
           }
@@ -684,7 +669,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 50,
             "x": 705,
             "y": 485
@@ -716,7 +701,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 550,
             "y": 360
           }
@@ -737,7 +722,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 600,
             "y": 340
           }
@@ -762,7 +747,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 655,
             "y": 340
           }
@@ -792,7 +777,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 700,
             "y": 340
           }
@@ -846,7 +831,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 45,
             "x": 725,
             "y": 300
@@ -886,7 +871,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 780,
             "y": 300
           }
@@ -920,7 +905,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 35,
             "x": 845,
             "y": 330
@@ -959,7 +944,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 800,
             "y": 280
           }
@@ -1005,7 +990,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 40,
             "x": 847,
             "y": 240
@@ -1040,7 +1025,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 65,
             "x": 443,
             "y": 453
@@ -1069,7 +1054,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 370,
             "y": 460
           }
@@ -1121,7 +1106,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 43,
             "x": 297,
             "y": 444
@@ -1147,7 +1132,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 170,
             "y": 430
           }
@@ -1185,7 +1170,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 40,
             "x": 190,
             "y": 380
@@ -1211,7 +1196,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 265,
             "y": 385
           }
@@ -1226,7 +1211,7 @@
         ],
         "sections": [
           {
-            "name": "Outside 1",
+            "name": "Outside",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
@@ -1234,28 +1219,12 @@
             "item_count": 17
           },
           {
-            "name": "Outside 2",
-            "visibility_rules": ["notes_enabled"],
-            "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png"
-          },
-          {
-            "name": "Inside 1",
+            "name": "Inside",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17,
-            "access_rules": ["mountain_ruin_key"]
-          },
-          {
-            "name": "Inside 2",
-            "visibility_rules": ["notes_enabled"],
-            "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.png",
-            "chest_opened_img": "images/notes_disabled/note.png",
-            "item_count": 2,
             "access_rules": ["mountain_ruin_key"]
           },
           {
@@ -1276,7 +1245,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "shape": "trapezoid",
             "size": 60,
             "x": 350,
@@ -1332,7 +1301,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 40,
             "x": 257,
             "y": 323
@@ -1371,7 +1340,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 105,
             "y": 325
           }
@@ -1403,7 +1372,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 135,
             "y": 285
           }
@@ -1434,7 +1403,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 80,
             "y": 275
           }
@@ -1468,7 +1437,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 50,
             "y": 245
           }
@@ -1516,7 +1485,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 55,
             "x": 50,
             "y": 45
@@ -1542,7 +1511,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 35,
             "x": 72,
             "y": 147
@@ -1589,7 +1558,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "x": 107,
             "y": 184
           }
@@ -1630,7 +1599,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 40,
             "x": 180,
             "y": 240
@@ -1688,7 +1657,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 60,
             "shape": "trapezoid",
             "x": 155,
@@ -1731,7 +1700,7 @@
         ],
         "map_locations": [
           {
-            "map": "aranearum",
+            "map": "aranearum_no_notes",
             "size": 40,
             "x": 325,
             "y": 250

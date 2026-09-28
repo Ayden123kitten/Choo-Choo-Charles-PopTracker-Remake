@@ -8,7 +8,7 @@
     ],
     "children": [
       {
-        "name": "Arch Near Barrier",
+        "name": "Arch, Near Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "Arch On Path",
+        "name": "Arch, On Path",
         "sections": [
           {
             "name": "Scraps",
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "name": "Arch Left Pillar",
+        "name": "Arch, Left Pillar",
         "sections": [
           {
             "name": "Scraps",
@@ -65,7 +65,7 @@
         ]
       },
       {
-        "name": "Arch Right Pillar",
+        "name": "Arch, Right Pillar",
         "sections": [
           {
             "name": "Scraps",
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "name": "Bottom Near High Tree",
+        "name": "Bottom, Near High Tree",
         "sections": [
           {
             "name": "Scraps",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "name": "Bottom Near Small Tree",
+        "name": "Bottom, Near Small Tree",
         "sections": [
           {
             "name": "Scraps",
@@ -122,7 +122,7 @@
         ]
       },
       {
-        "name": "Bottom West",
+        "name": "Bottom, West",
         "sections": [
           {
             "name": "Scraps",
@@ -141,7 +141,7 @@
         ]
       },
       {
-        "name": "Bottom Under Lantern",
+        "name": "Bottom, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "name": "Top Under Lantern",
+        "name": "Top, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "name": "Top Near Middle",
+        "name": "Top, Near Middle,",
         "sections": [
           {
             "name": "Scraps",
@@ -198,7 +198,7 @@
         ]
       },
       {
-        "name": "Top Near Stairs",
+        "name": "Top, Near Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -217,7 +217,7 @@
         ]
       },
       {
-        "name": "Scaffolding Near Stairs",
+        "name": "Scaffolding, Near Stairs",
         "sections": [
           {
             "name": "Scraps",
@@ -238,7 +238,7 @@
         ]
       },
       {
-        "name": "Scaffolding Near Middle",
+        "name": "Scaffolding, Near Middle,",
         "sections": [
           {
             "name": "Scraps",

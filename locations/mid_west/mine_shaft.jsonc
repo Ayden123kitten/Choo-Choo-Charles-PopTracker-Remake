@@ -30,7 +30,7 @@
         ]
       },
       {
-        "name": "Outside Near Beams",
+        "name": "Outside, Near Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "name": "Outside Near Minecarts",
+        "name": "Outside, Near Minecarts",
         "sections": [
           {
             "name": "Scraps",
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "name": "Outside Near Platform",
+        "name": "Outside, Near Platform",
         "sections": [
           {
             "name": "Scraps",
@@ -87,7 +87,7 @@
         ]
       },
       {
-        "name": "Outside Near Crates",
+        "name": "Outside, Near Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -106,7 +106,7 @@
         ]
       },
       {
-        "name": "Inside Topmost",
+        "name": "Inside, Topmost",
         "sections": [
           {
             "name": "Scraps",
@@ -125,7 +125,7 @@
         ]
       },
       {
-        "name": "Inside After Freefall",
+        "name": "Inside, After Freefall",
         "sections": [
           {
             "name": "Scraps",
@@ -146,7 +146,7 @@
         ]
       },
       {
-        "name": "Inside Near Table",
+        "name": "Inside, Near Table",
         "sections": [
           {
             "name": "Scraps",
@@ -166,7 +166,7 @@
         ]
       },
       {
-        "name": "Inside Near Chest",
+        "name": "Inside, Near Chest",
         "sections": [
           {
             "name": "Scraps",
@@ -193,7 +193,7 @@
         ]
       },
       {
-        "name": "Inside On Rocks",
+        "name": "Inside, On Rocks",
         "sections": [
           {
             "name": "Scraps",
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "name": "Inside Near Rails 1",
+        "name": "Inside, Near Rails 1",
         "sections": [
           {
             "name": "Scraps",
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "name": "Inside Near Rails 2",
+        "name": "Inside, Near Rails 2",
         "sections": [
           {
             "name": "Scraps",
@@ -253,7 +253,7 @@
         ]
       },
       {
-        "name": "Inside Near Rails 3",
+        "name": "Inside, Near Rails 3",
         "sections": [
           {
             "name": "Scraps",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "name": "Exit End Rails",
+        "name": "Exit, End Rails",
         "sections": [
           {
             "name": "Scraps",
@@ -292,7 +292,7 @@
         ]
       },
       {
-        "name": "Exit Near Minecart",
+        "name": "Exit, Near Minecart",
         "sections": [
           {
             "name": "Scraps",

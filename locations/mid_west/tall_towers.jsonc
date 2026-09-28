@@ -1,14 +1,14 @@
 [
   {
-    "name": "Towers",
+    "name": "Tall Towers",
     "access_rules": [
       "fogbane_pack, relics_enabled",
       "relics_disabled",
-      "relics_enabled, fogbane_towers"
+      "relics_enabled, fogbane_tall_towers"
     ],
     "children": [
       {
-        "name": "Middle Under Footbridge",
+        "name": "Middle, Under Footbridge",
         "sections": [
           {
             "name": "Scraps",
@@ -20,14 +20,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 710,
             "y": 530
           }
         ]
       },
       {
-        "name": "East On Downhill Path",
+        "name": "East, On Downhill Path",
         "sections": [
           {
             "name": "Scraps",
@@ -39,14 +39,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 890,
             "y": 530
           }
         ]
       },
       {
-        "name": "East Near Beams",
+        "name": "East, Near Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -58,14 +58,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 940,
             "y": 415
           }
         ]
       },
       {
-        "name": "East Near Tree",
+        "name": "East, Near Tree",
         "sections": [
           {
             "name": "Scraps",
@@ -77,14 +77,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 940,
             "y": 530
           }
         ]
       },
       {
-        "name": "East Under Lantern",
+        "name": "East, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -96,14 +96,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 1015,
             "y": 570
           }
         ]
       },
       {
-        "name": "Southeast Near Beams",
+        "name": "Southeast, Near Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -115,14 +115,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 760,
             "y": 650
           }
         ]
       },
       {
-        "name": "Middle On Path",
+        "name": "Middle, On Path",
         "sections": [
           {
             "name": "Scraps",
@@ -134,14 +134,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 780,
             "y": 440
           }
         ]
       },
       {
-        "name": "Northeast Near Barrier",
+        "name": "Northeast, Near Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -153,14 +153,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 865,
             "y": 315
           }
         ]
       },
       {
-        "name": "North On Rocks",
+        "name": "North, On Rocks",
         "sections": [
           {
             "name": "Scraps",
@@ -172,14 +172,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 750,
             "y": 315
           }
         ]
       },
       {
-        "name": "North Near Minecart",
+        "name": "North, Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -191,14 +191,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 660,
             "y": 310
           }
         ]
       },
       {
-        "name": "North On Path",
+        "name": "North, On Path",
         "sections": [
           {
             "name": "Scraps",
@@ -210,14 +210,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 600,
             "y": 155
           }
         ]
       },
       {
-        "name": "Northwest On Rocks",
+        "name": "Northwest, On Rocks",
         "sections": [
           {
             "name": "Scraps",
@@ -229,7 +229,7 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 570,
             "y": 440
           }
@@ -262,7 +262,7 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "size": 60,
             "x": 740,
             "y": 430
@@ -290,7 +290,7 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "size": 60,
             "x": 815,
             "y": 495
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "name": "Northeast Under Lit Lantern",
+        "name": "Northeast, Under Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -310,14 +310,14 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 955,
             "y": 190
           }
         ]
       },
       {
-        "name": "Northeast Near Unlit Lantern",
+        "name": "Northeast, Near Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -329,7 +329,7 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 1010,
             "y": 60
           }
@@ -348,7 +348,7 @@
         ],
         "map_locations": [
           {
-            "map": "towers",
+            "map": "tall_towers",
             "x": 695,
             "y": 515
           }

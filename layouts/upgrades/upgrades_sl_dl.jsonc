@@ -12,9 +12,7 @@
           "item_margin": "2, 2",
           "item_h_alignment": "center",
           "item_v_alignment": "center",
-          "rows": [
-            ["speed_levels","damage_levels"]
-          ]
+          "rows": [["speed_levels", "damage_levels"]]
         }
       }
     ]
