@@ -16,8 +16,8 @@
         "map_locations": [
           {
             "map": "shrine_near_temple",
-            "x": 975,
-            "y": 325
+            "x": 1090,
+            "y": 315
           }
         ]
       },
@@ -35,8 +35,8 @@
         "map_locations": [
           {
             "map": "shrine_near_temple",
-            "x": 900,
-            "y": 460
+            "x": 1030,
+            "y": 450
           }
         ]
       },
@@ -54,8 +54,8 @@
         "map_locations": [
           {
             "map": "shrine_near_temple",
-            "x": 1075,
-            "y": 470
+            "x": 1195,
+            "y": 460
           }
         ]
       },
@@ -73,8 +73,8 @@
         "map_locations": [
           {
             "map": "shrine_near_temple",
-            "x": 680,
-            "y": 740
+            "x": 805,
+            "y": 735
           }
         ]
       }
