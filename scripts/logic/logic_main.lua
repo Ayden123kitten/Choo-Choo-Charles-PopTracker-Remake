@@ -85,7 +85,7 @@ function choo-choo_charles_location.new(name)
     end
     if string.find(self.name, "_inside") then
         self.side = "inside"
-    elseif string.find(self.name, "_outside") then
+    elseif string.find(self.name, "") then
         self.side = "outside"
     else
         self.side = nil

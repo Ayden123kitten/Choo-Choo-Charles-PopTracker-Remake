@@ -58,10 +58,10 @@
               }
             },
             {
-              "title": "South Mine Outside",
+              "title": "South Mine",
               "content": {
                 "type": "map",
-                "maps": ["south_mine_outside"]
+                "maps": ["south_mine"]
               }
             },
             {
@@ -232,10 +232,10 @@
               }
             },
             {
-              "title": "Mountain Ruin Outside",
+              "title": "Mountain Ruin",
               "content": {
                 "type": "map",
-                "maps": ["mountain_ruin_outside"]
+                "maps": ["mountain_ruin"]
               }
             },
             {
@@ -283,10 +283,10 @@
               }
             },
             {
-              "title": "North Mine Outside",
+              "title": "North Mine",
               "content": {
                 "type": "map",
-                "maps": ["north_mine_outside"]
+                "maps": ["north_mine"]
               }
             },
             {

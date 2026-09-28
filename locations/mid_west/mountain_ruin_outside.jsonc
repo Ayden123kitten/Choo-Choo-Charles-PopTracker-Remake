@@ -1,10 +1,10 @@
 [
   {
-    "name": "Mountain Ruin Outside",
+    "name": "Mountain Ruin",
     "access_rules": [
       "cursed_fogs_pack",
       "relics_disabled",
-      "relics_enabled, fogbane_mountain_ruin_outside_outside"
+      "relics_enabled, fogbane_mountain_ruin"
     ],
     "children": [
       {
@@ -14,20 +14,20 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.webp",
-            "chest_opened_img": "images/notes_disabled/note.webp"
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 1040,
             "y": 750
           }
@@ -40,13 +40,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 1020,
             "y": 670
           }
@@ -59,13 +59,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 1010,
             "y": 590
           }
@@ -78,13 +78,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 1000,
             "y": 680
           }
@@ -97,13 +97,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "shape": "trapezoid",
             "x": 865,
             "y": 655
@@ -117,13 +117,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 1050,
             "y": 600
           }
@@ -136,13 +136,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 1000,
             "y": 495
           }
@@ -155,13 +155,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 925,
             "y": 450
           }
@@ -174,13 +174,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 870,
             "y": 280
           }
@@ -193,13 +193,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 760,
             "y": 290
           }
@@ -212,13 +212,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 700,
             "y": 270
           }
@@ -231,13 +231,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 720,
             "y": 120
           }
@@ -250,13 +250,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 640,
             "y": 155
           }
@@ -269,13 +269,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 650,
             "y": 160
           }
@@ -288,13 +288,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 590,
             "y": 180
           }
@@ -307,13 +307,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 960,
             "y": 470
           }
@@ -326,13 +326,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "x": 720,
             "y": 480
           }
@@ -340,42 +340,42 @@
       },
       {
         "name": "Inside",
-        "access_rules": ["mountain_ruin_outside_key"],
+        "access_rules": ["mountain_ruin_key"],
         "sections": [
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 17
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.webp",
-            "chest_opened_img": "images/notes_disabled/note.webp",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png",
             "item_count": 2
           },
           {
             "name": "Red Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/red_paint_can.webp",
-            "chest_opened_img": "images/paint_cans_disabled/red_paint_can.webp",
+            "chest_unopened_img": "images/paint_cans/red_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/red_paint_can.png",
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Red Egg",
             "item_size": "51,64",
-            "chest_unopened_img": "images/items/red_egg.webp",
-            "chest_opened_img": "images/items_disabled/red_egg.webp"
+            "chest_unopened_img": "images/items/red_egg.png",
+            "chest_opened_img": "images/items_disabled/red_egg.png"
           }
         ],
         "map_locations": [
           {
-            "map": "mountain_ruin_outside",
+            "map": "mountain_ruin",
             "size": 75,
             "shape": "trapezoid",
             "x": 670,

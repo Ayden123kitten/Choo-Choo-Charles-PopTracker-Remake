@@ -1,49 +1,49 @@
 [
   {
-    "name": "North Mine Outside",
+    "name": "North Mine",
     "access_rules": [
       "fogbane_pack, relics_enabled",
       "relics_disabled",
-      "relics_enabled, fogbane_north_mine_outside"
+      "relics_enabled, fogbane_north_mine"
     ],
     "children": [
       {
         "name": "Inside",
-        "access_rules": ["north_mine_outside_key"],
+        "access_rules": ["north_mine_key"],
         "sections": [
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png",
             "item_count": 13
           },
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
-            "chest_unopened_img": "images/notes/note.webp",
-            "chest_opened_img": "images/notes_disabled/note.webp"
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
           },
           {
             "name": "Blue Paint Can",
             "visibility_rules": ["paint_cans_enabled"],
             "item_size": "64,63",
-            "chest_unopened_img": "images/paint_cans/blue_paint_can.webp",
-            "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.webp",
+            "chest_unopened_img": "images/paint_cans/blue_paint_can.png",
+            "chest_opened_img": "images/paint_cans_disabled/blue_paint_can.png",
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Blue Egg",
             "item_size": "51,64",
-            "chest_unopened_img": "images/items/blue_egg.webp",
-            "chest_opened_img": "images/items_disabled/blue_egg.webp"
+            "chest_unopened_img": "images/items/blue_egg.png",
+            "chest_opened_img": "images/items_disabled/blue_egg.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "size": 60,
             "shape": "trapezoid",
             "x": 610,
@@ -58,13 +58,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 880,
             "y": 755
           }
@@ -77,13 +77,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 805,
             "y": 740
           }
@@ -96,13 +96,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 610,
             "y": 575
           }
@@ -115,13 +115,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 590,
             "y": 655
           }
@@ -134,13 +134,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 500,
             "y": 600
           }
@@ -153,13 +153,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 755,
             "y": 600
           }
@@ -172,13 +172,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 715,
             "y": 460
           }
@@ -191,13 +191,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 670,
             "y": 370
           }
@@ -210,13 +210,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 760,
             "y": 300
           }
@@ -229,13 +229,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 915,
             "y": 165
           }
@@ -248,13 +248,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 790,
             "y": 200
           }
@@ -267,13 +267,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 590,
             "y": 400
           }
@@ -286,13 +286,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 710,
             "y": 320
           }
@@ -305,13 +305,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 880,
             "y": 120
           }
@@ -324,13 +324,13 @@
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
             "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.webp",
-            "chest_opened_img": "images/items_disabled/scraps.webp"
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
-            "map": "north_mine_outside",
+            "map": "north_mine",
             "x": 825,
             "y": 385
           }
