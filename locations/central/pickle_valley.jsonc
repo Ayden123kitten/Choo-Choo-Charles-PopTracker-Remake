@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 1220,
-            "y": 330
+            "x": 1350,
+            "y": 370
           }
         ]
       },
@@ -30,8 +30,8 @@
         "name": "House, On Table",
         "sections": [
           {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
+            "name": "Note",
+            "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
@@ -40,8 +40,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 1205,
-            "y": 330
+            "x": 1325,
+            "y": 385
           }
         ]
       },
@@ -59,8 +59,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 1160,
-            "y": 300
+            "x": 1275,
+            "y": 340
           }
         ]
       },
@@ -78,8 +78,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 1090,
-            "y": 215
+            "x": 1170,
+            "y": 230
           }
         ]
       },
@@ -97,8 +97,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 990,
-            "y": 230
+            "x": 1020,
+            "y": 255
           }
         ]
       },
@@ -116,8 +116,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 875,
-            "y": 210
+            "x": 865,
+            "y": 215
           }
         ]
       },
@@ -135,8 +135,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 705,
-            "y": 240
+            "x": 640,
+            "y": 255
           }
         ]
       },
@@ -154,8 +154,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 700,
-            "y": 300
+            "x": 625,
+            "y": 390
           }
         ]
       },
@@ -173,8 +173,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 560,
-            "y": 650
+            "x": 570,
+            "y": 660
           }
         ]
       },
@@ -192,8 +192,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 535,
-            "y": 790
+            "x": 390,
+            "y": 1005
           }
         ]
       },
@@ -211,8 +211,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 570,
-            "y": 520
+            "x": 440,
+            "y": 650
           }
         ]
       },
@@ -230,8 +230,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 610,
-            "y": 480
+            "x": 485,
+            "y": 575
           }
         ]
       },
@@ -249,8 +249,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 510,
-            "y": 540
+            "x": 360,
+            "y": 760
           }
         ]
       },
@@ -268,8 +268,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 540,
-            "y": 605
+            "x": 400,
+            "y": 760
           }
         ]
       },
@@ -288,8 +288,8 @@
           {
             "map": "pickle_valley",
             "shape": "trapezoid",
-            "x": 430,
-            "y": 535
+            "x": 275,
+            "y": 660
           }
         ]
       },
@@ -308,8 +308,8 @@
           {
             "map": "pickle_valley",
             "shape": "trapezoid",
-            "x": 445,
-            "y": 510
+            "x": 270,
+            "y": 640
           }
         ]
       },
@@ -328,8 +328,8 @@
           {
             "map": "pickle_valley",
             "shape": "trapezoid",
-            "x": 430,
-            "y": 500
+            "x": 275,
+            "y": 635
           }
         ]
       },
@@ -347,8 +347,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 570,
-            "y": 320
+            "x": 430,
+            "y": 370
           }
         ]
       },
@@ -366,8 +366,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 635,
-            "y": 210
+            "x": 540,
+            "y": 240
           }
         ]
       },
@@ -385,8 +385,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 660,
-            "y": 140
+            "x": 575,
+            "y": 155
           }
         ]
       },
@@ -423,8 +423,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 615,
-            "y": 340
+            "x": 515,
+            "y": 395
           }
         ]
       },
@@ -442,8 +442,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 450,
-            "y": 600
+            "x": 240,
+            "y": 705     
           }
         ]
       },
@@ -461,8 +461,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 1210,
-            "y": 330
+            "x": 1335,
+            "y": 575
           }
         ]
       },
@@ -480,8 +480,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 1195,
-            "y": 305
+            "x": 1305,
+            "y": 350
           }
         ]
       },
@@ -499,8 +499,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 495,
-            "y": 565
+            "x": 340,
+            "y": 705
           }
         ]
       },
@@ -519,8 +519,8 @@
           {
             "map": "pickle_valley",
             "shape": "trapezoid",
-            "x": 415,
-            "y": 510
+            "x": 250,
+            "y": 645
           }
         ]
       },
@@ -538,8 +538,8 @@
         "map_locations": [
           {
             "map": "pickle_valley",
-            "x": 1185,
-            "y": 290
+            "x": 1300,
+            "y": 325
           }
         ]
       }
