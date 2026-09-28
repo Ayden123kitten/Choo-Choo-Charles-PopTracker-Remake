@@ -21,17 +21,17 @@
         "map_locations": [
           {
             "map": "port",
-            "x": 1110,
-            "y": 410
+            "x": 1440,
+            "y": 490
           }
         ]
       },
       {
-        "name": "Grey Paint Can",
+        "name": "Docks, Sheltered, On Shelf",
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
-            "name": "Docks, Sheltered, On Shelf",
+            "name": "Grey Paint Can",
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/grey_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/grey_paint_can.png"
