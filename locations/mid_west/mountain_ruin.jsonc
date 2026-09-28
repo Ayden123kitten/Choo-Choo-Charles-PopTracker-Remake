@@ -8,7 +8,7 @@
     ],
     "children": [
       {
-        "name": "Bottom Sheltered",
+        "name": "Bottom, Sheltered",
         "sections": [
           {
             "name": "Scraps",
@@ -19,7 +19,7 @@
           },
           {
             "name": "Note",
-            "mountain_ruin_outsidevisibility_rules": ["notes_enabled"],
+            "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
@@ -34,7 +34,7 @@
         ]
       },
       {
-        "name": "Bottom Near Minecarts",
+        "name": "Bottom, Near Minecarts",
         "sections": [
           {
             "name": "Scraps",
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "name": "Bottom Near Tents 1",
+        "name": "Bottom, Near Tents 1",
         "sections": [
           {
             "name": "Scraps",
@@ -72,7 +72,7 @@
         ]
       },
       {
-        "name": "Bottom Near Crates",
+        "name": "Bottom, Near Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "name": "Bottom Collapsed Mines",
+        "name": "Bottom, Collapsed Mines",
         "sections": [
           {
             "name": "Scraps",
@@ -111,7 +111,7 @@
         ]
       },
       {
-        "name": "Bottom Near Tents 2",
+        "name": "Bottom, Near Tents 2",
         "sections": [
           {
             "name": "Scraps",
@@ -130,7 +130,7 @@
         ]
       },
       {
-        "name": "Bottom Under Lantern",
+        "name": "Bottom, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -149,7 +149,7 @@
         ]
       },
       {
-        "name": "Downhill Path On Rocks 1",
+        "name": "Downhill Path, On Rocks 1",
         "sections": [
           {
             "name": "Scraps",
@@ -168,7 +168,7 @@
         ]
       },
       {
-        "name": "Downhill Path Near Barrier",
+        "name": "Downhill Path, Near Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "name": "Pillars Near Minecart",
+        "name": "Pillars, Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -206,7 +206,7 @@
         ]
       },
       {
-        "name": "Pillars Near Crate",
+        "name": "Pillars, Near Crate",
         "sections": [
           {
             "name": "Scraps",
@@ -225,7 +225,7 @@
         ]
       },
       {
-        "name": "Pillars Near Dirt Heaps",
+        "name": "Pillars, Near Dirt Heaps",
         "sections": [
           {
             "name": "Scraps",
@@ -244,7 +244,7 @@
         ]
       },
       {
-        "name": "Pillars Near Tents 2",
+        "name": "Pillars, Near Tents 2",
         "sections": [
           {
             "name": "Scraps",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "name": "Pillars Near Tents 1",
+        "name": "Pillars, Near Tents 1",
         "sections": [
           {
             "name": "Scraps",
@@ -282,7 +282,7 @@
         ]
       },
       {
-        "name": "Pillars Behind Tent",
+        "name": "Pillars, Behind Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -301,7 +301,7 @@
         ]
       },
       {
-        "name": "Downhill Path On Rocks 2",
+        "name": "Downhill Path, On Rocks 2",
         "sections": [
           {
             "name": "Scraps",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "name": "Topmost On Rocks",
+        "name": "Topmost, On Rocks",
         "sections": [
           {
             "name": "Scraps",

@@ -8,7 +8,7 @@
     ],
     "children": [
       {
-        "name": "House Near Platform",
+        "name": "House, Near Platform",
         "sections": [
           {
             "name": "Scraps",
@@ -27,12 +27,11 @@
         ]
       },
       {
-        "name": "House On Table",
+        "name": "House, On Table",
         "sections": [
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
-            "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
@@ -47,7 +46,7 @@
         ]
       },
       {
-        "name": "House Near Water Tank",
+        "name": "House, Near Water Tank",
         "sections": [
           {
             "name": "Scraps",
@@ -66,7 +65,7 @@
         ]
       },
       {
-        "name": "Main Path Under Unlit Lantern",
+        "name": "Main Path, Under Unlit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -85,7 +84,7 @@
         ]
       },
       {
-        "name": "Main Path On Rocks",
+        "name": "Main Path, On Rocks",
         "sections": [
           {
             "name": "Scraps",
@@ -104,7 +103,7 @@
         ]
       },
       {
-        "name": "Main Path Under Lit Lantern",
+        "name": "Main Path, Under Lit Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -123,7 +122,7 @@
         ]
       },
       {
-        "name": "Main Path Behind Barrier",
+        "name": "Main Path, Behind Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -142,7 +141,7 @@
         ]
       },
       {
-        "name": "Rising Slope Path Intersection",
+        "name": "Rising Slope Path, Intersection",
         "sections": [
           {
             "name": "Scraps",
@@ -161,7 +160,7 @@
         ]
       },
       {
-        "name": "Rising Slope Path Under Sign",
+        "name": "Rising Slope Path, Under Sign",
         "sections": [
           {
             "name": "Scraps",
@@ -180,7 +179,7 @@
         ]
       },
       {
-        "name": "Cross-Valley Path Near Two Signs",
+        "name": "Cross-Valley Path, Near Two Signs",
         "sections": [
           {
             "name": "Scraps",
@@ -199,7 +198,7 @@
         ]
       },
       {
-        "name": "Cross-Valley Path Near Tent",
+        "name": "Cross-Valley Path, Near Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -218,7 +217,7 @@
         ]
       },
       {
-        "name": "Cross-Valley Path Unstacked Crates",
+        "name": "Cross-Valley, Path Unstacked Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -237,7 +236,7 @@
         ]
       },
       {
-        "name": "Main Path Under High Tree",
+        "name": "Main Path, Under High Tree",
         "sections": [
           {
             "name": "Scraps",
@@ -256,7 +255,7 @@
         ]
       },
       {
-        "name": "Main Path Near Beams",
+        "name": "Main Path, Near Beams",
         "sections": [
           {
             "name": "Scraps",
@@ -275,7 +274,7 @@
         ]
       },
       {
-        "name": "Cave Near Crates",
+        "name": "Cave, Near Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -295,7 +294,7 @@
         ]
       },
       {
-        "name": "Cave Near Table",
+        "name": "Cave, Near Table",
         "sections": [
           {
             "name": "Scraps",
@@ -315,12 +314,11 @@
         ]
       },
       {
-        "name": "Cave On Table",
+        "name": "Cave, On Table",
         "sections": [
           {
             "name": "Scraps",
             "visibility_rules": ["scraps_enabled"],
-            "visibility_rules": ["notes_enabled"],
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
@@ -336,7 +334,7 @@
         ]
       },
       {
-        "name": "Cross-Valley Path Near Small Tree",
+        "name": "Cross-Valley Path, Near Small Tree",
         "sections": [
           {
             "name": "Scraps",
@@ -355,7 +353,7 @@
         ]
       },
       {
-        "name": "Lower Hollow Path Near Explosives",
+        "name": "Lower Hollow Path, Near Explosives",
         "sections": [
           {
             "name": "Scraps",
@@ -374,7 +372,7 @@
         ]
       },
       {
-        "name": "Lower Hollow Path Near Lantern",
+        "name": "Lower Hollow Path, Near Lantern",
         "sections": [
           {
             "name": "Scraps",
@@ -393,7 +391,7 @@
         ]
       },
       {
-        "name": "Cross-Valley Path Under Sign",
+        "name": "Cross-Valley Path, Under Sign",
         "sections": [
           {
             "name": "Scraps",
@@ -412,7 +410,7 @@
         ]
       },
       {
-        "name": "Main Path Near Crossroads Crates",
+        "name": "Main Path, Near Crossroads Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -431,7 +429,7 @@
         ]
       },
       {
-        "name": "Height Above Pickle Cave",
+        "name": "Height, Above Pickle Cave",
         "sections": [
           {
             "name": "Scraps",
@@ -450,7 +448,7 @@
         ]
       },
       {
-        "name": "House Inside Near Table",
+        "name": "House, Inside, Near Table",
         "sections": [
           {
             "name": "Scraps",
@@ -469,7 +467,7 @@
         ]
       },
       {
-        "name": "House Inside Near Beds",
+        "name": "House, Inside, Near Beds",
         "sections": [
           {
             "name": "Scraps",
@@ -488,10 +486,11 @@
         ]
       },
       {
-        "name": "Purple Paint Can",
+        "name": "In Tent",
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
+            "name": "Purple Paint Can",
             "item_size": "64,63",
             "chest_unopened_img": "images/paint_cans/purple_paint_can.png",
             "chest_opened_img": "images/paint_cans_disabled/purple_paint_can.png"
@@ -506,9 +505,10 @@
         ]
       },
       {
-        "name": "Jar of Pickles",
+        "name": "Cave, In Chest",
         "sections": [
           {
+            "name": "Jar of Pickles",
             "access_rules": ["lockpicks"],
             "item_size": "46,64",
             "chest_unopened_img": "images/items/jar_of_pickles.png",

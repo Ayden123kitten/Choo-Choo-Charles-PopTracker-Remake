@@ -30,7 +30,7 @@
         ]
       },
       {
-        "name": "Inside Near Morse Note",
+        "name": "Inside, Near Morse Note",
         "sections": [
           {
             "name": "Scraps",
@@ -50,7 +50,7 @@
         ]
       },
       {
-        "name": "Inside On Table",
+        "name": "Inside, On Table",
         "sections": [
           {
             "name": "Note",
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "name": "Inside Near Minecart",
+        "name": "Inside, Near Minecart",
         "sections": [
           {
             "name": "Scraps",
@@ -90,7 +90,7 @@
         ]
       },
       {
-        "name": "Near Short Barriers",
+        "name": "Outside, Near Short Barriers",
         "sections": [
           {
             "name": "Scraps",
@@ -109,7 +109,7 @@
         ]
       },
       {
-        "name": "Under Tree",
+        "name": "Outside, Under Tree",
         "sections": [
           {
             "name": "Scraps",
@@ -128,7 +128,7 @@
         ]
       },
       {
-        "name": "Above Doors",
+        "name": "Outside, Above Doors",
         "sections": [
           {
             "name": "Scraps",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "name": "Downhill Path At Dead End",
+        "name": "Outside, On Downhill Path, At Dead-End",
         "sections": [
           {
             "name": "Scraps",
@@ -166,7 +166,7 @@
         ]
       },
       {
-        "name": "Main Path",
+        "name": "Outside, On Main Path",
         "sections": [
           {
             "name": "Scraps",
@@ -185,7 +185,7 @@
         ]
       },
       {
-        "name": "Near Long Barrier",
+        "name": "Outside, Near Long Barrier",
         "sections": [
           {
             "name": "Scraps",
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "name": "At Crossroads",
+        "name": "Outside, At Crossroads",
         "sections": [
           {
             "name": "Scraps",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "name": "Downhill Path Bottom",
+        "name": "Outside, On Downhill Path, Bottom",
         "sections": [
           {
             "name": "Scraps",
@@ -242,7 +242,7 @@
         ]
       },
       {
-        "name": "Downhill Path Top",
+        "name": "Outside, On Downhill Path, Top",
         "sections": [
           {
             "name": "Scraps",
@@ -261,7 +261,7 @@
         ]
       },
       {
-        "name": "On Rocks",
+        "name": "Outside, On Rocks",
         "sections": [
           {
             "name": "Scraps",
@@ -280,7 +280,7 @@
         ]
       },
       {
-        "name": "Under Lantern",
+        "name": "Outside, Under Lantern",
         "sections": [
           {
             "name": "Scraps",
