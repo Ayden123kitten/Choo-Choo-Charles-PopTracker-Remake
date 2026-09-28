@@ -3,10 +3,10 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "Full map",
+        "title": "Full Map",
         "content": {
           "type": "map",
-          "maps": ["aranearum"]
+          "maps": ["aranearum_no_notes"]
         }
       },
       {

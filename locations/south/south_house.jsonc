@@ -194,8 +194,8 @@
         "map_locations": [
           {
             "map": "south_house",
-            "x": 505,
-            "y": 505
+            "x": 690,
+            "y": 620
           }
         ]
       },
@@ -213,8 +213,8 @@
         "map_locations": [
           {
             "map": "south_house",
-            "x": 690,
-            "y": 620
+            "x": 760,
+            "y": 840
           }
         ]
       },

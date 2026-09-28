@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 690,
-            "y": 330
+            "x": 900,
+            "y": 450
           }
         ]
       },
@@ -40,8 +40,8 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 600,
-            "y": 400
+            "x": 760,
+            "y": 495
           }
         ]
       },
@@ -59,8 +59,8 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 670,
-            "y": 270
+            "x": 865,
+            "y": 320
           }
         ]
       },
@@ -78,8 +78,8 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 665,
-            "y": 250
+            "x": 850,
+            "y": 330
           }
         ]
       },
@@ -97,8 +97,8 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 745,
-            "y": 340
+            "x": 935,
+            "y": 400
           }
         ]
       },
@@ -116,8 +116,8 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 640,
-            "y": 165
+            "x": 815,
+            "y": 185
           }
         ]
       },
@@ -135,7 +135,7 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 865,
+            "x": 1120,
             "y": 120
           }
         ]
@@ -154,8 +154,8 @@
         "map_locations": [
           {
             "map": "haunted_house",
-            "x": 955,
-            "y": 120
+            "x": 1245,
+            "y": 115
           }
         ]
       }

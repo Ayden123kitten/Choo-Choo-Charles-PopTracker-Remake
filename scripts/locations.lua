@@ -1,4 +1,4 @@
-Tracker:AddLocations("locations/worldmap.jsonc")
+Tracker:AddLocations("locations/worldmap_no_notes.jsonc")
 
 -- South
 Tracker:AddLocations("locations/south/barn.jsonc")
