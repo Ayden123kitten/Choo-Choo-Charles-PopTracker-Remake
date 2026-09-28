@@ -96,6 +96,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "south_mine",
             "x": 595,
             "y": 265
@@ -141,6 +142,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "south_mine",
             "x": 1115,
             "y": 60
@@ -187,7 +189,7 @@
             "shape": "trapezoid",
             "size": 80,
             "x": 540,
-            "y": 825
+            "y": 800
           }
         ]
       }

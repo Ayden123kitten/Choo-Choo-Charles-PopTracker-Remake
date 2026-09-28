@@ -630,6 +630,7 @@
         ],
         "map_locations": [
           {
+            "shape": "trapezoid",
             "map": "swamp",
             "x": 910,
             "y": 900

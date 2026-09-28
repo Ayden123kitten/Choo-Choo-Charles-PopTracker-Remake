@@ -45,6 +45,7 @@
         ],
         "map_locations": [
           {
+            "shape": "rect",
             "map": "barn",
             "x": 490,
             "y": 775

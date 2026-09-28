@@ -26,6 +26,7 @@
         ],
         "map_locations": [
           {
+            "shape": "trapezoid",
             "map": "junkyard_area",
             "x": 1400,
             "y": 330
@@ -45,6 +46,7 @@
         ],
         "map_locations": [
           {
+            "shape": "trapezoid",
             "map": "junkyard_area",
             "x": 1470,
             "y": 250
@@ -64,6 +66,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "junkyard_area",
             "x": 1535,
             "y": 330
@@ -83,6 +86,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "junkyard_area",
             "x": 1100,
             "y": 265
@@ -102,6 +106,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "junkyard_area",
             "x": 1070,
             "y": 420
@@ -121,6 +126,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "junkyard_area",
             "x": 1175,
             "y": 515

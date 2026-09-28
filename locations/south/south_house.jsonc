@@ -22,6 +22,7 @@
         ],
         "map_locations": [
           {
+            "shape": "trapezoid",
             "map": "south_house",
             "x": 790,
             "y": 810
@@ -41,6 +42,7 @@
         ],
         "map_locations": [
           {
+            "shape": "trapezoid",
             "map": "south_house",
             "x": 765,
             "y": 780
@@ -155,6 +157,7 @@
         ],
         "map_locations": [
           {
+            "shape": "trapezoid",
             "map": "south_house",
             "x": 790,
             "y": 780
@@ -174,6 +177,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "south_house",
             "x": 780,
             "y": 830

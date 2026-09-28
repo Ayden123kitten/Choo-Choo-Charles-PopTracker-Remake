@@ -20,6 +20,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "haunted_house",
             "x": 900,
             "y": 450
@@ -58,6 +59,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "haunted_house",
             "x": 865,
             "y": 320

@@ -171,6 +171,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "canyon",
             "x": 865,
             "y": 695

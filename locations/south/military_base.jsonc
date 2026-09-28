@@ -133,6 +133,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "military_base",
             "x": 1130,
             "y": 430
@@ -152,6 +153,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "military_base",
             "x": 1160,
             "y": 385
@@ -228,6 +230,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "military_base",
             "x": 980,
             "y": 715

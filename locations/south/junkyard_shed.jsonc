@@ -57,6 +57,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "junkyard_shed",
             "x": 860,
             "y": 870
@@ -64,7 +65,7 @@
         ]
       },
       {
-        "name": "Sheltered On Table",
+        "name": "Sheltered, On Table",
         "sections": [
           {
             "name": "Scraps",
@@ -76,6 +77,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "junkyard_shed",
             "x": 830,
             "y": 735
@@ -83,7 +85,7 @@
         ]
       },
       {
-        "name": "Sheltered Near Crates",
+        "name": "Sheltered, Near Crates",
         "sections": [
           {
             "name": "Scraps",
@@ -95,6 +97,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "junkyard_shed",
             "x": 860,
             "y": 710

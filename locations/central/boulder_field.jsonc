@@ -273,6 +273,7 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "boulder_field",
             "x": 1000,
             "y": 755
