@@ -183,24 +183,24 @@ local scraps = Tracker:FindObjectForCode("scraps_toggle")
 local paint = Tracker:FindObjectForCode("paint_cans_toggle")
 local notes = Tracker:FindObjectForCode("notes_toggle")
 if scraps.CurrentStage == 0 then
-        Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
         Tracker:AddLayouts("layouts/maps/maps_no_scraps.jsonc")
+        Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
     elseif notes.CurrentStage == 0 then
-        Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
         Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc")
-    elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 then
-        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
-        Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps.jsonc")
-    elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
+    elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps.jsonc")
+        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
+    elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps_or_notes.jsonc")
+        Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
     elseif scraps.CurrentStage == 0 and notes.CurrentStage == 0 then
-        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
         Tracker:AddLayouts("layouts/maps/maps_no_notes_or_scraps.jsonc")
-    elseif scraps.CurrentStage == 1 and notes.CurrentStage == 1 and paint.CurrentStage == 1 then
         Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
+    elseif scraps.CurrentStage == 1 and notes.CurrentStage == 1 and paint.CurrentStage == 1 then
         Tracker:AddLayouts("layouts/maps/maps.jsonc")
-    end
+       Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
+     end
 end
 
 ScriptHost:AddWatchForCode("fogbane relic layout handler", "cursed_fogs_toggle", OnChangeFogbaneRelic)

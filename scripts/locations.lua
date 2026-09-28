@@ -1,5 +1,5 @@
 Tracker:AddLocations("locations/worldmap_no_notes.jsonc")
-
+Tracker:AddLocations("locations/worldmap.jsonc")
 -- South
 Tracker:AddLocations("locations/south/barn.jsonc")
 Tracker:AddLocations("locations/south/candice_s_house.jsonc")
