@@ -1,4 +1,3 @@
--- Main
 Tracker:AddLocations("locations/worldmap_no_notes.jsonc")
 
 -- South
