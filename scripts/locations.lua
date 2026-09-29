@@ -1,21 +1,23 @@
-Tracker:AddLocations("locations/worldmap_no_notes.jsonc")
+-- Main
 Tracker:AddLocations("locations/worldmap.jsonc")
+Tracker:AddLocations("locations/worldmap_no_notes.jsonc")
+
 -- South
 Tracker:AddLocations("locations/south/barn.jsonc")
 Tracker:AddLocations("locations/south/candice_s_house.jsonc")
-Tracker:AddLocations("locations/south/start_dock.jsonc")
-Tracker:AddLocations("locations/south/start_station.jsonc")
-Tracker:AddLocations("locations/south/start_camp.jsonc")
-Tracker:AddLocations("locations/south/swamp.jsonc")
 Tracker:AddLocations("locations/south/junkyard_area.jsonc")
 Tracker:AddLocations("locations/south/junkyard_shed.jsonc")
-Tracker:AddLocations("locations/south/south_house.jsonc")
 Tracker:AddLocations("locations/south/military_base.jsonc")
+Tracker:AddLocations("locations/south/start_camp.jsonc")
+Tracker:AddLocations("locations/south/start_dock.jsonc")
+Tracker:AddLocations("locations/south/start_station.jsonc")
+Tracker:AddLocations("locations/south/south_house.jsonc")
 Tracker:AddLocations("locations/south/south_mine.jsonc")
+Tracker:AddLocations("locations/south/swamp.jsonc")
 
 -- Central
-Tracker:AddLocations("locations/central/middle_station.jsonc")
 Tracker:AddLocations("locations/central/canyon.jsonc")
+Tracker:AddLocations("locations/central/middle_station.jsonc")
 Tracker:AddLocations("locations/central/watchtower.jsonc")
 Tracker:AddLocations("locations/central/boulder_field.jsonc")
 Tracker:AddLocations("locations/central/haunted_house.jsonc")

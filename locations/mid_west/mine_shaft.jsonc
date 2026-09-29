@@ -24,8 +24,8 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 670,
-            "y": 460
+            "x": 1150,
+            "y": 390
           }
         ]
       },
@@ -43,8 +43,8 @@
         "map_locations": [
           {
             "map": "mine_shaft",
-            "x": 600,
-            "y": 715
+            "x": 775,
+            "y": 970
           }
         ]
       },
@@ -62,8 +62,8 @@
         "map_locations": [
           {
             "map": "mine_shaft",
-            "x": 485,
-            "y": 690
+            "x": 645,
+            "y": 925
           }
         ]
       },
@@ -81,8 +81,8 @@
         "map_locations": [
           {
             "map": "mine_shaft",
-            "x": 670,
-            "y": 590
+            "x": 880,
+            "y": 800
           }
         ]
       },
@@ -100,8 +100,8 @@
         "map_locations": [
           {
             "map": "mine_shaft",
-            "x": 485,
-            "y": 610
+            "x": 650,
+            "y": 825
           }
         ]
       },
@@ -118,9 +118,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "mine_shaft",
-            "x": 565,
-            "y": 660
+            "x": 725,
+            "y": 880
           }
         ]
       },
@@ -140,8 +141,8 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 585,
-            "y": 560
+            "x": 755,
+            "y": 750
           }
         ]
       },
@@ -160,8 +161,8 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 520,
-            "y": 455
+            "x": 685,
+            "y": 645
           }
         ]
       },
@@ -174,7 +175,20 @@
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
-          },
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 825,
+            "y": 640
+          }
+        ]
+      },
+      {
+        "name": "Inside, On Table",
+        "sections": [
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
@@ -187,8 +201,8 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 615,
-            "y": 460
+            "x": 815,
+            "y": 650
           }
         ]
       },
@@ -207,13 +221,13 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 700,
-            "y": 410
+            "x": 855,
+            "y": 560
           }
         ]
       },
       {
-        "name": "Inside, Near Rails 1",
+        "name": "Inside, Near Rails, Bottom",
         "sections": [
           {
             "name": "Scraps",
@@ -227,13 +241,13 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 950,
-            "y": 225
+            "x": 1240,
+            "y": 320
           }
         ]
       },
       {
-        "name": "Inside, Near Rails 2",
+        "name": "Inside, Near Rails, Middle",
         "sections": [
           {
             "name": "Scraps",
@@ -247,13 +261,13 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 1050,
-            "y": 195
+            "x": 1380,
+            "y": 265
           }
         ]
       },
       {
-        "name": "Inside, Near Rails 3",
+        "name": "Exit Near Rails",
         "sections": [
           {
             "name": "Scraps",
@@ -267,8 +281,8 @@
           {
             "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 1090,
-            "y": 170
+            "x": 1430,
+            "y": 245
           }
         ]
       },
@@ -286,8 +300,8 @@
         "map_locations": [
           {
             "map": "mine_shaft",
-            "x": 1150,
-            "y": 130
+            "x": 1455,
+            "y": 195
           }
         ]
       },
@@ -305,8 +319,8 @@
         "map_locations": [
           {
             "map": "mine_shaft",
-            "x": 1185,
-            "y": 65
+            "x": 1505,
+            "y": 135
           }
         ]
       }

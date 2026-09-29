@@ -23,8 +23,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 705,
-            "y": 150
+            "x": 885,
+            "y": 210
           }
         ]
       },
@@ -44,8 +44,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 665,
-            "y": 125
+            "x": 830,
+            "y": 180
           }
         ]
       },
@@ -64,8 +64,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 700,
-            "y": 125
+            "x": 885,
+            "y": 180
           }
         ]
       },
@@ -83,8 +83,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 945,
-            "y": 695
+            "x": 1185,
+            "y": 900
           }
         ]
       },
@@ -102,8 +102,8 @@
         "map_locations": [
           {
             "map": "mob_camp",
-            "x": 1100,
-            "y": 730
+            "x": 1380,
+            "y": 940
           }
         ]
       },
@@ -122,8 +122,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 970,
-            "y": 740
+            "x": 1225,
+            "y": 965
           }
         ]
       },
@@ -141,8 +141,8 @@
         "map_locations": [
           {
             "map": "mob_camp",
-            "x": 880,
-            "y": 705
+            "x": 1110,
+            "y": 910
           }
         ]
       },
@@ -161,8 +161,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 715,
-            "y": 520
+            "x": 905,
+            "y": 680
           }
         ]
       },
@@ -181,8 +181,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 710,
-            "y": 525
+            "x": 920,
+            "y": 660
           }
         ]
       },
@@ -200,13 +200,13 @@
         "map_locations": [
           {
             "map": "mob_camp",
-            "x": 680,
-            "y": 510
+            "x": 860,
+            "y": 660
           }
         ]
       },
       {
-        "name": "Mask Tower, Sheltered 1",
+        "name": "Mask Tower, Sheltered, Left",
         "sections": [
           {
             "name": "Scraps",
@@ -226,7 +226,7 @@
         ]
       },
       {
-        "name": "Mask Tower, Sheltered 2",
+        "name": "Mask Tower, Sheltered, Right",
         "sections": [
           {
             "name": "Scraps",
