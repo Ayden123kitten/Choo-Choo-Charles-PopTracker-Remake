@@ -128,12 +128,11 @@ function onClear(slot_data)
 	PLAYER_ID = Archipelago.PlayerNumber or -1
 	if PLAYER_ID > -1 then
 		local version_name = Archipelago:GetPlayerGame(PLAYER_ID)
-        	if version_name == "Choo-Choo Charles" then
-            	Tracker:FindObjectForCode("selected_game").CurrentStage = 1
-        	elseif version_name == "Choo-Choo Charles - Enhanced" then
-            	Tracker:FindObjectForCode("selected_game").CurrentStage = 0
-        	end
-		end
+        if version_name == "Choo-Choo Charles" then
+            Tracker:FindObjectForCode("selected_game").CurrentStage = 1
+        elseif version_name == "Choo-Choo Charles - Enhanced" then
+            Tracker:FindObjectForCode("selected_game").CurrentStage = 0
+        end
 	end
 	-- use bulk update to pause logic updates until we are done resetting all items/locations
 	Tracker.BulkUpdate = true
