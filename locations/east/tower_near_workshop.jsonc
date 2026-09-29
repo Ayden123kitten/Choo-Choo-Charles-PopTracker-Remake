@@ -19,9 +19,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "tower_near_workshop",
-            "x": 750,
-            "y": 430
+            "x": 970,
+            "y": 535
           }
         ]
       },
@@ -39,8 +40,8 @@
         "map_locations": [
           {
             "map": "tower_near_workshop",
-            "x": 650,
-            "y": 390
+            "x": 840,
+            "y": 490
           }
         ]
       },
@@ -58,8 +59,8 @@
         "map_locations": [
           {
             "map": "tower_near_workshop",
-            "x": 760,
-            "y": 500
+            "x": 970,
+            "y": 630
           }
         ]
       },
@@ -77,8 +78,8 @@
         "map_locations": [
           {
             "map": "tower_near_workshop",
-            "x": 1020,
-            "y": 410
+            "x": 1290,
+            "y": 520
           }
         ]
       },
@@ -96,8 +97,8 @@
         "map_locations": [
           {
             "map": "tower_near_workshop",
-            "x": 860,
-            "y": 250
+            "x": 1100,
+            "y": 325
           }
         ]
       },
@@ -115,8 +116,8 @@
         "map_locations": [
           {
             "map": "tower_near_workshop",
-            "x": 780,
-            "y": 480
+            "x": 1000,
+            "y": 615
           }
         ]
       },
@@ -134,9 +135,9 @@
         "map_locations": [
           {
             "map": "tower_near_workshop",
-            "shape": "trapezoid",
-            "x": 735,
-            "y": 425
+            "shape": "diamond",
+            "x": 940,
+            "y": 535
           }
         ]
       },
@@ -154,9 +155,9 @@
         "map_locations": [
           {
             "map": "tower_near_workshop",
-            "shape": "trapezoid",
-            "x": 730,
-            "y": 425
+            "shape": "diamond",
+            "x": 975,
+            "y": 535
           }
         ]
       }

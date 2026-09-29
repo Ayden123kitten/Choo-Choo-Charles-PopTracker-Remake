@@ -23,7 +23,8 @@
                 "speed_toggle",
                 "damage_toggle",
                 "armor_toggle",
-                "notes_toggle"
+                "notes_toggle",
+                "core_toggle"
               ]
             ]
           }

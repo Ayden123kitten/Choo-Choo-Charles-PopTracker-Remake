@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 940,
-            "y": 550
+            "x": 1200,
+            "y": 690
           }
         ]
       },
@@ -40,8 +40,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 840,
-            "y": 540
+            "x": 1075,
+            "y": 690
           }
         ]
       },
@@ -59,8 +59,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 915,
-            "y": 450
+            "x": 1175,
+            "y": 575
           }
         ]
       },
@@ -77,9 +77,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "mine_elevator_exit",
-            "x": 810,
-            "y": 520
+            "x": 1040,
+            "y": 660
           }
         ]
       },
@@ -97,8 +98,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 725,
-            "y": 420
+            "x": 945,
+            "y": 540
           }
         ]
       },
@@ -116,8 +117,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 675,
-            "y": 355
+            "x": 865,
+            "y": 455
           }
         ]
       },
@@ -135,8 +136,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 575,
-            "y": 380
+            "x": 750,
+            "y": 500
           }
         ]
       },
@@ -154,8 +155,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 730,
-            "y": 600
+            "x": 940,
+            "y": 755
           }
         ]
       },
@@ -173,8 +174,8 @@
         "map_locations": [
           {
             "map": "mine_elevator_exit",
-            "x": 885,
-            "y": 235
+            "x": 1135,
+            "y": 310
           }
         ]
       }

@@ -2,7 +2,6 @@
   {
     "name": "Fogbane Relics",
     "type": "progressive",
-
     "allow_disabled": false,
     "stages": [
       {
@@ -25,7 +24,6 @@
   {
     "name": "Scraps",
     "type": "progressive",
-
     "initial_stage_idx": 1,
     "allow_disabled": false,
     "stages": [
@@ -43,7 +41,6 @@
   },
   {
     "name": "Notes",
-
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -61,7 +58,6 @@
   },
   {
     "name": "Paint Cans",
-
     "type": "progressive",
     "initial_stage_idx": 1,
     "allow_disabled": false,
@@ -80,7 +76,6 @@
   },
   {
     "name": "Track Switches",
-
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -104,7 +99,6 @@
   {
     "name": "Weapons",
     "type": "progressive",
-
     "allow_disabled": false,
     "stages": [
       {
@@ -121,7 +115,6 @@
   },
   {
     "name": "Armor",
-
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -144,7 +137,6 @@
   },
   {
     "name": "Damage",
-
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -167,7 +159,6 @@
   },
   {
     "name": "Speed",
-
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
@@ -185,6 +176,23 @@
         "img": "images/toggles/speed_levels.png",
         "inherit_codes": false,
         "codes": "speed_levels_toggle, speed_toggle"
+      }
+    ]
+  },
+  {
+    "name": "Core",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/toggles/core_disabled.png",
+        "inherit_codes": false,
+        "codes": "core_disabled_toggle, core_toggle"
+      },
+      {
+        "img": "images/toggles/core_enabled.png",
+        "inherit_codes": false,
+        "codes": "core_enabled_toggle, core_toggle"
       }
     ]
   }

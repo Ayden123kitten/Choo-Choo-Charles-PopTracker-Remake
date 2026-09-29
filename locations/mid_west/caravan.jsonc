@@ -16,8 +16,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 400,
-            "y": 200
+            "x": 455,
+            "y": 170
           }
         ]
       },
@@ -35,8 +35,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 575,
-            "y": 265
+            "x": 665,
+            "y": 255
           }
         ]
       },
@@ -54,8 +54,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 725,
-            "y": 345
+            "x": 855,
+            "y": 355
           }
         ]
       },
@@ -73,8 +73,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 900,
-            "y": 355
+            "x": 1075,
+            "y": 375
           }
         ]
       },
@@ -92,8 +92,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 1040,
-            "y": 455
+            "x": 1255,
+            "y": 490
           }
         ]
       },
@@ -111,8 +111,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 1135,
-            "y": 645
+            "x": 1370,
+            "y": 730
           }
         ]
       },
@@ -129,9 +129,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "caravan",
-            "x": 1180,
-            "y": 600
+            "x": 1430,
+            "y": 675
           }
         ]
       },
@@ -148,9 +149,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "caravan",
-            "x": 1200,
-            "y": 625
+            "x": 1455,
+            "y": 705
           }
         ]
       },
@@ -168,8 +170,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 1195,
-            "y": 575
+            "x": 1440,
+            "y": 645
           }
         ]
       },
@@ -197,8 +199,8 @@
         "map_locations": [
           {
             "map": "caravan",
-            "x": 1180,
-            "y": 640
+            "x": 1420,
+            "y": 725
           }
         ]
       }

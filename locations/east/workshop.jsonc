@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "workshop",
-            "x": 785,
-            "y": 585
+            "x": 995,
+            "y": 720
           }
         ]
       },
@@ -39,9 +39,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "workshop",
-            "x": 800,
-            "y": 330
+            "x": 1020,
+            "y": 410
           }
         ]
       },
@@ -59,8 +60,8 @@
         "map_locations": [
           {
             "map": "workshop",
-            "x": 600,
-            "y": 145
+            "x": 765,
+            "y": 185
           }
         ]
       },
@@ -78,8 +79,8 @@
         "map_locations": [
           {
             "map": "workshop",
-            "x": 645,
-            "y": 450
+            "x": 815,
+            "y": 550
           }
         ]
       },
@@ -97,8 +98,8 @@
         "map_locations": [
           {
             "map": "workshop",
-            "x": 535,
-            "y": 390
+            "x": 675,
+            "y": 480
           }
         ]
       },
@@ -111,7 +112,20 @@
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
-          },
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "shape": "trapezoid",
+            "x": 875,
+            "y": 565
+          }
+        ]
+      },
+      {
+        "name": "Near Beds",
+        "sections": [
           {
             "name": "Note",
             "visibility_rules": ["notes_enabled"],
@@ -124,8 +138,8 @@
           {
             "map": "workshop",
             "shape": "trapezoid",
-            "x": 700,
-            "y": 460
+            "x": 865,
+            "y": 555
           }
         ]
       },
@@ -143,8 +157,8 @@
         "map_locations": [
           {
             "map": "workshop",
-            "x": 735,
-            "y": 395
+            "x": 940,
+            "y": 485
           }
         ]
       }
