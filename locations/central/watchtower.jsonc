@@ -240,8 +240,8 @@
         "map_locations": [
           {
             "map": "watchtower",
-            "x": 1265,
-            "y": 925
+            "x": 1255,
+            "y": 550
           }
         ]
       }

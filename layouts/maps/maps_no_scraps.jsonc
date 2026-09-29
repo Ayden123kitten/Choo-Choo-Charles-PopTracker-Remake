@@ -123,6 +123,13 @@
               }
             },
             {
+              "title": "Middle Station",
+              "content": {
+                "type": "map",
+                "maps": ["middle_station"]
+              }
+            },
+            {
               "title": "Pickle Valley",
               "content": {
                 "type": "map",
@@ -148,13 +155,6 @@
               "content": {
                 "type": "map",
                 "maps": ["shrine_near_temple"]
-              }
-            },
-            {
-              "title": "Middle Station",
-              "content": {
-                "type": "map",
-                "maps": ["middle_station"]
               }
             },
             {
