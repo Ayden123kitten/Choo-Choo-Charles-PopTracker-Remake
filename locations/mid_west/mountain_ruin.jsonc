@@ -27,9 +27,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "mountain_ruin",
-            "x": 1040,
-            "y": 750
+            "x": 1600,
+            "y": 965
           }
         ]
       },
@@ -47,13 +48,13 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 1020,
-            "y": 670
+            "x": 1570,
+            "y": 850
           }
         ]
       },
       {
-        "name": "Bottom, Near Tents 1",
+        "name": "Bottom, Near Twin Tents",
         "sections": [
           {
             "name": "Scraps",
@@ -66,8 +67,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 1010,
-            "y": 590
+            "x": 1550,
+            "y": 740
           }
         ]
       },
@@ -85,8 +86,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 1000,
-            "y": 680
+            "x": 1535,
+            "y": 860
           }
         ]
       },
@@ -105,13 +106,13 @@
           {
             "map": "mountain_ruin",
             "shape": "trapezoid",
-            "x": 865,
-            "y": 655
+            "x": 1360,
+            "y": 840
           }
         ]
       },
       {
-        "name": "Bottom, Near Tents 2",
+        "name": "Bottom, Near Lonely Tent",
         "sections": [
           {
             "name": "Scraps",
@@ -124,8 +125,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 1050,
-            "y": 600
+            "x": 1610,
+            "y": 750
           }
         ]
       },
@@ -143,13 +144,13 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 1000,
-            "y": 495
+            "x": 1495,
+            "y": 620
           }
         ]
       },
       {
-        "name": "Downhill Path, On Rocks 1",
+        "name": "Downhill Path, On Rocks, Bottom",
         "sections": [
           {
             "name": "Scraps",
@@ -162,8 +163,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 925,
-            "y": 450
+            "x": 1440,
+            "y": 540
           }
         ]
       },
@@ -181,8 +182,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 870,
-            "y": 280
+            "x": 1380,
+            "y": 310
           }
         ]
       },
@@ -200,8 +201,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 760,
-            "y": 290
+            "x": 1205,
+            "y": 310
           }
         ]
       },
@@ -219,8 +220,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 700,
-            "y": 270
+            "x": 1120,
+            "y": 285
           }
         ]
       },
@@ -238,13 +239,13 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 720,
-            "y": 120
+            "x": 1240,
+            "y": 65
           }
         ]
       },
       {
-        "name": "Pillars, Near Tents 2",
+        "name": "Pillars, Near Tents, Bottom",
         "sections": [
           {
             "name": "Scraps",
@@ -257,13 +258,13 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 640,
-            "y": 155
+            "x": 1040,
+            "y": 105
           }
         ]
       },
       {
-        "name": "Pillars, Near Tents 1",
+        "name": "Pillars, Near Tents, Top",
         "sections": [
           {
             "name": "Scraps",
@@ -276,8 +277,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 650,
-            "y": 160
+            "x": 1035,
+            "y": 95
           }
         ]
       },
@@ -295,13 +296,13 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 590,
-            "y": 180
+            "x": 950,
+            "y": 150
           }
         ]
       },
       {
-        "name": "Downhill Path, On Rocks 2",
+        "name": "Downhill Path, On Rocks, Top",
         "sections": [
           {
             "name": "Scraps",
@@ -314,8 +315,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 960,
-            "y": 470
+            "x": 1480,
+            "y": 575
           }
         ]
       },
@@ -333,8 +334,8 @@
         "map_locations": [
           {
             "map": "mountain_ruin",
-            "x": 720,
-            "y": 480
+            "x": 1170,
+            "y": 575
           }
         ]
       },
@@ -378,8 +379,8 @@
             "map": "mountain_ruin",
             "size": 75,
             "shape": "trapezoid",
-            "x": 670,
-            "y": 345
+            "x": 1085,
+            "y": 375
           }
         ]
       }

@@ -220,8 +220,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 730,
-            "y": 505
+            "x": 895,
+            "y": 635
           }
         ]
       },
@@ -240,8 +240,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 710,
-            "y": 490
+            "x": 920,
+            "y": 640
           }
         ]
       },
@@ -259,89 +259,13 @@
         "map_locations": [
           {
             "map": "mob_camp",
-            "x": 600,
-            "y": 360
+            "x": 760,
+            "y": 480
           }
         ]
       },
       {
         "name": "Rest Shelter, Between Tents, Top",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "mob_camp",
-            "x": 600,
-            "y": 250
-          }
-        ]
-      },
-      {
-        "name": "Workshop, Near Beams",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "mob_camp",
-            "x": 650,
-            "y": 110
-          }
-        ]
-      },
-      {
-        "name": "Workshop, Under Stairs",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "mob_camp",
-            "x": 775,
-            "y": 115
-          }
-        ]
-      },
-      {
-        "name": "Workshop, Near Water Tank",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "mob_camp",
-            "x": 690,
-            "y": 190
-          }
-        ]
-      },
-      {
-        "name": "Rest Shelter, Near Campfire",
         "sections": [
           {
             "name": "Scraps",
@@ -360,6 +284,83 @@
         ]
       },
       {
+        "name": "Workshop, Near Beams",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mob_camp",
+            "x": 815,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Workshop, Under Stairs",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "shape": "diamond",
+            "map": "mob_camp",
+            "x": 970,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Workshop, Near Water Tank",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mob_camp",
+            "x": 865,
+            "y": 265
+          }
+        ]
+      },
+      {
+        "name": "Rest Shelter, Near Campfire",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mob_camp",
+            "x": 945,
+            "y": 955
+          }
+        ]
+      },
+      {
         "name": "Workshop, In Tower",
         "sections": [
           {
@@ -374,8 +375,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 740,
-            "y": 105
+            "x": 940,
+            "y": 160
           }
         ]
       },
@@ -394,8 +395,8 @@
           {
             "map": "mob_camp",
             "shape": "trapezoid",
-            "x": 690,
-            "y": 350
+            "x": 875,
+            "y": 475
           }
         ]
       },
@@ -413,8 +414,8 @@
         "map_locations": [
           {
             "map": "mob_camp",
-            "x": 940,
-            "y": 570
+            "x": 1165,
+            "y": 730
           }
         ]
       }
