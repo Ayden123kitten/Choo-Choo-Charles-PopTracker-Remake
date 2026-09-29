@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 750,
-            "y": 270
+            "x": 935,
+            "y": 340
           }
         ]
       },
@@ -40,8 +40,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 580,
-            "y": 545
+            "x": 915,
+            "y": 565
           }
         ]
       },
@@ -59,8 +59,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 675,
-            "y": 300
+            "x": 840,
+            "y": 350
           }
         ]
       },
@@ -78,8 +78,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 745,
-            "y": 175
+            "x": 920,
+            "y": 190
           }
         ]
       },
@@ -97,7 +97,7 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 615,
+            "x": 760,
             "y": 65
           }
         ]
@@ -116,8 +116,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 465,
-            "y": 335
+            "x": 580,
+            "y": 380
           }
         ]
       },
@@ -135,8 +135,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 725,
-            "y": 600
+            "x": 890,
+            "y": 730
           }
         ]
       },
@@ -154,8 +154,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 1055,
-            "y": 685
+            "x": 1305,
+            "y": 835
           }
         ]
       },
@@ -173,8 +173,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 1380,
-            "y": 615
+            "x": 1695,
+            "y": 710
           }
         ]
       },
@@ -192,8 +192,8 @@
         "map_locations": [
           {
             "map": "doll_woods",
-            "x": 1000,
-            "y": 465
+            "x": 1235,
+            "y": 565
           }
         ]
       }

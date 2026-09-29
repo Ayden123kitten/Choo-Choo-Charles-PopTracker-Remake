@@ -16,8 +16,8 @@
         "map_locations": [
           {
             "map": "lost_stairs",
-            "x": 800,
-            "y": 460
+            "x": 1015,
+            "y": 685
           }
         ]
       },
@@ -35,8 +35,8 @@
         "map_locations": [
           {
             "map": "lost_stairs",
-            "x": 820,
-            "y": 260
+            "x": 1055,
+            "y": 415
           }
         ]
       }
