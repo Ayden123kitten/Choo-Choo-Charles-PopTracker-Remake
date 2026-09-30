@@ -1,5 +1,5 @@
 {
-  "unlock_item_grid": {
+  "lockpick_keys_item_grid": {
     "type": "array",
     "orientation": "horizontal",
     "margin": "2,2",
