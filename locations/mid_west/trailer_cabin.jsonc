@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "trailer_cabin",
-            "x": 880,
-            "y": 415
+            "x": 1120,
+            "y": 475
           }
         ]
       },
@@ -39,9 +39,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "trailer_cabin",
-            "x": 800,
-            "y": 535
+            "x": 1000,
+            "y": 540
           }
         ]
       },
@@ -59,8 +60,8 @@
         "map_locations": [
           {
             "map": "trailer_cabin",
-            "x": 615,
-            "y": 625
+            "x": 800,
+            "y": 720
           }
         ]
       },
@@ -78,8 +79,8 @@
         "map_locations": [
           {
             "map": "trailer_cabin",
-            "x": 905,
-            "y": 555
+            "x": 1150,
+            "y": 660
           }
         ]
       },
@@ -96,9 +97,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "trailer_cabin",
-            "x": 810,
-            "y": 640
+            "x": 1040,
+            "y": 740
           }
         ]
       },
@@ -116,8 +118,8 @@
         "map_locations": [
           {
             "map": "trailer_cabin",
-            "x": 700,
-            "y": 155
+            "x": 905,
+            "y": 150
           }
         ]
       }

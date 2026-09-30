@@ -1,4 +1,6 @@
+-- Main
 Tracker:AddLocations("locations/worldmap_no_notes.jsonc")
+Tracker:AddLocations("locations/worldmap.jsonc")
 
 -- South
 Tracker:AddLocations("locations/south/barn.jsonc")
@@ -26,14 +28,14 @@ Tracker:AddLocations("locations/central/temple.jsonc")
 Tracker:AddLocations("locations/central/pickle_valley.jsonc")
 
 -- East
-Tracker:AddLocations("locations/east/trench_house.jsonc")
+Tracker:AddLocations("locations/east/cliff_house.jsonc")
 Tracker:AddLocations("locations/east/doll_woods.jsonc")
 Tracker:AddLocations("locations/east/lighthouse.jsonc")
-Tracker:AddLocations("locations/east/tower_near_workshop.jsonc")
 Tracker:AddLocations("locations/east/lost_stairs.jsonc")
 Tracker:AddLocations("locations/east/rocket_grounds.jsonc")
+Tracker:AddLocations("locations/east/tower_near_workshop.jsonc")
+Tracker:AddLocations("locations/east/trench_house.jsonc")
 Tracker:AddLocations("locations/east/workshop.jsonc")
-Tracker:AddLocations("locations/east/cliff_house.jsonc")
 
 -- North
 Tracker:AddLocations("locations/north/barbed_shelter.jsonc")

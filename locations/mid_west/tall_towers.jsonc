@@ -20,9 +20,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "tall_towers",
-            "x": 710,
-            "y": 530
+            "x": 895,
+            "y": 665
           }
         ]
       },
@@ -40,8 +41,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 890,
-            "y": 530
+            "x": 1125,
+            "y": 665
           }
         ]
       },
@@ -59,8 +60,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 940,
-            "y": 415
+            "x": 1200,
+            "y": 510
           }
         ]
       },
@@ -78,8 +79,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 940,
-            "y": 530
+            "x": 1190,
+            "y": 680
           }
         ]
       },
@@ -97,8 +98,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 1015,
-            "y": 570
+            "x": 1290,
+            "y": 710
           }
         ]
       },
@@ -116,8 +117,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 760,
-            "y": 650
+            "x": 955,
+            "y": 820
           }
         ]
       },
@@ -135,8 +136,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 780,
-            "y": 440
+            "x": 980,
+            "y": 555
           }
         ]
       },
@@ -154,8 +155,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 865,
-            "y": 315
+            "x": 1090,
+            "y": 385
           }
         ]
       },
@@ -173,8 +174,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 750,
-            "y": 315
+            "x": 940,
+            "y": 380
           }
         ]
       },
@@ -192,8 +193,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 660,
-            "y": 310
+            "x": 815,
+            "y": 380
           }
         ]
       },
@@ -211,8 +212,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 600,
-            "y": 155
+            "x": 730,
+            "y": 170
           }
         ]
       },
@@ -230,8 +231,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 570,
-            "y": 440
+            "x": 690,
+            "y": 550
           }
         ]
       },
@@ -264,8 +265,8 @@
           {
             "map": "tall_towers",
             "size": 60,
-            "x": 740,
-            "y": 430
+            "x": 925,
+            "y": 535
           }
         ]
       },
@@ -292,8 +293,8 @@
           {
             "map": "tall_towers",
             "size": 60,
-            "x": 815,
-            "y": 495
+            "x": 1020,
+            "y": 610
           }
         ]
       },
@@ -311,8 +312,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 955,
-            "y": 190
+            "x": 1210,
+            "y": 215
           }
         ]
       },
@@ -330,8 +331,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 1010,
-            "y": 60
+            "x": 1285,
+            "y": 35
           }
         ]
       },
@@ -349,8 +350,8 @@
         "map_locations": [
           {
             "map": "tall_towers",
-            "x": 695,
-            "y": 515
+            "x": 875,
+            "y": 650
           }
         ]
       }
