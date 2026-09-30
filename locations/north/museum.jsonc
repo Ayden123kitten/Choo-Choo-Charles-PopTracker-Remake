@@ -21,8 +21,8 @@
         "map_locations": [
           {
             "map": "museum",
-            "x": 500,
-            "y": 320
+            "x": 640,
+            "y": 410
           }
         ]
       },
@@ -40,8 +40,8 @@
         "map_locations": [
           {
             "map": "museum",
-            "x": 640,
-            "y": 360
+            "x": 805,
+            "y": 465
           }
         ]
       },
@@ -59,8 +59,8 @@
         "map_locations": [
           {
             "map": "museum",
-            "x": 720,
-            "y": 320
+            "x": 910,
+            "y": 400
           }
         ]
       },
@@ -78,8 +78,8 @@
         "map_locations": [
           {
             "map": "museum",
-            "x": 890,
-            "y": 350
+            "x": 1115,
+            "y": 435
           }
         ]
       },
@@ -97,8 +97,8 @@
         "map_locations": [
           {
             "map": "museum",
-            "x": 790,
-            "y": 450
+            "x": 990,
+            "y": 595
           }
         ]
       },
@@ -117,8 +117,8 @@
           {
             "map": "museum",
             "shape": "trapezoid",
-            "x": 690,
-            "y": 510
+            "x": 860,
+            "y": 640
           }
         ]
       },
@@ -137,8 +137,8 @@
           {
             "map": "museum",
             "shape": "trapezoid",
-            "x": 730,
-            "y": 520
+            "x": 850,
+            "y": 630
           }
         ]
       },
@@ -157,8 +157,8 @@
           {
             "map": "museum",
             "shape": "trapezoid",
-            "x": 750,
-            "y": 460
+            "x": 940,
+            "y": 580
           }
         ]
       },
@@ -177,8 +177,8 @@
           {
             "map": "museum",
             "shape": "trapezoid",
-            "x": 750,
-            "y": 390
+            "x": 935,
+            "y": 495
           }
         ]
       },
@@ -191,14 +191,21 @@
             "item_size": "32,64",
             "chest_unopened_img": "images/notes/note.png",
             "chest_opened_img": "images/notes_disabled/note.png"
+          },
+          {
+            "name": "scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
           }
         ],
         "map_locations": [
           {
             "map": "museum",
             "shape": "trapezoid",
-            "x": 745,
-            "y": 340
+            "x": 930,
+            "y": 445
           }
         ]
       },
@@ -216,9 +223,9 @@
         "map_locations": [
           {
             "map": "museum",
-            "shape": "trapezoid",
-            "x": 730,
-            "y": 330
+            "shape": "diamond",
+            "x": 915,
+            "y": 425
           }
         ]
       },
@@ -236,8 +243,8 @@
         "map_locations": [
           {
             "map": "museum",
-            "x": 1300,
-            "y": 450
+            "x": 1605,
+            "y": 555
           }
         ]
       },
@@ -255,8 +262,8 @@
         "map_locations": [
           {
             "map": "museum",
-            "x": 1220,
-            "y": 475
+            "x": 1545,
+            "y": 605
           }
         ]
       },
@@ -279,9 +286,10 @@
         ],
         "map_locations": [
           {
+            "shape": "diamond",
             "map": "museum",
-            "x": 670,
-            "y": 390
+            "x": 840,
+            "y": 495
           }
         ]
       }

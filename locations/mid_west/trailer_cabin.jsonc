@@ -39,7 +39,6 @@
         ],
         "map_locations": [
           {
-            "shape": "diamond",
             "map": "trailer_cabin",
             "x": 1000,
             "y": 540

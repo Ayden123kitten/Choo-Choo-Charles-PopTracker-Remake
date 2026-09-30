@@ -46,8 +46,8 @@
             "map": "north_mine",
             "size": 60,
             "shape": "trapezoid",
-            "x": 610,
-            "y": 530
+            "x": 820,
+            "y": 690
           }
         ]
       },
@@ -65,8 +65,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 880,
-            "y": 755
+            "x": 1165,
+            "y": 965
           }
         ]
       },
@@ -84,8 +84,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 805,
-            "y": 740
+            "x": 1075,
+            "y": 950
           }
         ]
       },
@@ -103,8 +103,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 610,
-            "y": 575
+            "x": 835,
+            "y": 730
           }
         ]
       },
@@ -122,8 +122,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 590,
-            "y": 655
+            "x": 795,
+            "y": 835
           }
         ]
       },
@@ -141,8 +141,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 500,
-            "y": 600
+            "x": 690,
+            "y": 760
           }
         ]
       },
@@ -160,8 +160,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 755,
-            "y": 600
+            "x": 995,
+            "y": 750
           }
         ]
       },
@@ -179,8 +179,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 715,
-            "y": 460
+            "x": 960,
+            "y": 580
           }
         ]
       },
@@ -198,8 +198,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 670,
-            "y": 370
+            "x": 895,
+            "y": 475
           }
         ]
       },
@@ -217,8 +217,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 760,
-            "y": 300
+            "x": 1010,
+            "y": 390
           }
         ]
       },
@@ -236,8 +236,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 915,
-            "y": 165
+            "x": 1205,
+            "y": 220
           }
         ]
       },
@@ -255,8 +255,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 790,
-            "y": 200
+            "x": 1045,
+            "y": 270
           }
         ]
       },
@@ -274,8 +274,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 590,
-            "y": 400
+            "x": 800,
+            "y": 515
           }
         ]
       },
@@ -293,8 +293,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 710,
-            "y": 320
+            "x": 950,
+            "y": 405
           }
         ]
       },
@@ -312,8 +312,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 880,
-            "y": 120
+            "x": 1160,
+            "y": 165
           }
         ]
       },
@@ -322,7 +322,7 @@
         "sections": [
           {
             "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
+            "visibility_rules": ["scraps_enabled", "core_disabled"],
             "item_size": "64,32",
             "chest_unopened_img": "images/items/scraps.png",
             "chest_opened_img": "images/items_disabled/scraps.png"
@@ -331,8 +331,8 @@
         "map_locations": [
           {
             "map": "north_mine",
-            "x": 825,
-            "y": 385
+            "x": 1090,
+            "y": 475
           }
         ]
       }

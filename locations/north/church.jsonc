@@ -8,7 +8,7 @@
     ],
     "children": [
       {
-        "name": "On Seat",
+        "name": "Inside, On Seat",
         "visibility_rules": ["paint_cans_enabled"],
         "sections": [
           {
@@ -22,8 +22,8 @@
           {
             "map": "church",
             "shape": "trapezoid",
-            "x": 570,
-            "y": 230
+            "x": 780,
+            "y": 265
           }
         ]
       },
@@ -41,8 +41,8 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 1040,
-            "y": 140
+            "x": 1370,
+            "y": 180
           }
         ]
       },
@@ -60,8 +60,8 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 620,
-            "y": 25
+            "x": 850,
+            "y": 55
           }
         ]
       },
@@ -79,8 +79,8 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 400,
-            "y": 175
+            "x": 555,
+            "y": 225
           }
         ]
       },
@@ -98,8 +98,8 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 530,
-            "y": 440
+            "x": 730,
+            "y": 565
           }
         ]
       },
@@ -117,8 +117,8 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 580,
-            "y": 280
+            "x": 790,
+            "y": 370
           }
         ]
       },
@@ -136,8 +136,27 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 775,
-            "y": 645
+            "x": 1020,
+            "y": 810
+          }
+        ]
+      },
+      {
+        "name": "Graveyard, Near Graves, Bottom",
+        "sections": [
+          {
+            "name": "Scraps",
+            "visibility_rules": ["scraps_enabled"],
+            "item_size": "64,32",
+            "chest_unopened_img": "images/items/scraps.png",
+            "chest_opened_img": "images/items_disabled/scraps.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 1130,
+            "y": 1065
           }
         ]
       },
@@ -155,27 +174,8 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 910,
-            "y": 600
-          }
-        ]
-      },
-      {
-        "name": "Graveyard, Near Graves, Middle",
-        "sections": [
-          {
-            "name": "Scraps",
-            "visibility_rules": ["scraps_enabled"],
-            "item_size": "64,32",
-            "chest_unopened_img": "images/items/scraps.png",
-            "chest_opened_img": "images/items_disabled/scraps.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "church",
-            "x": 850,
-            "y": 840
+            "x": 1190,
+            "y": 775
           }
         ]
       },
@@ -194,8 +194,8 @@
           {
             "map": "church",
             "shape": "trapezoid",
-            "x": 435,
-            "y": 250
+            "x": 610,
+            "y": 300
           }
         ]
       },
@@ -214,8 +214,28 @@
           {
             "map": "church",
             "shape": "trapezoid",
-            "x": 600,
-            "y": 100
+            "x": 815,
+            "y": 125
+          }
+        ]
+      },
+      {
+        "name": "Inside, On Table",
+        "sections": [
+          {
+            "name": "Note",
+            "visibility_rules": ["notes_enabled"],
+            "item_size": "32,64",
+            "chest_unopened_img": "images/notes/note.png",
+            "chest_opened_img": "images/notes_disabled/note.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "church",
+            "shape": "trapezoid",
+            "x": 820,
+            "y": 205
           }
         ]
       },
@@ -234,8 +254,8 @@
           {
             "map": "church",
             "shape": "trapezoid",
-            "x": 470,
-            "y": 280
+            "x": 660,
+            "y": 330
           }
         ]
       },
@@ -253,8 +273,8 @@
         "map_locations": [
           {
             "map": "church",
-            "x": 780,
-            "y": 160
+            "x": 1025,
+            "y": 215
           }
         ]
       }

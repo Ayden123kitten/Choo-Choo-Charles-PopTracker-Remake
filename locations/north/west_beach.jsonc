@@ -23,9 +23,9 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "shape": "trapezoid",
-            "x": 565,
-            "y": 410
+            "shape": "diamond",
+            "x": 720,
+            "y": 510
           }
         ]
       },
@@ -43,8 +43,8 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "x": 710,
-            "y": 225
+            "x": 930,
+            "y": 295
           }
         ]
       },
@@ -62,8 +62,8 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "x": 725,
-            "y": 315
+            "x": 935,
+            "y": 415
           }
         ]
       },
@@ -81,8 +81,8 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "x": 705,
-            "y": 345
+            "x": 905,
+            "y": 440
           }
         ]
       },
@@ -100,8 +100,8 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "x": 630,
-            "y": 275
+            "x": 800,
+            "y": 360
           }
         ]
       },
@@ -119,8 +119,8 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "x": 525,
-            "y": 305
+            "x": 680,
+            "y": 390
           }
         ]
       },
@@ -138,8 +138,8 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "x": 735,
-            "y": 600
+            "x": 745,
+            "y": 760
           }
         ]
       },
@@ -157,9 +157,9 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "shape": "trapezoid",
-            "x": 490,
-            "y": 385
+            "shape": "diamond",
+            "x": 650,
+            "y": 490
           }
         ]
       },
@@ -177,8 +177,8 @@
         "map_locations": [
           {
             "map": "west_beach",
-            "x": 875,
-            "y": 50
+            "x": 1120,
+            "y": 75
           }
         ]
       }

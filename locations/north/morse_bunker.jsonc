@@ -24,8 +24,8 @@
           {
             "map": "morse_bunker",
             "shape": "trapezoid",
-            "x": 600,
-            "y": 220
+            "x": 825,
+            "y": 285
           }
         ]
       },
@@ -44,8 +44,8 @@
           {
             "map": "morse_bunker",
             "shape": "trapezoid",
-            "x": 590,
-            "y": 235
+            "x": 815,
+            "y": 285
           }
         ]
       },
@@ -64,8 +64,8 @@
           {
             "map": "morse_bunker",
             "shape": "trapezoid",
-            "x": 600,
-            "y": 240
+            "x": 795,
+            "y": 310
           }
         ]
       },
@@ -84,8 +84,8 @@
           {
             "map": "morse_bunker",
             "shape": "trapezoid",
-            "x": 580,
-            "y": 275
+            "x": 795,
+            "y": 335
           }
         ]
       },
@@ -103,8 +103,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 635,
-            "y": 300
+            "x": 865,
+            "y": 370
           }
         ]
       },
@@ -122,8 +122,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 660,
-            "y": 240
+            "x": 880,
+            "y": 300
           }
         ]
       },
@@ -141,8 +141,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 590,
-            "y": 270
+            "x": 815,
+            "y": 326
           }
         ]
       },
@@ -160,8 +160,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 705,
-            "y": 410
+            "x": 955,
+            "y": 515
           }
         ]
       },
@@ -179,8 +179,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 800,
-            "y": 270
+            "x": 1060,
+            "y": 335
           }
         ]
       },
@@ -198,8 +198,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 900,
-            "y": 380
+            "x": 1180,
+            "y": 455
           }
         ]
       },
@@ -217,8 +217,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 795,
-            "y": 590
+            "x": 1065,
+            "y": 730
           }
         ]
       },
@@ -236,8 +236,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 690,
-            "y": 480
+            "x": 930,
+            "y": 595
           }
         ]
       },
@@ -255,8 +255,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 490,
-            "y": 380
+            "x": 680,
+            "y": 465
           }
         ]
       },
@@ -274,8 +274,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 710,
-            "y": 195
+            "x": 950,
+            "y": 240
           }
         ]
       },
@@ -293,8 +293,8 @@
         "map_locations": [
           {
             "map": "morse_bunker",
-            "x": 920,
-            "y": 215
+            "x": 1220,
+            "y": 250
           }
         ]
       }
