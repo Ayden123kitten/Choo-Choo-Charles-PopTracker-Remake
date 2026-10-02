@@ -7,6 +7,14 @@
       "changelog": [
         "The 3.0.0 overhaul of the PopTracker Pack for Choo-Choo Charles."
       ]
+    },
+    {
+      "package_version": "3.0.1",
+      "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.1/Choo-Choo-Charles-Tracker.zip",
+      "sha256": "e1429860c43429cd4bd277f6b9266d47e1012338459ee6ecc8dc5f76c43fdec9",
+      "changelog": [
+        "Renamed some locations and fixed some autotracking bugs."
+      ]
     }
   ]
 }
