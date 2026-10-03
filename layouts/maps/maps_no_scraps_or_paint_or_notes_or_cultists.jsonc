@@ -158,13 +158,6 @@
               }
             },
             {
-              "title": "Temple",
-              "content": {
-                "type": "map",
-                "maps": ["temple"]
-              }
-            },
-            {
               "title": "Watchtower",
               "content": {
                 "type": "map",
@@ -287,13 +280,6 @@
               "content": {
                 "type": "map",
                 "maps": ["museum"]
-              }
-            },
-            {
-              "title": "North Beach",
-              "content": {
-                "type": "map",
-                "maps": ["north_beach"]
               }
             },
             {

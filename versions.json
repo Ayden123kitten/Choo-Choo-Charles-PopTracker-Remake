@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "3.0.3",
+      "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.3/Choo-Choo-Charles-Tracker.zip",
+      "sha256": "7e69a08a5dbc7f1b621df15ab77438c19d6aa60b7c55beb4e85bd12d41db49fc",
+      "changelog": [
+        "Added cultists."
+      ]
+    },
+    {
       "package_version": "3.0.2",
       "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.2/Choo-Choo-Charles-Tracker.zip",
       "sha256": "6023f5cf4c078fe3378ae9f01f919efb71a910a1e076ad726e4ce2f85ce192ac",

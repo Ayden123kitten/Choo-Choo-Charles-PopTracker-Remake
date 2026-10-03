@@ -102,25 +102,25 @@ end
 
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
-if slot_data["TrackSwitches"] then
-    Tracker:FindObjectForCode("track_switch_toggle").CurrentStage = slot_data["TrackSwitches"]
-end
+	if slot_data["TrackSwitches"] then
+		Tracker:FindObjectForCode("track_switch_toggle").CurrentStage = slot_data["TrackSwitches"]
+	end
 
-if slot_data["CursedFogs"] then
-    Tracker:FindObjectForCode("cursed_fogs_toggle").CurrentStage = slot_data["CursedFogs"]
-end
+	if slot_data["CursedFogs"] then
+		Tracker:FindObjectForCode("cursed_fogs_toggle").CurrentStage = slot_data["CursedFogs"]
+	end
 
-if slot_data["SpeedUpgrade"] then
-    Tracker:FindObjectForCode("speed_toggle").CurrentStage = slot_data["SpeedUpgrade"]
-end
+	if slot_data["SpeedUpgrade"] then
+		Tracker:FindObjectForCode("speed_toggle").CurrentStage = slot_data["SpeedUpgrade"]
+	end
 
-if slot_data["ArmorUpgrade"] then
-    Tracker:FindObjectForCode("armor_toggle").CurrentStage = slot_data["ArmorUpgrade"]
-end
+	if slot_data["ArmorUpgrade"] then
+		Tracker:FindObjectForCode("armor_toggle").CurrentStage = slot_data["ArmorUpgrade"]
+	end
 
-if slot_data["DamageUpgrade"] then
-    Tracker:FindObjectForCode("damage_toggle").CurrentStage = slot_data["DamageUpgrade"]
-end
+	if slot_data["DamageUpgrade"] then
+		Tracker:FindObjectForCode("damage_toggle").CurrentStage = slot_data["DamageUpgrade"]
+	end
 end
 
 -- called right after an AP slot is connected
