@@ -126,14 +126,15 @@ end
 -- called right after an AP slot is connected
 function onClear(slot_data)
 	PLAYER_ID = Archipelago.PlayerNumber or -1
-	if PLAYER_ID > -1 then
-		local version_name = Archipelago:GetPlayerGame(PLAYER_ID)
+    if PLAYER_ID > -1 then
+        local version_name = Archipelago:GetPlayerGame(PLAYER_ID)
         if version_name == "Choo-Choo Charles" then
-            Tracker:FindObjectForCode("selected_game").CurrentStage = 1
+            Tracker:FindObjectForCode("core_toggle").CurrentStage = 1
         elseif version_name == "Choo-Choo Charles - Enhanced" then
-            Tracker:FindObjectForCode("selected_game").CurrentStage = 0
+            Tracker:FindObjectForCode("core_toggle").CurrentStage = 0
         end
-	end
+    end
+
 	-- use bulk update to pause logic updates until we are done resetting all items/locations
 	Tracker.BulkUpdate = true
 	if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
