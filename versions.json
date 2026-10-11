@@ -1,11 +1,19 @@
 {
   "versions": [
     {
+      "package_version": "3.0.5",
+      "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.5/Choo-Choo-Charles-Tracker.zip",
+      "sha256": "bc081547a4866708bdaeb349e81b3cded3ee2c5243ecf3cffdcef2ae5527c518",
+      "changelog": [
+        "Fixed the setting Autotracking (for real this time)."
+      ]
+    },
+    {
       "package_version": "3.0.4",
       "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.4/Choo-Choo-Charles-Tracker.zip",
       "sha256": "6b8ad764872d5494e57e13b57f764329433f11fbc471efcc681275427dcc0cd9",
       "changelog": [
-        "Added cultists."
+        "Fixed the autotracking for settings and fixed the locations of a few locations."
       ]
     },
     {
