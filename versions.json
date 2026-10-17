@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "3.0.6",
+      "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.6/Choo-Choo-Charles-Tracker.zip",
+      "sha256": "44b3de0595574576f0bf1377f43a142885fc7ff7f1f38733ca77b08a1e95640e",
+      "changelog": [
+        "Fixed the Temple Fogbane Relic not appearing in the Goal Items when Fogbane Relics are enabled."
+      ]
+    },
+    {
       "package_version": "3.0.5",
       "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.5/Choo-Choo-Charles-Tracker.zip",
       "sha256": "bc081547a4866708bdaeb349e81b3cded3ee2c5243ecf3cffdcef2ae5527c518",
