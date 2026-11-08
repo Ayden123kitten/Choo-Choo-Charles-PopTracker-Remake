@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "3.0.7",
+      "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.7/Choo-Choo-Charles-Tracker.zip",
+      "sha256": "72c65f9f956982d5508de368d3fc6fc6171bb6975718cc0619d57f21bec03bfd",
+      "changelog": [
+        "Fixed the autotracking and location name for a location in Museum, 2 in Tower Near Workshop, Church and Pickle Valley."
+      ]
+    },
+    {
       "package_version": "3.0.6",
       "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.6/Choo-Choo-Charles-Tracker.zip",
       "sha256": "44b3de0595574576f0bf1377f43a142885fc7ff7f1f38733ca77b08a1e95640e",
@@ -12,9 +20,7 @@
       "package_version": "3.0.5",
       "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.5/Choo-Choo-Charles-Tracker.zip",
       "sha256": "bc081547a4866708bdaeb349e81b3cded3ee2c5243ecf3cffdcef2ae5527c518",
-      "changelog": [
-        "Fixed the setting Autotracking (for real this time)."
-      ]
+      "changelog": ["Fixed the setting Autotracking (for real this time)."]
     },
     {
       "package_version": "3.0.4",
@@ -28,9 +34,7 @@
       "package_version": "3.0.3",
       "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.3/Choo-Choo-Charles-Tracker.zip",
       "sha256": "7e69a08a5dbc7f1b621df15ab77438c19d6aa60b7c55beb4e85bd12d41db49fc",
-      "changelog": [
-        "Added cultists."
-      ]
+      "changelog": ["Added cultists."]
     },
     {
       "package_version": "3.0.2",
@@ -44,9 +48,7 @@
       "package_version": "3.0.1",
       "download_url": "https://github.com/Ayden123kitten/Choo-Choo-Charles-PopTracker-Remake/releases/download/3.0.1/Choo-Choo-Charles-Tracker.zip",
       "sha256": "e1429860c43429cd4bd277f6b9266d47e1012338459ee6ecc8dc5f76c43fdec9",
-      "changelog": [
-        "Renamed some locations and fixed some autotracking bugs."
-      ]
+      "changelog": ["Renamed some locations and fixed some autotracking bugs."]
     },
     {
       "package_version": "3.0.0",
