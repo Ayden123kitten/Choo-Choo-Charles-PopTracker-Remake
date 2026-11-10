@@ -6,7 +6,7 @@
         "title": "Full Map",
         "content": {
           "type": "map",
-          "maps": ["aranearum_no_notes"]
+          "maps": ["aranearum"]
         }
       },
       {

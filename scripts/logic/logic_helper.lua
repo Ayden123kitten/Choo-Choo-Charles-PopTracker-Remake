@@ -188,28 +188,20 @@ local cultists = Tracker:FindObjectForCode("cultists_toggle")
 local train_access = Tracker:FindObjectForCode("train_access_toggle")
 if scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage == 0 and cultists.CurrentStage == 0 then
     Tracker:AddLayouts("layouts/maps/maps_no_scraps_or_paint_or_notes_or_cultists.jsonc")
-    Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
     elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps_or_notes.jsonc")
-        Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
     elseif scraps.CurrentStage == 0 and notes.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_notes_or_scraps.jsonc")
-        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
     elseif scraps.CurrentStage == 0 and paint.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps.jsonc")
-        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
     elseif scraps.CurrentStage == 0 and cultists.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_scraps_or_cultists.jsonc")
-        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
     elseif notes.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc")
-        Tracker:AddLayouts("layouts/maps/worldmap_no_notes.jsonc")
     elseif scraps.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_scraps.jsonc")
-        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
     elseif scraps.CurrentStage == 1 and notes.CurrentStage == 1 and paint.CurrentStage == 1 then
         Tracker:AddLayouts("layouts/maps/maps.jsonc")
-        Tracker:AddLayouts("layouts/maps/worldmap.jsonc")
     end
 end
 

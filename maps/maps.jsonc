@@ -5,12 +5,6 @@
     "location_border_thickness": 4,
     "img": "images/maps/aranearum.png"
   },
-  {
-    "name": "aranearum_no_notes",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/aranearum.png"
-  },
   // South
   {
     "name": "barn",

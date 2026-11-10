@@ -691,5 +691,6 @@ LOCATION_MAPPING = {
     [66601688] = {{"@Aranearum/Temple/Scraps"},{"@Temple/Around, Northeast, Inside, Near Table/Scraps"}},
     [66601689] = {{"@Aranearum/Temple/Scraps"},{"@Temple/Around, Northeast, Between Beams/Scraps"}},
     [66601690] = {{"@Aranearum/Temple/Scraps"},{"@Temple/Around, Northeast, Near Beams/Scraps"}},
-    [66601691] = {{"@Aranearum/Temple/Scraps"},{"@Temple/Around, East, On Path/Scraps"}}
+    [66601691] = {{"@Aranearum/Temple/Scraps"},{"@Temple/Around, East, On Path/Scraps"}},
+    [66601692] = {{"@Aranearum/Start Station/Train Station Key"},{"@Start Station/In Shack/Train Station Key"}}
 }
