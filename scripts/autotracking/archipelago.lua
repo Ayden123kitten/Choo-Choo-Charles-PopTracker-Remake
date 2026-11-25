@@ -123,7 +123,7 @@ function apply_slot_data(slot_data)
 	end
 
 	if slot_data["TrainAccess"] then
-		Tracker:FindObjectForCode("train_access_toggle").CurrentStage = slot_data["TrainAccess"]
+		Tracker:FindObjectForCode("start_station_key_toggle").CurrentStage = slot_data["TrainAccess"]
 	end
 end
 

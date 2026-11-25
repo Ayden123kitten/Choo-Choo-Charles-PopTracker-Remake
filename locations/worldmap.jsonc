@@ -33,6 +33,7 @@
           },
           {
             "name": "Train Station Key",
+            "visibility_rules": ["start_station_key_enabled_toggle"],
             "item_size": "64,26",
             "chest_unopened_img": "images/items/key.png",
             "chest_opened_img": "images/items_disabled/key.png"

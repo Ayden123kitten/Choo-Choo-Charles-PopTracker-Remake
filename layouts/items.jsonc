@@ -25,7 +25,8 @@
                 "armor_toggle",
                 "notes_toggle",
                 "cultists_toggle",
-                "core_toggle"
+                "core_toggle",
+                "start_station_key_toggle"
               ]
             ]
           }
