@@ -72,20 +72,6 @@
               }
             },
             {
-              "title": "Start Dock",
-              "content": {
-                "type": "map",
-                "maps": ["start_dock"]
-              }
-            },
-            {
-              "title": "Start Station",
-              "content": {
-                "type": "map",
-                "maps": ["start_station"]
-              }
-            },
-            {
               "title": "Swamp",
               "content": {
                 "type": "map",
@@ -158,6 +144,13 @@
               }
             },
             {
+              "title": "Temple",
+              "content": {
+                "type": "map",
+                "maps": ["temple"]
+              }
+            },
+            {
               "title": "Watchtower",
               "content": {
                 "type": "map",
@@ -174,10 +167,31 @@
           "dock": "top",
           "tabs": [
             {
+              "title": "Cliff House",
+              "content": {
+                "type": "map",
+                "maps": ["cliff_house"]
+              }
+            },
+            {
+              "title": "Doll Woods",
+              "content": {
+                "type": "map",
+                "maps": ["doll_woods"]
+              }
+            },
+            {
               "title": "Lighthouse",
               "content": {
                 "type": "map",
                 "maps": ["lighthouse"]
+              }
+            },
+            {
+              "title": "Lost Stairs",
+              "content": {
+                "type": "map",
+                "maps": ["lost_stairs"]
               }
             },
             {
@@ -192,6 +206,13 @@
               "content": {
                 "type": "map",
                 "maps": ["tower_near_workshop"]
+              }
+            },
+            {
+              "title": "Trench House",
+              "content": {
+                "type": "map",
+                "maps": ["trench_house"]
               }
             },
             {
@@ -215,6 +236,13 @@
               "content": {
                 "type": "map",
                 "maps": ["caravan"]
+              }
+            },
+            {
+              "title": "Mine Elevator Exit",
+              "content": {
+                "type": "map",
+                "maps": ["mine_elevator_exit"]
               }
             },
             {
@@ -243,6 +271,13 @@
               "content": {
                 "type": "map",
                 "maps": ["tall_towers"]
+              }
+            },
+            {
+              "title": "Trailer Cabin",
+              "content": {
+                "type": "map",
+                "maps": ["trailer_cabin"]
               }
             }
           ]
@@ -297,10 +332,24 @@
               }
             },
             {
+              "title": "West Beach",
+              "content": {
+                "type": "map",
+                "maps": ["west_beach"]
+              }
+            },
+            {
               "title": "West Cottage",
               "content": {
                 "type": "map",
                 "maps": ["west_cottage"]
+              }
+            },
+            {
+              "title": "Wooden Bridge",
+              "content": {
+                "type": "map",
+                "maps": ["wooden_bridge"]
               }
             }
           ]
