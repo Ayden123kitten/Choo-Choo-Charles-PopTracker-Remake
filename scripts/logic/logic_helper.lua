@@ -216,9 +216,9 @@ end
 function OnChangeCore()
 local mode = Tracker:FindObjectForCode("core_toggle")
 if mode.CurrentStage == 0 then
-        ScriptHost:AddScript("scripts/autotracking/location_mapping.lua")
+        ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
     elseif mode.CurrentStage == 1 then
-        ScriptHost:AddScript("scripts/autotracking/location_mapping_core.lua")
+        ScriptHost:LoadScript("scripts/autotracking/location_mapping_core.lua")
     end
 end
 
