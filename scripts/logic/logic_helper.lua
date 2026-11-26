@@ -202,10 +202,10 @@ if scraps.CurrentStage == 0 and paint.CurrentStage == 0 and notes.CurrentStage =
         Tracker:AddLayouts("layouts/maps/maps_no_paint_or_scraps.jsonc")
     elseif scraps.CurrentStage == 0 and cultists.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_scraps_or_cultists.jsonc")
-    elseif notes.CurrentStage == 0 then
-        Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc")
     elseif notes.CurrentStage == 0 and key.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_notes_or_key.jsonc")
+    elseif notes.CurrentStage == 0 then
+        Tracker:AddLayouts("layouts/maps/maps_no_notes.jsonc")
     elseif scraps.CurrentStage == 0 then
         Tracker:AddLayouts("layouts/maps/maps_no_scraps.jsonc")
     else
