@@ -233,4 +233,4 @@ ScriptHost:AddWatchForCode("scraps layout handler", "scraps_toggle", OnChangeMap
 ScriptHost:AddWatchForCode("paint cans layout handler", "paint_cans_toggle", OnChangeMaps)
 ScriptHost:AddWatchForCode("cultists layout handler", "cultists_toggle", OnChangeMaps)
 ScriptHost:AddWatchForCode("core layout handler", "core_toggle", OnChangeCore)
-ScriptHost:AddWatchForCode("start station key layout handler", "start_station_key_toggle", OnChangeKey)
+ScriptHost:AddWatchForCode("start station key layout handler", "start_station_key_toggle", OnChangeMaps)
